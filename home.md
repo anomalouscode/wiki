@@ -2,10 +2,12 @@
 title: Inicio
 description: 
 published: true
-date: 2020-06-10T05:04:41.796Z
+date: 2020-06-10T08:43:22.767Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Bienvenido
-Probando probando 123
+Este es un espacio abierto de conocimiento libre. 
+
+Para aportar usar formato markdown. 
