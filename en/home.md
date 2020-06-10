@@ -2,10 +2,12 @@
 title: Home
 description: 
 published: true
-date: 2020-06-10T08:15:05.831Z
+date: 2020-06-10T08:44:37.599Z
 tags: 
 editor: markdown
 ---
 
 # Welcome
-WIP
+This is an open space of free knowledge.
+
+To contribute use markdown format.
