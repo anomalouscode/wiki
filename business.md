@@ -2,7 +2,7 @@
 title: Empresas
 description: 
 published: true
-date: 2020-06-12T05:53:05.481Z
+date: 2020-06-12T07:51:53.412Z
 tags: 
 editor: markdown
 ---
@@ -13,9 +13,9 @@ Seas un individuo trabajando para una u varias empresas o personas, quieras empr
 
 # Tipos
 
-LLC/SRL
+LLC/SRL/GmbH
 
-Corporacion/SA
+Corporación/SA/AG
 
 # Jurisdicciones
 
