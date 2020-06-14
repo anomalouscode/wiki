@@ -2,7 +2,7 @@
 title: Empresas
 description: 
 published: true
-date: 2020-06-14T06:15:45.770Z
+date: 2020-06-14T06:23:05.998Z
 tags: 
 editor: markdown
 ---
@@ -17,7 +17,11 @@ Podemos encontrar principalmente 2 formas jurídicas:
 - Las LLC (Limited Liability Company) / SRL (Sociedad de Responsabilidad Limitada) / GmbH (Gesellschaft mit beschränkter Haftung).
 - Las Corporaciones / SA (Sociedad Anónima) / AG (Aktiengesellschaft).
 
-Las LLC están sujetas a menores regulaciones, son mas flexibles y simples, las Corporaciones dividen el capital en acciones, pueden cotizar en bolsa y su sistema de gobierno . Dependiendo el país también pueden haber grandes diferencias respecto a como son tratadas impositivamente.
+Las LLC están sujetas a menores regulaciones, son mas flexibles y simples, están gobernadas por un acuerdo operativo libre entre las partes involucradas.
+
+Las Corporaciones dividen el capital en acciones y pueden cotizar en la bolsa, están gobernadas por sus accionistas proporcionalmente.
+
+Dependiendo el país también pueden haber grandes diferencias respecto a como son tratadas impositivamente.
 
 # Jurisdicciones
 
