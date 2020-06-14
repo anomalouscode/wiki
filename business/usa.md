@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-14T07:06:05.129Z
+date: 2020-06-14T07:08:44.428Z
 tags: 
 editor: markdown
 ---
@@ -15,7 +15,7 @@ Al ser un país central encontrar bancos locales es mas fácil, se puede acceder
 
 # Estados
 
-Para incorporar una empresa necesitamos elegir que tipo de empresa, en cual estado hacerlo y que agente nos va a representar localmente.
+Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál estado hacerlo y que agente nos va a representar localmente.
 
 ## Delaware
 
