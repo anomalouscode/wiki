@@ -2,20 +2,22 @@
 title: Empresas
 description: 
 published: true
-date: 2020-06-12T08:32:23.220Z
+date: 2020-06-14T06:15:45.770Z
 tags: 
 editor: markdown
 ---
 
-A la hora de llevar a cabo un proyecto, la creacion de una entidad legal puede ser fundamental para el exito de este o incluso su minimo funcionamiento.
+A la hora de llevar a cabo un proyecto, la creación de una entidad legal puede ser fundamental para el éxito de este o incluso su mínimo funcionamiento.
 
-Seas un individuo trabajando para una o varias empresas o personas, quieras emprender, quieras invertir, proteger capital, no exponerte a tantos riesgos legales a nivel individual, quieras reducir tus impuestos al minimo posible, o las leyes de tu pais no sean compatibles con lo que queres hacer y necesites otras, o incluso seas un perseguido politico, podes aprovechar uno o varios de los tantos paises que hay en el mundo a tu favor y el de tu proyecto.
+Seas un individuo trabajando para una o varias empresas o personas, quieras emprender, quieras invertir, proteger capital, no exponerte a tantos riesgos legales a nivel individual, quieras reducir tus impuestos al mínimo posible, o las leyes de tu país no sean compatibles con lo que querés hacer y necesites otras, o incluso seas un perseguido político, podes aprovechar uno o varios de los tantos países que hay en el mundo a tu favor y el de tu proyecto.
 
 # Tipos
-Podemos encontrar principalmente 2 formas juridicas:
+Podemos encontrar principalmente 2 formas jurídicas:
 
 - Las LLC (Limited Liability Company) / SRL (Sociedad de Responsabilidad Limitada) / GmbH (Gesellschaft mit beschränkter Haftung).
-- Las Corporaciones / SA (Sociedad Anonima) / AG (Aktiengesellschaft).
+- Las Corporaciones / SA (Sociedad Anónima) / AG (Aktiengesellschaft).
+
+Las LLC están sujetas a menores regulaciones, son mas flexibles y simples, las Corporaciones dividen el capital en acciones, pueden cotizar en bolsa y su sistema de gobierno . Dependiendo el país también pueden haber grandes diferencias respecto a como son tratadas impositivamente.
 
 # Jurisdicciones
 
