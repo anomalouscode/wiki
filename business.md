@@ -2,7 +2,7 @@
 title: Empresas
 description: 
 published: true
-date: 2020-06-14T06:23:05.998Z
+date: 2020-06-14T06:33:48.744Z
 tags: 
 editor: markdown
 ---
@@ -12,6 +12,7 @@ A la hora de llevar a cabo un proyecto, la creación de una entidad legal puede 
 Seas un individuo trabajando para una o varias empresas o personas, quieras emprender, quieras invertir, proteger capital, no exponerte a tantos riesgos legales a nivel individual, quieras reducir tus impuestos al mínimo posible, o las leyes de tu país no sean compatibles con lo que querés hacer y necesites otras, o incluso seas un perseguido político, podes aprovechar uno o varios de los tantos países que hay en el mundo a tu favor y el de tu proyecto.
 
 # Tipos
+
 Podemos encontrar principalmente 2 formas jurídicas:
 
 - Las LLC (Limited Liability Company) / SRL (Sociedad de Responsabilidad Limitada) / GmbH (Gesellschaft mit beschränkter Haftung).
@@ -25,4 +26,4 @@ Dependiendo el país también pueden haber grandes diferencias respecto a como s
 
 # Jurisdicciones
 
-Estados Unidos
+- [Estados Unidos](/es/business/usa)
