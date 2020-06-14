@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-14T06:57:22.195Z
+date: 2020-06-14T07:06:05.129Z
 tags: 
 editor: markdown
 ---
@@ -18,6 +18,8 @@ Al ser un país central encontrar bancos locales es mas fácil, se puede acceder
 Para incorporar una empresa necesitamos elegir que tipo de empresa, en cual estado hacerlo y que agente nos va a representar localmente.
 
 ## Delaware
+
+Conocido como el primer estado del país, más de la mitad de las 500 empresas más grandes de Estados Unidos están incorporadas en Delaware.
 
 ## Wyoming
 
