@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-24T21:03:53.798Z
+date: 2020-06-24T21:39:40.359Z
 tags: 
 editor: markdown
 ---
@@ -52,6 +52,12 @@ Comisión para registrar la empresa (única vez): 90 dólares.
 
 Pago anual al estado (desde el segundo año): 300 dólares.
 
+- **Corporación**
+
+Comisión para registrar la empresa (única vez): 90 dólares.
+
+Pago anual al estado (desde el segundo año): desde 225 dólares, dependiendo del numero de acciones emitidas y el valor de los activos de la corporación.
+
 ## Wyoming
 
 > Recomendado para ganancias mínimas de 1000 dólares mensuales.
@@ -63,7 +69,7 @@ El estado cuenta con leyes que permiten una excelente protección de activos y s
 
 ### Costos
 
-- **LLC**
+- **LLC o Corporación**
 
 Comisión para registrar la empresa (única vez): 100 dólares.
 
