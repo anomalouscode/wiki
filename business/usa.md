@@ -2,7 +2,7 @@
 title: Estados Unidos (WIP)
 description: 
 published: true
-date: 2020-06-24T06:03:00.566Z
+date: 2020-06-24T07:42:25.956Z
 tags: 
 editor: markdown
 ---
@@ -35,9 +35,7 @@ Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál est
 
 Conocido como el primer estado del país, Delaware es una de las jurisdicciones más populares del mundo para incorporar una empresa. Casi la mitad de las empresas que cotizan en bolsa en los Estados Unidos y más del 65% de las 500 más grandes están incorporadas en Delaware. Incluidos gigantes como Apple, Coca-Cola, Google y Walmart.
 
-Delaware destaca por su Tribunal de Cancillería separado, el tribunal de negocios más antiguo de los EE. UU., Casos especializados de derecho corporativo. El Tribunal de Cancillería utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo.
-
-El Tribunal de Delaware mantiene la jurisprudencia más avanzada y actualizada, que permite la previsibilidad y, por lo tanto, disminuye la responsabilidad y los litigios entre las empresas de Delaware.
+Delaware destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE. UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad legal y seguridad juridica.
 
 ## Wyoming
 
