@@ -2,7 +2,7 @@
 title: Estados Unidos (WIP)
 description: 
 published: true
-date: 2020-06-24T07:42:25.956Z
+date: 2020-06-24T09:41:48.181Z
 tags: 
 editor: markdown
 ---
@@ -33,10 +33,20 @@ Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál est
 
 ## Delaware
 
+> Recomendado para ganancias minimas de 5000 dolares mensuales.
+{.is-info}
+
 Conocido como el primer estado del país, Delaware es una de las jurisdicciones más populares del mundo para incorporar una empresa. Casi la mitad de las empresas que cotizan en bolsa en los Estados Unidos y más del 65% de las 500 más grandes están incorporadas en Delaware. Incluidos gigantes como Apple, Coca-Cola, Google y Walmart.
 
 Delaware destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE. UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad legal y seguridad juridica.
 
 ## Wyoming
 
+> Recomendado para ganancias minimas de 1000 dolares mensuales.
+{.is-info}
+
+
 ## New Mexico
+
+> Recomendado para ganancias minimas de 200 dolares mensuales.
+{.is-info}
