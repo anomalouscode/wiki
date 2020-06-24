@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-24T12:38:12.127Z
+date: 2020-06-24T20:50:49.921Z
 tags: 
 editor: markdown
 ---
@@ -48,7 +48,9 @@ Una corporación de Delaware suele ser requisito indispensable para recibir inve
 
 - **LLC**
 
-Pago anual al estado: 300 dólares
+Comisión para registrar la empresa (única vez): 90 dólares
+
+Pago anual al estado (desde el segundo año): 300 dólares
 
 ## Wyoming
 
@@ -63,7 +65,9 @@ El estado cuenta con leyes que permiten una excelente protección de activos y s
 
 - **LLC**
 
-Pago anual al estado: 52 dólares
+Comisión para registrar la empresa (única vez): 100 dólares
+
+Pago anual al estado (desde el segundo año): desde 52 dólares
 
 ## New Mexico
 
@@ -78,4 +82,6 @@ Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freel
 
 - **LLC**
 
-Pago anual al estado: 0 dólares
+Comisión para registrar la empresa (única vez): 50 dólares
+
+Pago anual al estado (desde el segundo año): 0 dólares
