@@ -2,7 +2,7 @@
 title: Estados Unidos (WIP)
 description: 
 published: true
-date: 2020-06-24T09:41:48.181Z
+date: 2020-06-24T10:56:04.232Z
 tags: 
 editor: markdown
 ---
@@ -29,22 +29,23 @@ El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% de
 
 # Estados
 
-Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál estado hacerlo y que agente nos va a representar localmente.
+Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál estado hacerlo y que agente nos va a representar localmente. Para residentes de EE.UU. o negocios con oficinas en el país la mejor opcion suele ser donde viven o se encuentran las oficinas, para extranjeros sin una presencia concreta local, se puede elegir cualquier estado, nombraremos los que consideramos más interesantes.
 
 ## Delaware
 
 > Recomendado para ganancias minimas de 5000 dolares mensuales.
 {.is-info}
 
-Conocido como el primer estado del país, Delaware es una de las jurisdicciones más populares del mundo para incorporar una empresa. Casi la mitad de las empresas que cotizan en bolsa en los Estados Unidos y más del 65% de las 500 más grandes están incorporadas en Delaware. Incluidos gigantes como Apple, Coca-Cola, Google y Walmart.
+Reconocido por sus corporaciones y conocido como el primer estado del país, Delaware es una de las jurisdicciones más populares del mundo para incorporar una empresa. Casi la mitad de las empresas que cotizan en bolsa en los Estados Unidos y más del 65% de las 500 más grandes están incorporadas en Delaware. Incluidos gigantes como Apple, Coca-Cola, Google y Walmart.
 
-Delaware destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE. UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad legal y seguridad juridica.
+Delaware destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE.UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad legal y seguridad juridica.
 
 ## Wyoming
 
 > Recomendado para ganancias minimas de 1000 dolares mensuales.
 {.is-info}
 
+Reconocido por sus LLCs y conocido como el estado cowboy, Wyoming es de hecho el estado donde se inventó este tipo de entidad legal en el año 1977, influyendo durante decadas a todo el resto del pais. 
 
 ## New Mexico
 
