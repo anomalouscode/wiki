@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-24T22:04:20.651Z
+date: 2020-06-24T22:25:37.736Z
 tags: 
 editor: markdown
 ---
@@ -50,17 +50,13 @@ Una corporación de Delaware suele ser requisito indispensable para recibir inve
 
 Comisión para registrar la empresa (única vez): 90 dólares para el estado + al menos 90 dólares para el agente que nos represente.
 
-Pago anual al estado (desde el segundo año): 300 dólares.
-
-Pago anual al agente (desde el segundo año): desde 45 dólares.
+Mantenimiento anual (desde el segundo año): 300 dólares para el estado + al menos 45 dólares para el agente que nos represente.
 
 - **Corporación**
 
 Comisión para registrar la empresa (única vez): 90 dólares para el estado + al menos 90 dólares para el agente que nos represente.
 
-Pago anual al estado (desde el segundo año): desde 225 dólares, dependiendo del numero de acciones emitidas y el valor de los activos de la corporación.
-
-Pago anual al agente (desde el segundo año): desde 45 dólares.
+Mantenimiento anual (desde el segundo año): desde 225 dólares para el estado, dependiendo del numero de acciones emitidas y el valor de los activos de la corporación + al menos 45 dólares para el agente que nos represente.
 
 ## Wyoming
 
@@ -77,9 +73,7 @@ El estado cuenta con leyes que permiten una excelente protección de activos y s
 
 Comisión para registrar la empresa (única vez): 100 dólares para el estado + al menos 50 dólares para el agente que nos represente.
 
-Pago anual al estado (desde el segundo año): 52 dólares o el 0.02% de los activos que la empresa posea dentro de Wyoming, el valor más alto.
-
-Pago anual al agente (desde el segundo año): desde 25 dólares.
+Mantenimiento anual (desde el segundo año): 52 dólares para el estado o el 0.02% de los activos que la empresa posea dentro de Wyoming, el valor más alto + al menos 25 dólares para el agente que nos represente.
 
 ## New Mexico
 
@@ -96,6 +90,4 @@ Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freel
 
 Comisión para registrar la empresa (única vez): 50 dólares para el estado + al menos 100 dólares para el agente que nos represente.
 
-Pago anual al estado (desde el segundo año): 0 dólares.
-
-Pago anual al agente (desde el segundo año): desde 35 dólares.
+Mantenimiento anual (desde el segundo año): 0 dólares para el estado + al menos 35 dólares para el agente que nos represente.
