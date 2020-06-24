@@ -1,8 +1,8 @@
 ---
-title: Estados Unidos (WIP)
+title: Estados Unidos
 description: 
 published: true
-date: 2020-06-24T12:37:51.075Z
+date: 2020-06-24T12:38:12.127Z
 tags: 
 editor: markdown
 ---
