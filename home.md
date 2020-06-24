@@ -2,7 +2,7 @@
 title: Inicio
 description: 
 published: true
-date: 2020-06-24T07:37:38.204Z
+date: 2020-06-24T07:37:51.597Z
 tags: 
 editor: markdown
 ---
