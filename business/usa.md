@@ -2,7 +2,7 @@
 title: Estados Unidos (WIP)
 description: 
 published: true
-date: 2020-06-24T11:36:35.618Z
+date: 2020-06-24T12:37:51.075Z
 tags: 
 editor: markdown
 ---
@@ -17,15 +17,17 @@ Para muchos Estados Unidos es el paraíso fiscal más grande del mundo debido a 
 
 Esto se debe a que las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a las ganancias se pagan a nivel personal, pero como los individuos involucrados no encuadran dentro de una entidad sujeta a impuestos en el país no necesitan pagarlos.
 
-Las LLC de un solo miembro son consideradas "disregarded entities" y deben enviar anualmente el Form 5472 a la IRS (Estado Federal), por su parte las LLC con multiples miembros son consideras "partnerships" y deben enviar el Form 1065.
+Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (Estado Federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde EE.UU., ni se deben pagar impuestos como una corporación.
 
-Las Corporaciones declaran sus ganancias con el Form 1120, y aunque no son consideradas como las LLC, siempre hay trucos contables y operativos para reducir el pago de impuestos al mínimo, como reinventir todo lo posible y maximizar los gastos en los propios accionistas.
+Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde EE.UU., se puede enviar prácticamente vacío.
 
-El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal y puede sumarse hasta un 12% más dependiendo del estado.
+Las Corporaciones declaran sus ganancias con el Form 1120, y aunque no son consideradas como las LLC, siempre hay trucos contables y operativos para reducir el pago de impuestos al mínimo, como reinventir todo lo posible y maximizar los gastos en los propios accionistas. Si tienen dueño extranjero pueden necesitar enviar el Form 5472 también.
+
+El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal y puede sumarse hasta un 12% más dependiendo del estado (No aplican si es una LLC).
 
 El IVA/Sales Tax varia entre 0% y 12% dependiendo del estado. Hay que analizar detenidamente al vender en un estado con Sales Tax si la venta encuadra dentro del hecho imponible definido por ese estado.
 
-El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos.
+El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (No aplican si no se generan ingresos desde EE.UU.).
 
 # Estados
 
@@ -42,6 +44,12 @@ Delaware es conocido por proveer una gran protección de activos y destaca por s
 
 Una corporación de Delaware suele ser requisito indispensable para recibir inversión externa de grandes inversores o fondos dedicados a empresas de rápido crecimiento.
 
+### Costos
+
+- **LLC**
+
+Pago anual al estado: 300 dólares
+
 ## Wyoming
 
 > Recomendado para ganancias mínimas de 1000 dólares mensuales.
@@ -49,13 +57,25 @@ Una corporación de Delaware suele ser requisito indispensable para recibir inve
 
 Reconocido por sus LLCs y conocido como el estado cowboy, Wyoming es de hecho el estado donde se inventó este tipo de entidad legal en el año 1977, influyendo durante décadas a todo el resto del país. Además es frecuentemente considerado el estado más amigable con los negocios y suele ser innovador en sus regulaciones y estar al día de las demandas del mercado, como sus recientes leyes referidas a esclarecer lo referido a la industria blockchain.
 
-El estado cuenta con leyes que permiten una excelente protección de activos y sus LLCs son comparables a las de Delaware pero con menores costos, una LLC de Wyoming es una excelente opción si no se planea recibir inversión externa.
+El estado cuenta con leyes que permiten una excelente protección de activos y sus LLCs son comparables a las de Delaware pero con menores costos, una LLC de Wyoming es una excelente opción si no se planea recibir gran y compleja inversión externa.
+
+### Costos
+
+- **LLC**
+
+Pago anual al estado: 52 dólares
 
 ## New Mexico
 
 > Recomendado para ganancias mínimas de 200 dólares mensuales.
 {.is-info}
 
-Aunque no sea reconocido por grandes protecciones como los anteriores, la realidad es que hay un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado.
+Aunque no sea reconocido por grandes protecciones ante demandas como los anteriores, la realidad es que hay un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado, haciéndolo incluso mas fácil de mantener.
 
-Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freelancers u otras actividades que realmente no cuentan con relaciones de clientes muy complejas ni requieren proteger grandes capitales bajo una entidad legal.
+Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freelancers u otras actividades que realmente no cuentan con relaciones de clientes muy complejas ni requieren proteger grandes capitales bajo una entidad legal o buscan desarrollar varias ideas que tal vez en el futuro funcionen y prefieran analizar mejor la estructura legal cuando sea más relevante.
+
+### Costos
+
+- **LLC**
+
+Pago anual al estado: 0 dólares
