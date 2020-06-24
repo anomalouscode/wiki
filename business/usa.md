@@ -2,7 +2,7 @@
 title: Estados Unidos (WIP)
 description: 
 published: true
-date: 2020-06-24T10:57:59.906Z
+date: 2020-06-24T11:36:35.618Z
 tags: 
 editor: markdown
 ---
@@ -38,16 +38,24 @@ Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál est
 
 Reconocido por sus corporaciones y conocido como el primer estado del país, Delaware es una de las jurisdicciones más populares del mundo para incorporar una empresa. Casi la mitad de las empresas que cotizan en bolsa en los Estados Unidos y más del 65% de las 500 más grandes están incorporadas en Delaware. Incluidos gigantes como Apple, Coca-Cola, Google y Walmart.
 
-Delaware destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE.UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad legal y seguridad jurídica.
+Delaware es conocido por proveer una gran protección de activos y destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE.UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad y seguridad jurídica.
+
+Una corporación de Delaware suele ser requisito indispensable para recibir inversión externa de grandes inversores o fondos dedicados a empresas de rápido crecimiento.
 
 ## Wyoming
 
 > Recomendado para ganancias mínimas de 1000 dólares mensuales.
 {.is-info}
 
-Reconocido por sus LLCs y conocido como el estado cowboy, Wyoming es de hecho el estado donde se inventó este tipo de entidad legal en el año 1977, influyendo durante décadas a todo el resto del país. 
+Reconocido por sus LLCs y conocido como el estado cowboy, Wyoming es de hecho el estado donde se inventó este tipo de entidad legal en el año 1977, influyendo durante décadas a todo el resto del país. Además es frecuentemente considerado el estado más amigable con los negocios y suele ser innovador en sus regulaciones y estar al día de las demandas del mercado, como sus recientes leyes referidas a esclarecer lo referido a la industria blockchain.
+
+El estado cuenta con leyes que permiten una excelente protección de activos y sus LLCs son comparables a las de Delaware pero con menores costos, una LLC de Wyoming es una excelente opción si no se planea recibir inversión externa.
 
 ## New Mexico
 
 > Recomendado para ganancias mínimas de 200 dólares mensuales.
 {.is-info}
+
+Aunque no sea reconocido por grandes protecciones como los anteriores, la realidad es que hay un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado.
+
+Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freelancers u otras actividades que realmente no cuentan con relaciones de clientes muy complejas ni requieren proteger grandes capitales bajo una entidad legal.
