@@ -2,7 +2,7 @@
 title: Inicio
 description: 
 published: true
-date: 2020-06-24T07:37:07.186Z
+date: 2020-06-24T07:37:38.204Z
 tags: 
 editor: markdown
 ---
@@ -12,8 +12,7 @@ editor: markdown
 
 Los artículos se respaldan automáticamente en nuestro [GitHub](https://github.com/anomalouscode).
 
-Artículos
----
+## Artículos
 
 - [Empresas](/es/business)
 
