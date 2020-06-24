@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-24T20:50:49.921Z
+date: 2020-06-24T21:03:53.798Z
 tags: 
 editor: markdown
 ---
@@ -17,17 +17,17 @@ Para muchos Estados Unidos es el paraíso fiscal más grande del mundo debido a 
 
 Esto se debe a que las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a las ganancias se pagan a nivel personal, pero como los individuos involucrados no encuadran dentro de una entidad sujeta a impuestos en el país no necesitan pagarlos.
 
-Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (Estado Federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde EE.UU., ni se deben pagar impuestos como una corporación.
+Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (estado federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde EE.UU., ni se deben pagar impuestos como una corporación.
 
 Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde EE.UU., se puede enviar prácticamente vacío.
 
 Las Corporaciones declaran sus ganancias con el Form 1120, y aunque no son consideradas como las LLC, siempre hay trucos contables y operativos para reducir el pago de impuestos al mínimo, como reinventir todo lo posible y maximizar los gastos en los propios accionistas. Si tienen dueño extranjero pueden necesitar enviar el Form 5472 también.
 
-El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal y puede sumarse hasta un 12% más dependiendo del estado (No aplican si es una LLC).
+El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal y puede sumarse hasta un 12% más dependiendo del estado (no aplican si es una LLC).
 
 El IVA/Sales Tax varia entre 0% y 12% dependiendo del estado. Hay que analizar detenidamente al vender en un estado con Sales Tax si la venta encuadra dentro del hecho imponible definido por ese estado.
 
-El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (No aplican si no se generan ingresos desde EE.UU.).
+El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (no aplican si no se generan ingresos desde EE.UU.).
 
 # Estados
 
@@ -48,9 +48,9 @@ Una corporación de Delaware suele ser requisito indispensable para recibir inve
 
 - **LLC**
 
-Comisión para registrar la empresa (única vez): 90 dólares
+Comisión para registrar la empresa (única vez): 90 dólares.
 
-Pago anual al estado (desde el segundo año): 300 dólares
+Pago anual al estado (desde el segundo año): 300 dólares.
 
 ## Wyoming
 
@@ -65,9 +65,9 @@ El estado cuenta con leyes que permiten una excelente protección de activos y s
 
 - **LLC**
 
-Comisión para registrar la empresa (única vez): 100 dólares
+Comisión para registrar la empresa (única vez): 100 dólares.
 
-Pago anual al estado (desde el segundo año): desde 52 dólares
+Pago anual al estado (desde el segundo año): 52 dólares o el 0.02% de los activos que la empresa posea dentro de Wyoming, el valor más alto.
 
 ## New Mexico
 
@@ -82,6 +82,6 @@ Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freel
 
 - **LLC**
 
-Comisión para registrar la empresa (única vez): 50 dólares
+Comisión para registrar la empresa (única vez): 50 dólares.
 
-Pago anual al estado (desde el segundo año): 0 dólares
+Pago anual al estado (desde el segundo año): 0 dólares.
