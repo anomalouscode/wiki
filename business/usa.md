@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-25T22:21:23.728Z
+date: 2020-06-25T22:52:21.440Z
 tags: 
 editor: markdown
 ---
@@ -54,7 +54,9 @@ Una corporación de Delaware suele ser requisito indispensable para recibir inve
 
 ### Privacidad
 
-Delaware no mantiene registros públicos de los miembros de la empresa, aunque si de quien firme la incorporación y haga los pagos anuales, en caso de contratar a nuestro agente en ambos casos, o que lo haga un tercero, no habría ningún registro publico de ninguno de los miembros.
+Delaware no mantiene registros públicos de los miembros de las LLC, aunque si de quien firme la incorporación y haga los pagos anuales, en caso de contratar a nuestro agente en ambos casos, o que lo haga un tercero, no habría ningún registro publico de ninguno de los miembros.
+
+En el caso de las corporaciones, se requiere listar a sus directores, aunque no a sus accionistas.
 
 El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
 
@@ -90,7 +92,9 @@ El estado cuenta con leyes que permiten una excelente protección de activos y s
 
 ### Privacidad
 
-Wyoming no mantiene registros públicos de los miembros de la empresa, aunque si de quien firme la incorporación y haga los pagos anuales, en caso de contratar a nuestro agente en ambos casos, o que lo haga un tercero, no habría ningún registro publico de ninguno de los miembros.
+Wyoming no mantiene registros públicos de los miembros de las LLC, aunque si de quien firme la incorporación y haga los pagos anuales, en caso de contratar a nuestro agente en ambos casos, o que lo haga un tercero, no habría ningún registro publico de ninguno de los miembros.
+
+En el caso de las corporaciones, se requiere listar a sus directores, aunque no a sus accionistas.
 
 El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
 
