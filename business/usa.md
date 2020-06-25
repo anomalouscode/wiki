@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-24T22:25:37.736Z
+date: 2020-06-25T15:48:05.414Z
 tags: 
 editor: markdown
 ---
@@ -91,3 +91,17 @@ Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freel
 Comisión para registrar la empresa (única vez): 50 dólares para el estado + al menos 100 dólares para el agente que nos represente.
 
 Mantenimiento anual (desde el segundo año): 0 dólares para el estado + al menos 35 dólares para el agente que nos represente.
+
+`agentes para revisar e incorporar al articulo:`
+*https://www.wyomingagents.com/
+https://www.newmexicoregisteredagent.com/
+https://www.swyftfilings.com/
+https://firstbase.io/
+https://www.delawareregisteredagent.com/
+https://www.northwestregisteredagent.com/
+https://www.legalzoom.com/
+https://www.registeredagentsinc.com/
+https://www.incfile.com/
+https://gust.com/launch
+https://stripe.com/atlas
+https://www.delawareinc.com/*
