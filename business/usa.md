@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-25T19:14:39.736Z
+date: 2020-06-25T22:20:22.645Z
 tags: 
 editor: markdown
 ---
@@ -17,19 +17,25 @@ Estados Unidos permite abrir una empresa remotamente desde prácticamente cualqu
 
 Para muchos Estados Unidos es el paraíso fiscal más grande del mundo debido a que los extranjeros no residentes con una LLC de Estados Unidos que no cuenten con presencia física local (Effectively Connected Income) no pagan impuestos en Estados Unidos. En términos generales se debe observar si se realiza "trade or business in the United States", ejemplos de esto seria contar con empleados en el país o contar con inventario en un deposito local.
 
-Esto se debe a que las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a las ganancias se pagan a nivel personal, pero como los individuos involucrados no encuadran dentro de una entidad sujeta a impuestos en el país no necesitan pagarlos.
+## LLC
+
+Las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a las ganancias se pagan a nivel personal, pero como los individuos involucrados no encuadran dentro de una entidad sujeta a impuestos en el país no necesitan pagarlos.
 
 Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (estado federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde EE.UU., ni se deben pagar impuestos como una corporación.
 
 Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde EE.UU., se puede enviar prácticamente vacío.
 
+## Corporaciones
+
 Las Corporaciones declaran sus ganancias con el Form 1120, y aunque no son consideradas como las LLC, siempre hay trucos contables y operativos para reducir el pago de impuestos al mínimo, como reinventir todo lo posible y maximizar los gastos en los propios accionistas. Si tienen dueño extranjero pueden necesitar enviar el Form 5472 también.
 
 El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal y puede sumarse hasta un 12% más dependiendo del estado (no aplican si es una LLC).
 
+## Generales
+
 El IVA/Sales Tax varia entre 0% y 12% dependiendo del estado. Hay que analizar detenidamente al vender hacia un estado con Sales Tax si la venta encuadra dentro del hecho imponible definido por ese estado.
 
-El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (no aplican si no se generan ingresos desde EE.UU.).
+El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (no aplican si no se generan ingresos desde EE.UU., se generen o no usando una empresa de EE.UU.).
 
 # Estados
 
@@ -45,6 +51,14 @@ Reconocido por sus corporaciones y conocido como el primer estado del país, Del
 Delaware es conocido por proveer una gran protección de activos y destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE.UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad y seguridad jurídica.
 
 Una corporación de Delaware suele ser requisito indispensable para recibir inversión externa de grandes inversores o fondos dedicados a empresas de rápido crecimiento.
+
+### Privacidad
+
+Delaware no mantiene registros públicos de los miembros de la empresa, aunque si de quien firme la incorporación y haga los pagos anuales, en caso de contratar a nuestro agente en ambos casos, o que lo haga un tercero, no habría ningún registro publico de ninguno de los miembros.
+
+El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
+
+Además los bancos e instituciones financieras que usemos van a pedirnos los datos de los miembros y sus pasaportes.
 
 ### Costos
 
@@ -74,6 +88,14 @@ Reconocido por sus LLCs y conocido como el estado cowboy, Wyoming es de hecho el
 
 El estado cuenta con leyes que permiten una excelente protección de activos y sus LLCs son comparables a las de Delaware pero con menores costos, una LLC de Wyoming es una excelente opción si no se planea recibir gran y compleja inversión externa.
 
+### Privacidad
+
+Wyoming no mantiene registros públicos de los miembros de la empresa, aunque si de quien firme la incorporación y haga los pagos anuales, en caso de contratar a nuestro agente en ambos casos, o que lo haga un tercero, no habría ningún registro publico de ninguno de los miembros.
+
+El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
+
+Además los bancos e instituciones financieras que usemos van a pedirnos los datos de los miembros y sus pasaportes.
+
 ### Costos
 
 - **LLC o Corporación**
@@ -95,6 +117,14 @@ Mantenimiento anual (desde el segundo año): 52 dólares para el estado o el 0.0
 Aunque no sea reconocido por grandes protecciones ante demandas como los anteriores, la realidad es que hay un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado, haciéndolo incluso mas fácil de mantener.
 
 Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freelancers u otras actividades que realmente no cuentan con relaciones de clientes muy complejas ni requieren proteger grandes capitales bajo una entidad legal o buscan desarrollar varias ideas que tal vez en el futuro funcionen y prefieran analizar mejor la estructura legal cuando sea más relevante.
+
+### Privacidad
+
+New Mexico no mantiene registros públicos de los miembros de la empresa, aunque si de quien firme la incorporación, en caso de contratar a un agente, no habría ningún registro publico de ninguno de los miembros. Y a diferencia de los estados anteriores, no hay que informar ni pagar nada anualmente, por lo que no se requiere esfuerzo extra para mantener la privacidad.
+
+El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
+
+Además los bancos e instituciones financieras que usemos van a pedirnos los datos de los miembros y sus pasaportes.
 
 ### Costos
 
@@ -140,4 +170,4 @@ Los bancos nos van a requerir la documentación de la empresa, los pasaportes de
 
 ## [Mercury](https://mercury.com/)
 
-Es un banco digital enfocado en empresas de tecnología y comercio electrónico que permite además la apertura remota de cuentas gratuitamente y sin costos de mantenimiento.
+Es un banco digital enfocado en empresas de tecnología y comercio electrónico que permite además la apertura remota de cuentas gratuitamente y sin costos de mantenimiento. 
