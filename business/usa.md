@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-25T18:16:24.082Z
+date: 2020-06-25T19:14:39.736Z
 tags: 
 editor: markdown
 ---
@@ -10,6 +10,8 @@ editor: markdown
 Es una en república federal constitucional ubicada en América del Norte compuesta por cincuenta estados y un distrito federal. Limita con Canadá y México, tiene 9.83 millones de km², más de 325 millones de habitantes y es considerado la potencia económica más grande del mundo.
 
 Al ser un país central encontrar bancos locales es mas fácil, se puede acceder a servicios locales y es instantáneamente reconocido a nivel mundial. Por lo que puede ser una muy buena opción, tal vez excepto que resulte excesivamente regulado para la actividad que busques realizar o quieras estar lejos del alcance de las grandes agencias de inteligencia. Además es probablemente el país mas barato para incorporarse, ya que hay mayor competencia entre estados y proveedores de servicios.
+
+Estados Unidos permite abrir una empresa remotamente desde prácticamente cualquier país del mundo (exceptuando los que tienen sanciones comerciales).
 
 # Impuestos
 
@@ -58,6 +60,11 @@ Comisión para registrar la empresa (única vez): 90 dólares para el estado + a
 
 Mantenimiento anual (desde el segundo año): desde 225 dólares para el estado, dependiendo del numero de acciones emitidas y el valor de los activos de la corporación + al menos 45 dólares para el agente que nos represente.
 
+### Agentes
+
+- https://stripe.com/atlas
+- https://firstbase.io/
+
 ## Wyoming
 
 > Recomendado para ganancias mínimas de 1000 dólares mensuales.
@@ -74,6 +81,11 @@ El estado cuenta con leyes que permiten una excelente protección de activos y s
 Comisión para registrar la empresa (única vez): 100 dólares para el estado + al menos 50 dólares para el agente que nos represente.
 
 Mantenimiento anual (desde el segundo año): 52 dólares para el estado o el 0.02% de los activos que la empresa posea dentro de Wyoming, el valor más alto + al menos 25 dólares para el agente que nos represente.
+
+### Agentes
+
+- https://www.wyomingagents.com/
+- https://firstbase.io/
 
 ## New Mexico
 
@@ -95,10 +107,8 @@ Mantenimiento anual (desde el segundo año): 0 dólares para el estado + al meno
 ---
 
 `agentes para revisar e incorporar al articulo:`
-*https://www.wyomingagents.com/
-https://www.newmexicoregisteredagent.com/
+*https://www.newmexicoregisteredagent.com/
 https://www.swyftfilings.com/
-https://firstbase.io/
 https://www.delawareregisteredagent.com/
 https://www.northwestregisteredagent.com/
 https://www.legalzoom.com/
@@ -106,13 +116,12 @@ https://www.registeredagentsinc.com/
 https://www.incfile.com/
 https://www.zenbusiness.com/
 https://gust.com/launch
-https://stripe.com/atlas
 https://www.delawareinc.com/
 https://cindysnewmexicollcs.com/*
 
 # Costos generales
 
-Para crear y empezar el funcionamiento básico de una empresa en se Estados Unidos se necesita:
+Para crear y comenzar con el funcionamiento básico de una empresa en Estados Unidos se necesita:
 
 - Pagar al estado local elegido la comisión para incorporarse.
 - Pagar al agente la comisión por el tramite de incorporación.
@@ -120,7 +129,15 @@ Para crear y empezar el funcionamiento básico de una empresa en se Estados Unid
 
 Y para mantenerse en regla se necesita como mínimo:
 
-- Pagar al estado donde está incorporada la comisión anual establecida.
-- Completar los reportes de información anuales requeridos por el estado.
-- Pagar la comisión anual al agente registrado que representa a la empresa en el estado.
-- Completar y enviar la declaración anual de impuestos federales a la IRS, los costos de estos varían dependiendo de si se contrata un contador o se completa personalmente y se enviá por correo físico.
+- Pagar al estado local donde está incorporada la comisión anual establecida.
+- Completar los reportes de información anuales requeridos por el estado local.
+- Pagar la comisión anual al agente registrado que representa a la empresa en el estado local.
+- Completar y enviar la declaración anual de impuestos federales a la IRS, los costos de esto varían dependiendo de si se contrata un contador o se completa personalmente y se enviá por correo físico.
+
+# Bancos
+
+Los bancos nos van a requerir la documentación de la empresa, los pasaportes de sus miembros, así como hacer preguntas sobre el negocio, suele ser la parte más complicada y burocrática.
+
+## [Mercury](https://mercury.com/)
+
+Es un banco digital enfocado en empresas de tecnología y comercio electrónico que permite además la apertura remota de cuentas gratuitamente y sin costos de mantenimiento.
