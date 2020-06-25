@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-25T22:20:22.645Z
+date: 2020-06-25T22:21:23.728Z
 tags: 
 editor: markdown
 ---
@@ -170,4 +170,12 @@ Los bancos nos van a requerir la documentación de la empresa, los pasaportes de
 
 ## [Mercury](https://mercury.com/)
 
-Es un banco digital enfocado en empresas de tecnología y comercio electrónico que permite además la apertura remota de cuentas gratuitamente y sin costos de mantenimiento. 
+Es un banco digital enfocado en empresas de tecnología y comercio electrónico que permite además la apertura remota de cuentas gratuitamente y sin costos de mantenimiento.
+
+# Fintech
+
+# Exchanges
+
+# Servicios utiles
+
+# Links externos
