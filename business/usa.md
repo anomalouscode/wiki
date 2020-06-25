@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-25T15:50:14.351Z
+date: 2020-06-25T18:16:24.082Z
 tags: 
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Las Corporaciones declaran sus ganancias con el Form 1120, y aunque no son consi
 
 El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal y puede sumarse hasta un 12% más dependiendo del estado (no aplican si es una LLC).
 
-El IVA/Sales Tax varia entre 0% y 12% dependiendo del estado. Hay que analizar detenidamente al vender en un estado con Sales Tax si la venta encuadra dentro del hecho imponible definido por ese estado.
+El IVA/Sales Tax varia entre 0% y 12% dependiendo del estado. Hay que analizar detenidamente al vender hacia un estado con Sales Tax si la venta encuadra dentro del hecho imponible definido por ese estado.
 
 El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (no aplican si no se generan ingresos desde EE.UU.).
 
@@ -92,6 +92,8 @@ Comisión para registrar la empresa (única vez): 50 dólares para el estado + a
 
 Mantenimiento anual (desde el segundo año): 0 dólares para el estado + al menos 35 dólares para el agente que nos represente.
 
+---
+
 `agentes para revisar e incorporar al articulo:`
 *https://www.wyomingagents.com/
 https://www.newmexicoregisteredagent.com/
@@ -107,3 +109,18 @@ https://gust.com/launch
 https://stripe.com/atlas
 https://www.delawareinc.com/
 https://cindysnewmexicollcs.com/*
+
+# Costos generales
+
+Para crear y empezar el funcionamiento básico de una empresa en se Estados Unidos se necesita:
+
+- Pagar al estado local elegido la comisión para incorporarse.
+- Pagar al agente la comisión por el tramite de incorporación.
+- Solicitar a la IRS (estado federal) el numero de EIN (Employer Identification Number), para hacer la declaración anual de impuestos federales y poder abrir una cuenta bancaria, generalmente los agentes ofrecen el tramite, aunque suele ser bastante costoso, se pude reducir costos enviando manualmente el Form SS-4 completo por fax o correo físico a la IRS (ambas cosas se pueden hacer desde internet sin moverse)
+
+Y para mantenerse en regla se necesita como mínimo:
+
+- Pagar al estado donde está incorporada la comisión anual establecida.
+- Completar los reportes de información anuales requeridos por el estado.
+- Pagar la comisión anual al agente registrado que representa a la empresa en el estado.
+- Completar y enviar la declaración anual de impuestos federales a la IRS, los costos de estos varían dependiendo de si se contrata un contador o se completa personalmente y se enviá por correo físico.
