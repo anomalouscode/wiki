@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T17:08:08.376Z
+date: 2020-06-26T17:24:52.099Z
 tags: 
 editor: markdown
 ---
@@ -80,8 +80,17 @@ Mantenimiento anual (desde el segundo año): desde 225 dólares para el estado, 
 
 ### Agentes
 
+- https://www.delawareregisteredagent.com/
 - https://stripe.com/atlas
 - https://firstbase.io/
+- https://www.swyftfilings.com/
+- https://www.northwestregisteredagent.com/
+- https://gust.com/launch
+- https://www.legalzoom.com/
+- https://www.delawareinc.com/
+- https://www.zenbusiness.com/
+- https://www.incfile.com/
+- https://www.registeredagentsinc.com/
 
 ## Wyoming
 
@@ -116,6 +125,12 @@ Mantenimiento anual (desde el segundo año): 52 dólares para el estado o el 0.0
 
 - https://www.wyomingagents.com/
 - https://firstbase.io/
+- https://www.swyftfilings.com/
+- https://www.northwestregisteredagent.com/
+- https://www.legalzoom.com/
+- https://www.zenbusiness.com/
+- https://www.incfile.com/
+- https://www.registeredagentsinc.com/
 
 ## New Mexico
 
@@ -144,20 +159,16 @@ Comisión para registrar la empresa (única vez): 50 dólares para el estado + a
 
 Mantenimiento anual (desde el segundo año): 0 dólares para el estado + al menos 35 dólares para el agente que nos represente.
 
----
+### Agentes
 
-`agentes para revisar e incorporar al articulo:`
-*https://www.newmexicoregisteredagent.com/
-https://www.swyftfilings.com/
-https://www.delawareregisteredagent.com/
-https://www.northwestregisteredagent.com/
-https://www.legalzoom.com/
-https://www.registeredagentsinc.com/
-https://www.incfile.com/
-https://www.zenbusiness.com/
-https://gust.com/launch
-https://www.delawareinc.com/
-https://cindysnewmexicollcs.com/*
+- https://www.newmexicoregisteredagent.com/
+- https://cindysnewmexicollcs.com/
+- https://www.swyftfilings.com/
+- https://www.northwestregisteredagent.com/
+- https://www.legalzoom.com/
+- https://www.zenbusiness.com/
+- https://www.incfile.com/
+- https://www.registeredagentsinc.com/
 
 # Costos generales
 
