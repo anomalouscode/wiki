@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T17:02:38.343Z
+date: 2020-06-26T17:08:08.376Z
 tags: 
 editor: markdown
 ---
@@ -122,7 +122,7 @@ Mantenimiento anual (desde el segundo año): 52 dólares para el estado o el 0.0
 > Recomendado para ganancias mínimas de 200 dólares mensuales.
 {.is-info}
 
-Aunque no sea reconocido por grandes protecciones ante demandas como los anteriores, existe un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla con sus LLCs cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado, haciéndolo incluso mas fácil de mantener.
+Aunque no sea reconocido por grandes protecciones ante demandas como los anteriores, existe un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla con sus LLCs cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado local, haciéndolo incluso mas fácil de mantener.
 
 Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freelancers u otras actividades que realmente no cuentan con relaciones de clientes muy complejas ni requieren proteger grandes capitales bajo una entidad legal o buscan desarrollar varias ideas que tal vez en el futuro funcionen y prefieran analizar mejor la estructura legal cuando sea más relevante.
 
