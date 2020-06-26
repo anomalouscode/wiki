@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T17:56:05.275Z
+date: 2020-06-26T17:56:33.635Z
 tags: 
 editor: markdown
 ---
@@ -214,6 +214,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 
 - [OpenNode](https://www.opennode.com/)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
+- [GloBee](https://globee.com/)
 
 # Exchanges
 
