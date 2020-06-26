@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T17:51:20.262Z
+date: 2020-06-26T17:56:05.275Z
 tags: 
 editor: markdown
 ---
@@ -203,10 +203,17 @@ Nos ofrecen gratuitamente cuentas virtuales de Europa, Estados Unidos, Reino Uni
 
 # Procesadores de pago
 
-Para cobrar con tarjetas de crédito/débito necesitamos un procesador de pagos.
+Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar procesadores de pagos.
+
+## Tarjetas de crédito/débito
 
 - [PayPal](https://www.paypal.com/)
 - [Stripe](https://stripe.com/)
+
+## Criptomonedas
+
+- [OpenNode](https://www.opennode.com/)
+- [Coinbase Commerce](https://commerce.coinbase.com/)
 
 # Exchanges
 
