@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T17:47:00.006Z
+date: 2020-06-26T17:51:20.262Z
 tags: 
 editor: markdown
 ---
@@ -202,6 +202,11 @@ Como suplemento a los bancos podemos usar servicios que nos proveen cuentas virt
 Nos ofrecen gratuitamente cuentas virtuales de Europa, Estados Unidos, Reino Unido, Polonia, Australia, Nueva Zelanda y Singapur. En caso de que los miembros de la empresa residan en un país con limitaciones de TransferWise en cuentas virtuales de algunos países, esas limitaciones se aplicaran también a la empresa independientemente de donde esté incorporada, por ejemplo, si como Argentino TransferWise no te da una cuenta virtual en Estados Unidos, tu empresa solo podrá recibir transferencias en la cuenta de Estados Unidos si provienen de una cuenta bancaria a nombre de la propia empresa y no de terceros, teniendo que usar una cuenta bancaria real como la de Mercury para recibir en ese país.
 
 # Procesadores de pago
+
+Para cobrar con tarjetas de crédito/débito necesitamos un procesador de pagos.
+
+- [PayPal](https://www.paypal.com/)
+- [Stripe](https://stripe.com/)
 
 # Exchanges
 
