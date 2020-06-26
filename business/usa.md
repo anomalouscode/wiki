@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T16:39:10.450Z
+date: 2020-06-26T17:02:38.343Z
 tags: 
 editor: markdown
 ---
@@ -122,15 +122,17 @@ Mantenimiento anual (desde el segundo año): 52 dólares para el estado o el 0.0
 > Recomendado para ganancias mínimas de 200 dólares mensuales.
 {.is-info}
 
-Aunque no sea reconocido por grandes protecciones ante demandas como los anteriores, la realidad es que hay un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado, haciéndolo incluso mas fácil de mantener.
+Aunque no sea reconocido por grandes protecciones ante demandas como los anteriores, existe un amplio mercado al cual tampoco le es muy relevante, en cambio, New Mexico brilla con sus LLCs cuando se refiere a ahorrarse dinero y burocracia, ya que es el estado mas barato del país y no requiere ningún tipo de reporte anual al estado, haciéndolo incluso mas fácil de mantener.
 
 Una LLC de New Mexico puede ser tal vez una gran opción para uno o varios freelancers u otras actividades que realmente no cuentan con relaciones de clientes muy complejas ni requieren proteger grandes capitales bajo una entidad legal o buscan desarrollar varias ideas que tal vez en el futuro funcionen y prefieran analizar mejor la estructura legal cuando sea más relevante.
 
 ### Privacidad
 
-New Mexico no mantiene registros públicos de los miembros de la empresa, aunque si de quien firme la incorporación, en caso de contratar a un agente, no habría ningún registro publico de ninguno de los miembros. Y a diferencia de los estados anteriores, no hay que informar ni pagar nada anualmente, por lo que no se requiere esfuerzo extra para mantener la privacidad.
+New Mexico no mantiene registros públicos de los miembros de las LLC, aunque si de quien firme la incorporación, en caso de contratar un agente, no habría ningún registro publico de ninguno de los miembros. A diferencia de los estados anteriores, no hay que informar ni pagar nada anualmente si se trata de una LLC, por lo que no se requiere esfuerzo extra para mantener la privacidad.
 
 El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
+
+El estado federal nos va a pedir los datos del responsable de impuestos de la empresa mediante la IRS.
 
 Además los bancos e instituciones financieras que usemos van a pedirnos los datos de los miembros y sus pasaportes.
 
