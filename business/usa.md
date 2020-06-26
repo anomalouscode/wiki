@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T17:24:52.099Z
+date: 2020-06-26T17:44:00.029Z
 tags: 
 editor: markdown
 ---
@@ -193,7 +193,15 @@ Los bancos nos van a requerir la documentación de la empresa, los pasaportes de
 
 Es un banco digital enfocado en empresas de tecnología y comercio electrónico que permite además la apertura remota de cuentas gratuitamente y sin costos de mantenimiento.
 
-# Fintech
+# Fintechs
+
+Como suplemento a los bancos podemos usar servicios que nos proveen cuentas virtuales para recibir pagos.
+
+## [TransferWise](https://transferwise.com/)
+
+Nos ofrecen gratuitamente cuentas virtuales de Europa, Estados Unidos, Reino Unido, Polonia, Australia, Nueva Zelanda y Singapur. En caso de que los miembros de la empresa residan en un país con limitaciones de TransferWise en cuentas virtuales de algunos países, esas limitaciones se aplicaran también a la empresa independientemente de donde esté incorporada, por ejemplo, si como Argentino TransferWise no te da una cuenta virtual en Estados Unidos, tu empresa solo podrá recibir transferencias en la cuenta de estados unidos si provienen de una cuenta bancaria a nombre de la propia empresa y no de terceros, teniendo que usar una cuenta bancaria real como la de Mercury para recibir en ese país.
+
+# Procesadores de pago
 
 # Exchanges
 
