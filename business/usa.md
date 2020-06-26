@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-25T22:52:53.911Z
+date: 2020-06-26T16:39:10.450Z
 tags: 
 editor: markdown
 ---
@@ -60,6 +60,8 @@ En el caso de las corporaciones, se requiere listar a sus directores, aunque no 
 
 El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
 
+El estado federal nos va a pedir los datos del responsable de impuestos de la empresa mediante la IRS.
+
 Además los bancos e instituciones financieras que usemos van a pedirnos los datos de los miembros y sus pasaportes.
 
 ### Costos
@@ -97,6 +99,8 @@ Wyoming no mantiene registros públicos de los miembros de las LLC, aunque si de
 En el caso de las corporaciones, se requiere listar a sus directores, aunque no a sus accionistas.
 
 El agente que nos representa si que debe mantener en sus registros privados información para contactarnos, lo cual puede ser requerida por el estado en caso de orden judicial.
+
+El estado federal nos va a pedir los datos del responsable de impuestos de la empresa mediante la IRS.
 
 Además los bancos e instituciones financieras que usemos van a pedirnos los datos de los miembros y sus pasaportes.
 
