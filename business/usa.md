@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T17:44:00.029Z
+date: 2020-06-26T17:47:00.006Z
 tags: 
 editor: markdown
 ---
@@ -21,9 +21,9 @@ Para muchos Estados Unidos es el paraíso fiscal más grande del mundo debido a 
 
 Las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a las ganancias se pagan a nivel personal, pero como los individuos involucrados no encuadran dentro de una entidad sujeta a impuestos en el país no necesitan pagarlos.
 
-Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (estado federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde EE.UU., ni se deben pagar impuestos como una corporación.
+Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (estado federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde Estados Unidos, ni se deben pagar impuestos como una corporación.
 
-Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde EE.UU., se puede enviar prácticamente vacío.
+Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde Estados Unidos, se puede enviar prácticamente vacío.
 
 ## Corporaciones
 
@@ -35,11 +35,11 @@ El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal 
 
 El IVA/Sales Tax varia entre 0% y 12% dependiendo del estado. Hay que analizar detenidamente al vender hacia un estado con Sales Tax si la venta encuadra dentro del hecho imponible definido por ese estado.
 
-El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (no aplican si no se generan ingresos desde EE.UU., se generen o no usando una empresa de EE.UU.).
+El impuesto a las ganancias para personas físicas/IRPF puede alcanzar el 52% dependiendo del estado y la escala de ingresos (no aplican si no se generan ingresos desde Estados Unidos, se generen o no usando una empresa de Estados Unidos).
 
 # Estados
 
-Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál estado hacerlo y que agente nos va a representar localmente. Para residentes de EE.UU. o negocios con oficinas en el país la mejor opción suele ser donde viven o se encuentran las oficinas, para extranjeros sin una presencia concreta local, se puede elegir cualquier estado, nombraremos los que consideramos más interesantes.
+Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál estado hacerlo y que agente nos va a representar localmente. Para residentes de Estados Unidos o negocios con oficinas en el país la mejor opción suele ser donde viven o se encuentran las oficinas, para extranjeros sin una presencia concreta local, se puede elegir cualquier estado, nombraremos los que consideramos más interesantes.
 
 ## Delaware
 
@@ -48,7 +48,7 @@ Para incorporar una empresa necesitamos elegir que tipo de empresa, en cuál est
 
 Reconocido por sus corporaciones y conocido como el primer estado del país, Delaware es una de las jurisdicciones más populares del mundo para incorporar una empresa. Casi la mitad de las empresas que cotizan en bolsa en los Estados Unidos y más del 65% de las 500 más grandes están incorporadas en Delaware. Incluidos gigantes como Apple, Coca-Cola, Google y Walmart.
 
-Delaware es conocido por proveer una gran protección de activos y destaca por su Court of Chancery, el tribunal de negocios más antiguo de los EE.UU., que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad y seguridad jurídica.
+Delaware es conocido por proveer una gran protección de activos y destaca por su Court of Chancery, el tribunal de negocios más antiguo de los Estados Unidos, que utiliza jueces en lugar de jurados y generalmente están especializados en asuntos complejos de derecho corporativo, lo que permite mayor previsibilidad y seguridad jurídica.
 
 Una corporación de Delaware suele ser requisito indispensable para recibir inversión externa de grandes inversores o fondos dedicados a empresas de rápido crecimiento.
 
@@ -199,7 +199,7 @@ Como suplemento a los bancos podemos usar servicios que nos proveen cuentas virt
 
 ## [TransferWise](https://transferwise.com/)
 
-Nos ofrecen gratuitamente cuentas virtuales de Europa, Estados Unidos, Reino Unido, Polonia, Australia, Nueva Zelanda y Singapur. En caso de que los miembros de la empresa residan en un país con limitaciones de TransferWise en cuentas virtuales de algunos países, esas limitaciones se aplicaran también a la empresa independientemente de donde esté incorporada, por ejemplo, si como Argentino TransferWise no te da una cuenta virtual en Estados Unidos, tu empresa solo podrá recibir transferencias en la cuenta de estados unidos si provienen de una cuenta bancaria a nombre de la propia empresa y no de terceros, teniendo que usar una cuenta bancaria real como la de Mercury para recibir en ese país.
+Nos ofrecen gratuitamente cuentas virtuales de Europa, Estados Unidos, Reino Unido, Polonia, Australia, Nueva Zelanda y Singapur. En caso de que los miembros de la empresa residan en un país con limitaciones de TransferWise en cuentas virtuales de algunos países, esas limitaciones se aplicaran también a la empresa independientemente de donde esté incorporada, por ejemplo, si como Argentino TransferWise no te da una cuenta virtual en Estados Unidos, tu empresa solo podrá recibir transferencias en la cuenta de Estados Unidos si provienen de una cuenta bancaria a nombre de la propia empresa y no de terceros, teniendo que usar una cuenta bancaria real como la de Mercury para recibir en ese país.
 
 # Procesadores de pago
 
