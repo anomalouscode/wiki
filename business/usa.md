@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T18:11:30.946Z
+date: 2020-06-27T18:12:08.595Z
 tags: 
 editor: markdown
 ---
@@ -240,7 +240,7 @@ Para enviar cartas desde internet, útil para enviar formularios a organismos es
 
 ## Numeros virtuales
 
-En algunos casos probablemente necesitemos un numero de Estados Unidos o querramos tener un numero aparte de trabajo.
+En algunos casos probablemente necesitemos un numero de Estados Unidos o queramos tener un numero de trabajo aparte.
 
 - [2ndLine](https://www.2ndline.co/)
 
