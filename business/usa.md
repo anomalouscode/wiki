@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T18:09:13.557Z
+date: 2020-06-27T18:11:30.946Z
 tags: 
 editor: markdown
 ---
@@ -237,5 +237,11 @@ Variedad de servicios para controlar toda la empresa desde internet.
 Para enviar cartas desde internet, útil para enviar formularios a organismos estatales.
 
 - [Mailform](https://www.mailform.io/)
+
+## Numeros virtuales
+
+En algunos casos probablemente necesitemos un numero de Estados Unidos o querramos tener un numero aparte de trabajo.
+
+- [2ndLine](https://www.2ndline.co/)
 
 # Links externos
