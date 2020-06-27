@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T18:12:08.595Z
+date: 2020-06-27T18:25:19.006Z
 tags: 
 editor: markdown
 ---
@@ -238,10 +238,10 @@ Para enviar cartas desde internet, útil para enviar formularios a organismos es
 
 - [Mailform](https://www.mailform.io/)
 
-## Numeros virtuales
+## Números virtuales
 
-En algunos casos probablemente necesitemos un numero de Estados Unidos o queramos tener un numero de trabajo aparte.
+En algunos casos probablemente necesitemos un número de Estados Unidos para usar un servicio o tener un número de trabajo aparte.
 
 - [2ndLine](https://www.2ndline.co/)
 
-# Links externos
+# Links externos  
