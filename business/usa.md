@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T17:36:46.217Z
+date: 2020-06-27T17:37:36.063Z
 tags: 
 editor: markdown
 ---
@@ -231,11 +231,10 @@ Servicios para comprar y vender criptomonedas.
 
 Variedad de servicios para controlar toda la empresa desde internet.
 
-## Enviar correo fisico online
+## Enviar correo físico online
 
-Para enviar cartas desde internet, util para enviar formularios a organismos estatales.
+Para enviar cartas desde internet, útil para enviar formularios a organismos estatales.
 
 - [Mailform](https://www.mailform.io/)
-
 
 # Links externos
