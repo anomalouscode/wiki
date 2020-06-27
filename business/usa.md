@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T17:33:20.315Z
+date: 2020-06-27T17:36:46.217Z
 tags: 
 editor: markdown
 ---
@@ -228,5 +228,14 @@ Servicios para comprar y vender criptomonedas.
 - [Wyre](https://www.sendwyre.com/)
 
 # Servicios útiles
+
+Variedad de servicios para controlar toda la empresa desde internet.
+
+## Enviar correo fisico online
+
+Para enviar cartas desde internet, util para enviar formularios a organismos estatales.
+
+- [Mailform](https://www.mailform.io/)
+
 
 # Links externos
