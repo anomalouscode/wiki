@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-26T18:10:46.250Z
+date: 2020-06-27T14:37:31.848Z
 tags: 
 editor: markdown
 ---
@@ -209,6 +209,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 
 - [PayPal](https://www.paypal.com/)
 - [Stripe](https://stripe.com/)
+- [EBANX](https://ebanx.com/)
 
 ## Criptomonedas
 
