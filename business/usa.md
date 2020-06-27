@@ -2,12 +2,12 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T18:25:19.006Z
+date: 2020-06-27T18:44:16.933Z
 tags: 
 editor: markdown
 ---
 
-Es una en república federal constitucional ubicada en América del Norte compuesta por cincuenta estados y un distrito federal. Limita con Canadá y México, tiene 9.83 millones de km², más de 325 millones de habitantes y es considerado la potencia económica más grande del mundo.
+Es una en república federal constitucional ubicada en América del Norte compuesta por 50 estados y un distrito federal. Limita con Canadá y México, tiene 9.83 millones de km², más de 325 millones de habitantes y es considerada la potencia económica más grande del mundo.
 
 Al ser un país central encontrar bancos locales es mas fácil, se puede acceder a servicios locales y es instantáneamente reconocido a nivel mundial. Por lo que puede ser una muy buena opción, tal vez excepto que resulte excesivamente regulado para la actividad que busques realizar o quieras estar lejos del alcance de las grandes agencias de inteligencia. Además es probablemente el país mas barato para incorporarse, ya que hay mayor competencia entre estados y proveedores de servicios.
 
