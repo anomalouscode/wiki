@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T17:37:36.063Z
+date: 2020-06-27T17:57:49.093Z
 tags: 
 editor: markdown
 ---
@@ -226,6 +226,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 Servicios para comprar y vender criptomonedas.
 
 - [Wyre](https://www.sendwyre.com/)
+- [Circle](https://www.circle.com/) (no funciona con Mercury porque utilizan un )
 
 # Servicios útiles
 
