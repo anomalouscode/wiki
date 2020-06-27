@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T14:56:09.678Z
+date: 2020-06-27T14:58:13.932Z
 tags: 
 editor: markdown
 ---
@@ -221,6 +221,10 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 - [BTCPay Server](https://btcpayserver.org/)
 
 # Exchanges
+
+Servicios para comprar y vender criptomonedas.
+
+- [Wyre](https://www.sendwyre.com/)
 
 # Servicios útiles
 
