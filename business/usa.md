@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-28T23:31:41.328Z
+date: 2020-06-28T23:38:38.120Z
 tags: 
 editor: markdown
 ---
@@ -243,6 +243,12 @@ Para enviar cartas desde internet, útil para enviar formularios a organismos es
 En algunos casos probablemente necesitemos un número de Estados Unidos para usar un servicio o tener un número de trabajo aparte.
 
 - [2ndLine](https://www.2ndline.co/)
+
+## Fax online
+
+Aunque enviar faxes sea algo muy ajeno al presente, los organizmos estatales de Estados Unidos lo siguen usando, y podemos enviarlos y recibirlos desde internet para que la tarea no resulte incomoda.
+
+- [FaxZero](https://faxzero.com/)
 
 # Links externos
 
