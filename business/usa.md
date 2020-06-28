@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-27T18:44:16.933Z
+date: 2020-06-28T23:24:51.018Z
 tags: 
 editor: markdown
 ---
@@ -244,4 +244,6 @@ En algunos casos probablemente necesitemos un número de Estados Unidos para usa
 
 - [2ndLine](https://www.2ndline.co/)
 
-# Links externos  
+# Links externos
+
+- [How to Apply for EIN without an SSN or ITIN](https://www.llcuniversity.com/irs/how-to-apply-for-ein-without-ssn/)
