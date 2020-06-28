@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-28T23:24:51.018Z
+date: 2020-06-28T23:25:25.939Z
 tags: 
 editor: markdown
 ---
@@ -247,3 +247,4 @@ En algunos casos probablemente necesitemos un número de Estados Unidos para usa
 # Links externos
 
 - [How to Apply for EIN without an SSN or ITIN](https://www.llcuniversity.com/irs/how-to-apply-for-ein-without-ssn/)
+- [How to Form an LLC in Delaware](https://www.llcuniversity.com/delaware-llc/)
