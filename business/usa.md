@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-28T23:26:24.229Z
+date: 2020-06-28T23:26:52.051Z
 tags: 
 editor: markdown
 ---
@@ -250,4 +250,6 @@ En algunos casos probablemente necesitemos un número de Estados Unidos para usa
 - [How to Form an LLC in Wyoming](https://www.llcuniversity.com/wyoming-llc/)
 - [How to Form an LLC in New Mexico](https://www.llcuniversity.com/new-mexico-llc/)
 - [How to Apply for EIN without an SSN or ITIN](https://www.llcuniversity.com/irs/how-to-apply-for-ein-without-ssn/)
+- [Foreign-owned Single-Member LLC & IRS Form 5472](https://www.llcuniversity.com/irs/form-5472-foreign-owned-llc/)
+
 
