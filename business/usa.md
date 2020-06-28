@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-28T23:39:17.560Z
+date: 2020-06-28T23:39:59.129Z
 tags: 
 editor: markdown
 ---
@@ -246,7 +246,7 @@ En algunos casos probablemente necesitemos un número de Estados Unidos para usa
 
 ## Fax online
 
-Aunque enviar faxes sea algo muy ajeno al presente, los organizmos estatales de Estados Unidos lo siguen usando, y podemos enviarlos y recibirlos desde internet para que la tarea no resulte incomoda.
+Aunque enviar faxes sea algo muy ajeno al presente, los organismos estatales de Estados Unidos lo siguen usando, y podemos enviarlos y recibirlos desde internet para que la tarea no resulte incomoda.
 
 - [FaxZero](https://faxzero.com/)
 - [GotFreeFax](https://www.gotfreefax.com/)
