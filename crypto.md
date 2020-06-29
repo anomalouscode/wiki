@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-29T04:20:39.286Z
+date: 2020-06-29T04:22:31.673Z
 tags: 
 editor: markdown
 ---
@@ -70,4 +70,4 @@ Recuerden hacer backup de sus claves privadas.
 
 - [CoinMonitor](https://coinmonitor.info/)
 - [Criptos AR](https://criptos.com.ar/)
-- [Cryptosaurio](http://www.cryptosaurio.com/)
+- [Cryptosaurio](https://www.cryptosaurio.com/)
