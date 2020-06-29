@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-29T04:19:31.742Z
+date: 2020-06-29T04:19:49.295Z
 tags: 
 editor: markdown
 ---
@@ -41,7 +41,7 @@ Recuerden hacer backup de sus claves privadas
 
 ## Pagos anónimos
 
-Podemos pagar con los bitcoins de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), podes comprar Monero con bitcoins desde [Edge](https://edge.app/)
+Podemos pagar con los bitcoins de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), podes comprar Monero con bitcoins desde [Edge](https://edge.app/).
 
 Deberías usar [Tor Browser](https://www.torproject.org/) or [Tails OS](https://tails.boum.org/) también.
 
