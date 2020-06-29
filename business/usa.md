@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-28T23:39:59.129Z
+date: 2020-06-29T04:49:46.908Z
 tags: 
 editor: markdown
 ---
@@ -260,3 +260,7 @@ Aunque enviar faxes sea algo muy ajeno al presente, los organismos estatales de 
 - [How to Apply for EIN without an SSN or ITIN | LLC University](https://www.llcuniversity.com/irs/how-to-apply-for-ein-without-ssn/)
 - [Foreign-owned Single-Member LLC & IRS Form 5472 | LLC University](https://www.llcuniversity.com/irs/form-5472-foreign-owned-llc/)
 - [How to File Taxes for a Limited Liability Company (LLC) with Foreign Owners | Mata & Baker Tax Consultants](https://www.youtube.com/watch?v=9JtgEk0SBrQ)
+- [How to complete Form SS-4 and get an EIN for a foreign owned US LLC | Mata & Baker Tax Consultants](https://www.youtube.com/watch?v=VaZhnVA-lQ0)
+- [Pay No US Taxes - Foreign Owned LLCs | Mata & Baker Tax Consultants](https://www.youtube.com/watch?v=DftrAx5ImuQ)
+- [Why a Foreign Owned LLC Pays NO TAXES in the United States | Mata & Baker Tax Consultants](https://www.youtube.com/watch?v=MmQlVXuYdKY)
+- [Form 5472 - What is a Reportable Transaction and do I have to File This? | Mata & Baker Tax Consultants](https://www.youtube.com/watch?v=6z1sh2Id1qM)
