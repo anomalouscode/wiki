@@ -2,33 +2,69 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-11T09:02:33.031Z
+date: 2020-06-29T04:19:31.742Z
 tags: 
 editor: markdown
 ---
 
-# Bitcoin (en construccion)
-### Wallets
-##### Recuerden hacer backup de sus claves privadas
+# Bitcoin
 
-Proposito general: [Muun](https://muun.com/) (android/ios), [Samourai](https://samouraiwallet.com/) (android)
+## Wallets
+Recuerden hacer backup de sus claves privadas
 
-Puede recibir pagos Lightning: [Phoenix](https://phoenix.acinq.co/) (android), [Breez](https://breez.technology/) (android/ios)
+### Proposito general
 
-Soporta multiples monedas: [Edge](https://edge.app/), [BRD](https://brd.com/)
+- [Muun](https://muun.com/) (Android/iOS)
+- [Samourai](https://samouraiwallet.com/) (Android)
 
-Hardware wallets: [Trezor](https://trezor.io/), [Ledger](https://www.ledger.com/), [Coldcard](https://coldcardwallet.com/)
+### Recibir pagos Lightning
 
-Guardar montos grandes: [Green](https://blockstream.com/green/), [Casa Keymaster](https://keys.casa/keymaster/) or [Unchained Capital](https://unchained-capital.com/vaults/)
+- [Phoenix](https://phoenix.acinq.co/) (Android)
+- [Breez](https://breez.technology/) (Android/iOS)
 
-Para pagar anonimamente:
+### Soporta múltiples monedas
 
-###### Pagar con los bitcoins de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), podes comprar Monero con bitcoins desde [Edge](https://edge.app/)
+- [Edge](https://edge.app/)
+- [BRD](https://brd.com/)
 
-###### Deberias usar [Tor Browser](https://www.torproject.org/) or [Tails OS](https://tails.boum.org/) tambien.
+### Guardar montos grandes
 
-### Argentina
+- [Green](https://blockstream.com/green/)
+- [Casa Keymaster](https://keys.casa/keymaster/)
+- [Unchained Capital](https://unchained-capital.com/vaults/)
 
-Comprar cripto: [Buenbit](https://buenbit.com/), [Bitso](https://bitso.com/), [Ripio](https://www.ripio.com/), [SatoshiTango](https://www.satoshitango.com/)
+### Hardware wallets
 
-Informacion de mercado: [CoinMonitor](https://coinmonitor.info/), [Criptos AR](https://criptos.com.ar/), [Cryptosaurio](http://www.cryptosaurio.com/)
+- [Trezor](https://trezor.io/)
+- [Ledger](https://www.ledger.com/)
+- [Coldcard](https://coldcardwallet.com/)
+
+## Pagos anónimos
+
+Podemos pagar con los bitcoins de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), podes comprar Monero con bitcoins desde [Edge](https://edge.app/)
+
+Deberías usar [Tor Browser](https://www.torproject.org/) or [Tails OS](https://tails.boum.org/) también.
+
+# Ethereum
+
+## Wallets
+
+- [Argent](https://www.argent.xyz/)
+- [MetaMask](https://metamask.io/)
+
+# Servicios por país
+
+## Argentina
+
+### Comprar criptos
+
+- [Buenbit](https://buenbit.com/)
+- [Bitso](https://bitso.com/)
+- [Ripio](https://www.ripio.com/)
+- [SatoshiTango](https://www.satoshitango.com/)
+
+### Información de mercado
+
+- [CoinMonitor](https://coinmonitor.info/)
+- [Criptos AR](https://criptos.com.ar/)
+- [Cryptosaurio](http://www.cryptosaurio.com/)
