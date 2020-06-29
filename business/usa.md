@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-29T14:06:38.564Z
+date: 2020-06-29T15:43:42.351Z
 tags: 
 editor: markdown
 ---
@@ -251,6 +251,13 @@ Aunque enviar faxes sea algo muy ajeno al presente, los organismos estatales de 
 - [FaxZero](https://faxzero.com/)
 - [GotFreeFax](https://www.gotfreefax.com/)
 - [FaxBetter](https://www.faxbetter.com/)
+
+## Comprar dominios
+
+Una linda dirección web es fundamental para cualquier proyecto.
+
+- [Cloudflare](https://www.cloudflare.com/)
+- [TLD List](https://tld-list.com/)
 
 # Links externos
 
