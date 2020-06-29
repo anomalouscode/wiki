@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-29T04:36:32.059Z
+date: 2020-06-29T04:39:28.191Z
 tags: 
 editor: markdown
 ---
@@ -54,6 +54,17 @@ Recuerden hacer backup de sus claves privadas.
 
 - [Argent](https://www.argent.xyz/)
 - [MetaMask](https://metamask.io/)
+
+# Servicios globales
+
+## Trading exchanges
+
+- [Kraken](https://www.kraken.com/)
+- [Coinbase Pro](https://pro.coinbase.com/)
+
+## Gift Cards
+
+- [Bitrefill](https://www.bitrefill.com/)
 
 # Servicios por país
 
