@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-29T04:49:46.908Z
+date: 2020-06-29T13:57:15.219Z
 tags: 
 editor: markdown
 ---
@@ -19,11 +19,11 @@ Para muchos Estados Unidos es el paraíso fiscal más grande del mundo debido a 
 
 ## LLC
 
-Las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a las ganancias se pagan a nivel personal, pero como los individuos involucrados no encuadran dentro de una entidad sujeta a impuestos en el país no necesitan pagarlos.
+Las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a las ganancias se pagan a nivel personal, pero cuando los individuos involucrados no encuadran dentro de una entidad sujeta a impuestos en el país no necesitan pagarlos.
 
-Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (estado federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde Estados Unidos, ni se deben pagar impuestos como una corporación.
+Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (estado federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde Estados Unidos (pro forma), ni se deben pagar impuestos como una corporación.
 
-Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde Estados Unidos, se puede enviar prácticamente vacío.
+Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde Estados Unidos, se puede enviar prácticamente vacío (pro forma).
 
 ## Corporaciones
 
