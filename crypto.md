@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-29T04:30:14.656Z
+date: 2020-06-29T04:35:17.201Z
 tags: 
 editor: markdown
 ---
@@ -44,7 +44,7 @@ Recuerden hacer backup de sus claves privadas.
 
 Podemos pagar con los bitcoins de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), podes comprar Monero con bitcoins desde [Edge](https://edge.app/).
 
-Deberías usar [Tor Browser](https://www.torproject.org/) or [Tails OS](https://tails.boum.org/) también.
+Deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/) también.
 
 # Ethereum
 
@@ -75,3 +75,9 @@ Recuerden hacer backup de sus claves privadas.
 - [CoinMonitor](https://coinmonitor.info/)
 - [Criptos AR](https://criptos.com.ar/)
 - [Cryptosaurio](https://www.cryptosaurio.com/)
+
+## Europa
+
+### Comprar criptos
+
+- [Kraken](https://www.kraken.com/)
