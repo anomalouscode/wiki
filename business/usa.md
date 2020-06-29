@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-29T13:57:15.219Z
+date: 2020-06-29T14:03:15.041Z
 tags: 
 editor: markdown
 ---
@@ -27,7 +27,7 @@ Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el 
 
 ## Corporaciones
 
-Las Corporaciones declaran sus ganancias con el Form 1120, y aunque no son consideradas como las LLC, siempre hay trucos contables y operativos para reducir el pago de impuestos al mínimo, como reinventir todo lo posible y maximizar los gastos en los propios accionistas. Si tienen dueño extranjero pueden necesitar enviar el Form 5472 también.
+Las Corporaciones declaran sus ganancias con el Form 1120, y aunque no son consideradas como las LLC, siempre hay trucos contables y operativos para reducir el pago de impuestos al mínimo, como reinvertir todo lo posible y maximizar los gastos en los propios accionistas, estrategias utilizadas por grandes corporaciones como Amazon, que aunque gocen de critica en la prensa, están totalmente dentro de la ley, y de hecho, no es mas que el resultado que la ley busca producir adrede. Si tienen dueño extranjero pueden necesitar enviar el Form 5472 también.
 
 El impuesto a las ganancias de las empresas/Corp Tax es del 21% a nivel federal y puede sumarse hasta un 12% más dependiendo del estado (no aplican si es una LLC).
 
