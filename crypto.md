@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-29T04:19:49.295Z
+date: 2020-06-29T04:20:39.286Z
 tags: 
 editor: markdown
 ---
@@ -10,7 +10,8 @@ editor: markdown
 # Bitcoin
 
 ## Wallets
-Recuerden hacer backup de sus claves privadas
+
+Recuerden hacer backup de sus claves privadas.
 
 ### Proposito general
 
@@ -48,6 +49,8 @@ Deberías usar [Tor Browser](https://www.torproject.org/) or [Tails OS](https://
 # Ethereum
 
 ## Wallets
+
+Recuerden hacer backup de sus claves privadas.
 
 - [Argent](https://www.argent.xyz/)
 - [MetaMask](https://metamask.io/)
