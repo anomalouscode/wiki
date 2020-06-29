@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-29T04:22:31.673Z
+date: 2020-06-29T04:30:14.656Z
 tags: 
 editor: markdown
 ---
@@ -65,6 +65,10 @@ Recuerden hacer backup de sus claves privadas.
 - [Bitso](https://bitso.com/)
 - [Ripio](https://www.ripio.com/)
 - [SatoshiTango](https://www.satoshitango.com/)
+- [Qubit](https://www.qubit.com.ar/)
+- [ArgenBTC](https://argenbtc.com/)
+- [CryptoMKT](https://www.cryptomkt.com/)
+- [Buda](https://www.buda.com/)
 
 ### Información de mercado
 
