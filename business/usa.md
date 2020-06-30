@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-30T03:35:13.094Z
+date: 2020-06-30T23:31:30.524Z
 tags: 
 editor: markdown
 ---
@@ -214,12 +214,14 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 - [dLocal](https://dlocal.com/)
 - [EBANX](https://ebanx.com/)
 - [2Checkout](https://www.2checkout.com/)
+- [Checkout.com](https://www.checkout.com/)
 
 ## Criptomonedas
 
 - [OpenNode](https://www.opennode.com/)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
 - [GloBee](https://globee.com/)
+- [CoinPayments](https://www.coinpayments.net/)
 - [BitPay](https://bitpay.com/)
 - [BTCPay Server](https://btcpayserver.org/)
 
