@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-29T15:43:42.351Z
+date: 2020-06-30T02:54:26.381Z
 tags: 
 editor: markdown
 ---
@@ -15,7 +15,9 @@ Estados Unidos permite abrir una empresa remotamente desde prácticamente cualqu
 
 # Impuestos
 
-Para muchos Estados Unidos es el paraíso fiscal más grande del mundo debido a que los extranjeros no residentes con una LLC de Estados Unidos que no cuenten con presencia física local (Effectively Connected Income) no pagan impuestos en Estados Unidos. En términos generales se debe observar si se realiza "trade or business in the United States", ejemplos de esto seria contar con empleados en el país o contar con inventario en un deposito local.
+Para muchos Estados Unidos es "el paraíso fiscal más grande del mundo" debido a que los extranjeros no residentes con una LLC de Estados Unidos que no cuenten con presencia física local (Effectively Connected Income) no pagan impuestos en Estados Unidos. En términos generales se debe observar si se realiza "trade or business in the United States", ejemplos de esto seria contar con empleados en el país o contar con inventario en un deposito local.
+
+Hay que decir que el alcance de esto es limitado y aplica a las empresas activas, para las empresas pasivas de extranjeros existe un impuesto a los dividendos del 30%, es decir que a efectos practicos, si se busca tener una empresa activa que va a facturar a clientes, Estados Unidos nos ofrece una estructura neutral a sus impuestos, que luego nosotros debemos encuadrar a las leyes del pais donde recidimos.
 
 ## LLC
 
