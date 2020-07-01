@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-06-29T04:39:28.191Z
+date: 2020-07-01T02:49:13.382Z
 tags: 
 editor: markdown
 ---
@@ -25,13 +25,13 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Soporta múltiples monedas
 
-- [Edge](https://edge.app/)
-- [BRD](https://brd.com/)
+- [Edge](https://edge.app/) (Android/iOS)
+- [BRD](https://brd.com/) (Android/iOS)
 
 ### Guardar montos grandes
 
-- [Green](https://blockstream.com/green/)
-- [Casa Keymaster](https://keys.casa/keymaster/)
+- [Green](https://blockstream.com/green/) (Android/iOS)
+- [Casa Keymaster](https://keys.casa/keymaster/) (Android/iOS)
 - [Unchained Capital](https://unchained-capital.com/vaults/)
 
 ### Hardware wallets
@@ -52,8 +52,8 @@ Deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://t
 
 Recuerden hacer backup de sus claves privadas.
 
-- [Argent](https://www.argent.xyz/)
-- [MetaMask](https://metamask.io/)
+- [Argent](https://www.argent.xyz/) (Android/iOS)
+- [MetaMask](https://metamask.io/) (Android/iOS)
 
 # Servicios globales
 
