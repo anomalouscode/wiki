@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-07-01T03:01:49.931Z
+date: 2020-07-01T03:10:10.918Z
 tags: 
 editor: markdown
 ---
@@ -104,3 +104,4 @@ Recuerden hacer backup de sus claves privadas.
 - [Kraken](https://www.kraken.com/)
 - [Crypto.com](https://crypto.com/)
 - [Bity](https://bity.com/)
+- [Bitstamp](https://www.bitstamp.net/)
