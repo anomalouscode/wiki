@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-07-01T02:54:40.319Z
+date: 2020-07-01T02:58:16.304Z
 tags: 
 editor: markdown
 ---
@@ -31,7 +31,7 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Guardar montos grandes
 
-- [Green](https://blockstream.com/green/) (Android/iOS)
+- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
 - [Casa Keymaster](https://keys.casa/keymaster/) (Android/iOS)
 - [Unchained Capital](https://unchained-capital.com/vaults/)
 
@@ -54,7 +54,7 @@ Deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://t
 Recuerden hacer backup de sus claves privadas.
 
 - [Argent](https://www.argent.xyz/) (Android/iOS)
-- [MetaMask](https://metamask.io/) (Android/iOS)
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
 
 # Servicios globales
 
