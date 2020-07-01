@@ -2,8 +2,8 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-06-30T23:31:30.524Z
-tags: 
+date: 2020-07-01T02:37:27.973Z
+tags: llc, corporation, wyoming, delaware, new mexico, irs, form 1065, form 1120, form 5472
 editor: markdown
 ---
 
