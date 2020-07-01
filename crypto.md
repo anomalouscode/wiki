@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-07-01T02:49:13.382Z
+date: 2020-07-01T02:54:19.238Z
 tags: 
 editor: markdown
 ---
@@ -18,10 +18,11 @@ Recuerden hacer backup de sus claves privadas.
 - [Muun](https://muun.com/) (Android/iOS)
 - [Samourai](https://samouraiwallet.com/) (Android)
 
-### Recibir pagos Lightning
+### Puede recibir pagos Lightning
 
 - [Phoenix](https://phoenix.acinq.co/) (Android)
 - [Breez](https://breez.technology/) (Android/iOS)
+- [BlueWallet](https://bluewallet.io/) (Android/iOS)
 
 ### Soporta múltiples monedas
 
