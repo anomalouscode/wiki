@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-07-01T02:58:16.304Z
+date: 2020-07-01T03:01:49.931Z
 tags: 
 editor: markdown
 ---
@@ -66,6 +66,15 @@ Recuerden hacer backup de sus claves privadas.
 ## Gift Cards
 
 - [Bitrefill](https://www.bitrefill.com/)
+
+## Procesadores de pago
+
+- [OpenNode](https://www.opennode.com/)
+- [Coinbase Commerce](https://commerce.coinbase.com/)
+- [GloBee](https://globee.com/)
+- [CoinPayments](https://www.coinpayments.net/)
+- [BitPay](https://bitpay.com/)
+- [BTCPay Server](https://btcpayserver.org/)
 
 # Servicios por país
 
