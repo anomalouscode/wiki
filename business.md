@@ -1,8 +1,8 @@
 ---
 title: Empresas
-description: Creando y manejando empresas alrededor del mundo
+description: Creando y manejando empresas alrededor del mundo.
 published: true
-date: 2020-07-01T02:33:29.808Z
+date: 2020-07-01T02:34:15.401Z
 tags: empresas, business, usa, eeuu, estados unidos, llc, srl, inc, corp, gmbh, sa, ag, corporation, corporacion, taxes, impuestos
 editor: markdown
 ---
