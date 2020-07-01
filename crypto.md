@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-07-01T02:54:19.238Z
+date: 2020-07-01T02:54:40.319Z
 tags: 
 editor: markdown
 ---
@@ -13,7 +13,7 @@ editor: markdown
 
 Recuerden hacer backup de sus claves privadas.
 
-### Proposito general
+### Propósito general
 
 - [Muun](https://muun.com/) (Android/iOS)
 - [Samourai](https://samouraiwallet.com/) (Android)
