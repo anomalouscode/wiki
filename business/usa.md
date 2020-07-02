@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-07-01T02:37:27.973Z
+date: 2020-07-02T05:58:58.550Z
 tags: llc, corporation, wyoming, delaware, new mexico, irs, form 1065, form 1120, form 5472
 editor: markdown
 ---
@@ -215,6 +215,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 - [EBANX](https://ebanx.com/)
 - [2Checkout](https://www.2checkout.com/)
 - [Checkout.com](https://www.checkout.com/)
+- [PayU](https://corporate.payu.com/)
 
 ## Criptomonedas
 
