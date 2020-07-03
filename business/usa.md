@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-07-02T05:59:43.822Z
+date: 2020-07-03T22:10:07.113Z
 tags: llc, corporation, wyoming, delaware, new mexico, irs, form 1065, form 1120, form 5472
 editor: markdown
 ---
@@ -178,7 +178,7 @@ Para crear y comenzar con el funcionamiento básico de una empresa en Estados Un
 
 - Pagar al estado local elegido la comisión para incorporarse.
 - Pagar al agente la comisión por el tramite de incorporación.
-- Solicitar a la IRS (estado federal) el numero de EIN (Employer Identification Number), para hacer la declaración anual de impuestos federales y poder abrir una cuenta bancaria, generalmente los agentes ofrecen el tramite, aunque suele ser bastante costoso, se pude reducir costos enviando manualmente el Form SS-4 completo por fax o correo físico a la IRS (ambas cosas se pueden hacer desde internet sin moverse)
+- Solicitar a la IRS (estado federal) el numero de EIN (Employer Identification Number), para hacer la declaración anual de impuestos federales y poder abrir una cuenta bancaria, generalmente los agentes ofrecen el tramite, aunque suele ser bastante costoso, se pude reducir costos enviando manualmente el Form SS-4 completo por fax o correo físico a la IRS (ambas cosas se pueden hacer desde internet sin moverse). Es recomendable llenar los campos de dirección, teléfono y fax con información de servicios de oficina, número y fax virtuales para acelerar la recepción de cualquier comunicación, es normal que los agentes ofrezcan oficina virtual gratis hasta cierta cantidad de recepciones al año y tal vez algunos servicios más.
 
 Y para mantenerse en regla se necesita como mínimo:
 
