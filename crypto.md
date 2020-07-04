@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-07-01T03:10:10.918Z
+date: 2020-07-04T06:00:52.765Z
 tags: 
 editor: markdown
 ---
@@ -55,6 +55,11 @@ Recuerden hacer backup de sus claves privadas.
 
 - [Argent](https://www.argent.xyz/) (Android/iOS)
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
+
+### Hardware wallets
+
+- [Trezor](https://trezor.io/)
+- [Ledger](https://www.ledger.com/)
 
 # Servicios globales
 
