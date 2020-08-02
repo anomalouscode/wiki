@@ -2,7 +2,7 @@
 title: Criptomonedas
 description: 
 published: true
-date: 2020-07-04T06:00:52.765Z
+date: 2020-08-02T10:39:02.574Z
 tags: 
 editor: markdown
 ---
@@ -16,6 +16,7 @@ Recuerden hacer backup de sus claves privadas.
 ### Propósito general
 
 - [Muun](https://muun.com/) (Android/iOS)
+- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
 - [Samourai](https://samouraiwallet.com/) (Android)
 
 ### Puede recibir pagos Lightning
@@ -31,7 +32,7 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Guardar montos grandes
 
-- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
+- [Caravan](https://unchained-capital.github.io/caravan)
 - [Casa Keymaster](https://keys.casa/keymaster/) (Android/iOS)
 - [Unchained Capital](https://unchained-capital.com/vaults/)
 
