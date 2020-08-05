@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-07-03T22:10:07.113Z
+date: 2020-08-05T18:56:10.471Z
 tags: llc, corporation, wyoming, delaware, new mexico, irs, form 1065, form 1120, form 5472
 editor: markdown
 ---
@@ -17,7 +17,7 @@ Estados Unidos permite abrir una empresa remotamente desde prácticamente cualqu
 
 Para muchos Estados Unidos es "el paraíso fiscal más grande del mundo" debido a que los extranjeros no residentes con una LLC de Estados Unidos que no cuenten con presencia física local (Effectively Connected Income) no pagan impuestos en Estados Unidos. En términos generales se debe observar si se realiza "trade or business in the United States", ejemplos de esto seria contar con empleados en el país o contar con inventario en un deposito local.
 
-Hay que decir que el alcance de esto es limitado y aplica a las empresas activas, para las empresas pasivas (es decir que no tienen actividad comercial y sólo reciben ingresos pasivos de inversiones) de extranjeros existe un impuesto a los dividendos de hasta el 30% (withholding tax), por lo que a efectos prácticos, si se busca tener una empresa activa (que va a facturar a clientes), Estados Unidos nos ofrece una estructura neutral a sus impuestos, que luego debemos encuadrar a las leyes del país donde residimos.
+Hay que decir que el alcance de esto es limitado y aplica a las empresas activas, para las empresas pasivas (es decir que no tienen actividad comercial y sólo reciben ingresos pasivos de inversiones) de extranjeros existe un impuesto a los dividendos de hasta el 30% (withholding tax), por lo que a efectos prácticos, si se busca tener una empresa activa (que va a facturar a clientes), Estados Unidos nos ofrece una estructura neutral a sus impuestos, que luego debemos encuadrar a las leyes del país donde residimos. Sin embargo, puede haber algunos trucos, como abrir una Corporación, que no tiene withholding tax, y facturar "consultarias" a una LLC, también nuestra. Pero debido a su complejidad, debemos acudir a un profesional. 
 
 ## LLC
 
