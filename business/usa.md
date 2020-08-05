@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-08-05T19:20:46.656Z
+date: 2020-08-05T19:35:41.387Z
 tags: llc, corporation, wyoming, delaware, new mexico, irs, form 1065, form 1120, form 5472
 editor: markdown
 ---
@@ -235,6 +235,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 Servicios para comprar y vender criptomonedas.
 
 - [Wyre](https://www.sendwyre.com/)
+- [Crypto.com](https://crypto.com/)
 - [Circle](https://www.circle.com/) (no funciona con Mercury porque utilizan un banco intermediario para enviar wires, no pudiendo completar la verificación de la cuenta bancaria)
 
 # Servicios útiles
