@@ -2,7 +2,7 @@
 title: Estados Unidos
 description: 
 published: true
-date: 2020-08-05T18:56:10.471Z
+date: 2020-08-05T19:19:01.887Z
 tags: llc, corporation, wyoming, delaware, new mexico, irs, form 1065, form 1120, form 5472
 editor: markdown
 ---
@@ -171,6 +171,10 @@ Mantenimiento anual (desde el segundo año): 0 dólares para el estado + al meno
 - https://www.zenbusiness.com/
 - https://www.incfile.com/
 - https://www.registeredagentsinc.com/
+
+## Estados no recomendados
+
+Se aconseja evitar estados como Alabama, Alaska, Connecticut, Florida, Georgia, Hawaii, Idaho, Louisiana, Minnesota, New Hampshire, New York, North Carolina, Texas, Vermont, Virginia y Washington, asi como todo estado que tenga una cultura regulatoria excesiva, nos vamos a encontrar con problemas para dar servicios asi como tambien contratarlos, ya que muchas empresas no van a querer lidiar con los costos abusivos que imponen esos estados para operar. Es recomendable revisar que todos los servicios que estemos interesados en usar operen en el estado donde queremos incorporarnos, especialmente hablando de exchanges de criptomonedas.
 
 # Costos generales
 
