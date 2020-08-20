@@ -6,8 +6,9 @@ title: Inicio
 
 [Anomalous](https://anomalous.xyz) Wiki es un espacio abierto de conocimiento libre.
 
-[Twitter](https://twitter.com/anomalouscode)
-[GitHub](https://github.com/anomalouscode)
+Twitter: [@anomalouscode](https://twitter.com/anomalouscode)
+
+GitHub: [@anomalouscode](https://github.com/anomalouscode)
 
 ## Artículos
 
