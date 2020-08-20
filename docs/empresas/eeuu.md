@@ -74,17 +74,17 @@ Mantenimiento anual (desde el segundo año): desde 225 dólares para el estado, 
 
 #### Agentes
 
-- (https://www.delawareregisteredagent.com/)[(https://www.delawareregisteredagent.com/]
-- https://stripe.com/atlas
-- https://firstbase.io/
-- https://www.swyftfilings.com/
-- https://www.northwestregisteredagent.com/
-- https://gust.com/launch
-- https://www.legalzoom.com/
-- https://www.delawareinc.com/
-- https://www.zenbusiness.com/
-- https://www.incfile.com/
-- https://www.registeredagentsinc.com/
+- [delawareregisteredagent.com](https://www.delawareregisteredagent.com/)
+- [stripe.com](https://stripe.com/atlas)
+- [firstbase.io](https://firstbase.io/)
+- [swyftfilings.com](https://www.swyftfilings.com/)
+- [northwestregisteredagent.com](https://www.northwestregisteredagent.com/)
+- [gust.com](https://gust.com/launch)
+- [legalzoom.com](https://www.legalzoom.com/)
+- [delawareinc.com](https://www.delawareinc.com/)
+- [zenbusiness.com](https://www.zenbusiness.com/)
+- [incfile.com](https://www.incfile.com/)
+- [registeredagentsinc.com](https://www.registeredagentsinc.com/)
 
 ### Wyoming
 
