@@ -1,17 +1,14 @@
 ---
-title: Empresas
-description: Creando y manejando empresas alrededor del mundo
-published: true
-date: 2020-07-02T05:57:36.154Z
-tags: empresas, business, usa, eeuu, estados unidos, llc, srl, inc, corp, gmbh, sa, ag, corporation, corporacion, taxes, impuestos, united states
-editor: markdown
+title: Inicio
 ---
+
+# Empresas
 
 A la hora de llevar a cabo un proyecto, la creación de una entidad legal puede ser fundamental para el éxito de este o incluso su mínimo funcionamiento.
 
 Seas un individuo trabajando para una o varias empresas o personas, quieras emprender, quieras invertir, proteger capital, no exponerte a tantos riesgos legales a nivel individual, quieras reducir tus impuestos al mínimo posible, o las leyes de tu país no sean compatibles con lo que querés hacer y necesites otras, o incluso seas un perseguido político, podes aprovechar uno o varios de los tantos países que hay en el mundo a tu favor y el de tu proyecto.
 
-# Tipos
+## Tipos
 
 Podemos encontrar principalmente 2 formas jurídicas:
 
@@ -24,6 +21,6 @@ Las Corporaciones dividen el capital en acciones y pueden cotizar en la bolsa, e
 
 Dependiendo el país también pueden haber grandes diferencias respecto a como son tratadas impositivamente.
 
-# Jurisdicciones
+## Jurisdicciones
 
-- [Estados Unidos](/es/business/usa)
+- [Estados Unidos](/empresas/eeuu)

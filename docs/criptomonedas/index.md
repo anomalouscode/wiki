@@ -1,79 +1,76 @@
 ---
-title: Criptomonedas
-description: 
-published: true
-date: 2020-08-02T10:39:02.574Z
-tags: 
-editor: markdown
+title: Inicio
 ---
 
-# Bitcoin
+# Criptomonedas
 
-## Wallets
+## Bitcoin
+
+### Wallets
 
 Recuerden hacer backup de sus claves privadas.
 
-### Propósito general
+#### Propósito general
 
 - [Muun](https://muun.com/) (Android/iOS)
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
 - [Samourai](https://samouraiwallet.com/) (Android)
 
-### Puede recibir pagos Lightning
+#### Puede recibir pagos Lightning
 
 - [Phoenix](https://phoenix.acinq.co/) (Android)
 - [Breez](https://breez.technology/) (Android/iOS)
 - [BlueWallet](https://bluewallet.io/) (Android/iOS)
 
-### Soporta múltiples monedas
+#### Soporta múltiples monedas
 
 - [Edge](https://edge.app/) (Android/iOS)
 - [BRD](https://brd.com/) (Android/iOS)
 
-### Guardar montos grandes
+#### Guardar montos grandes
 
 - [Caravan](https://unchained-capital.github.io/caravan)
 - [Casa Keymaster](https://keys.casa/keymaster/) (Android/iOS)
 - [Unchained Capital](https://unchained-capital.com/vaults/)
 
-### Hardware wallets
+#### Hardware wallets
 
 - [Trezor](https://trezor.io/)
 - [Ledger](https://www.ledger.com/)
 - [Coldcard](https://coldcardwallet.com/)
 
-## Pagos anónimos
+#### Pagos anónimos
 
 Podemos pagar con los bitcoins de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), podes comprar Monero con bitcoins desde [Edge](https://edge.app/).
 
 Deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/) también.
 
-# Ethereum
+## Ethereum
 
-## Wallets
+### Wallets
 
 Recuerden hacer backup de sus claves privadas.
 
 - [Argent](https://www.argent.xyz/) (Android/iOS)
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
 
-### Hardware wallets
+#### Hardware wallets
 
 - [Trezor](https://trezor.io/)
 - [Ledger](https://www.ledger.com/)
 
-# Servicios globales
+## Servicios globales
 
-## Trading exchanges
+### Trading exchanges
 
 - [Kraken](https://www.kraken.com/)
 - [Coinbase Pro](https://pro.coinbase.com/)
 
-## Gift Cards
+### Gift Cards
 
 - [Bitrefill](https://www.bitrefill.com/)
 
-## Procesadores de pago
+### Procesadores de pago
 
 - [OpenNode](https://www.opennode.com/)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
@@ -82,11 +79,11 @@ Recuerden hacer backup de sus claves privadas.
 - [BitPay](https://bitpay.com/)
 - [BTCPay Server](https://btcpayserver.org/)
 
-# Servicios por país
+## Servicios por país
 
-## Argentina
+### Argentina
 
-### Comprar criptos
+#### Comprar criptos
 
 - [Buenbit](https://buenbit.com/)
 - [Bitso](https://bitso.com/)
@@ -97,15 +94,16 @@ Recuerden hacer backup de sus claves privadas.
 - [CryptoMKT](https://www.cryptomkt.com/)
 - [Buda](https://www.buda.com/)
 
-### Información de mercado
+#### Información de mercado
 
-- [CoinMonitor](https://coinmonitor.info/)
+- [CriptoYa](https://criptoya.com/)
 - [Criptos AR](https://criptos.com.ar/)
+- [CoinMonitor](https://coinmonitor.info/)
 - [Cryptosaurio](https://www.cryptosaurio.com/)
 
-## Europa
+### Europa
 
-### Comprar criptos
+#### Comprar criptos
 
 - [Kraken](https://www.kraken.com/)
 - [Crypto.com](https://crypto.com/)

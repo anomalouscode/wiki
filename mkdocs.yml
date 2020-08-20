@@ -1,0 +1,11 @@
+site_name: Anomalous Wiki
+theme:
+  name: material
+  features:
+    - tabs
+  language: es
+  logo: assets/logo.svg
+  favicon: favicon.ico
+  palette:
+    primary: black
+    accent: pink
