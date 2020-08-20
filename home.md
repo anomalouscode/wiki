@@ -2,7 +2,7 @@
 title: Inicio
 description: 
 published: true
-date: 2020-06-29T04:41:05.425Z
+date: 2020-08-20T08:15:24.439Z
 tags: 
 editor: markdown
 ---
@@ -17,5 +17,5 @@ Los artículos se respaldan automáticamente en nuestro [GitHub](https://github.
 - [Empresas](/es/business)
 - [Criptomonedas](/es/crypto)
 
-> Para editar o aportar artículos a la wiki usar formato markdown. 
+> Para editar o aportar artículos a la wiki hacerlo en GitHub usando formato markdown. 
 {.is-info}
