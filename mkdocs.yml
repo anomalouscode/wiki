@@ -5,11 +5,16 @@ site_author: Anomalous Research Society LLC
 repo_url: https://github.com/anomalouscode/wiki
 theme:
   name: material
-  features:
-    - tabs
   language: es
   logo: assets/logo.svg
   favicon: favicon.ico
   palette:
     primary: black
     accent: pink
+  features:
+    - tabs
+    - search.highlight
+plugins:
+  - search:
+      lang: es
+      prebuild_index: true
