@@ -10,7 +10,13 @@ title: Inicio
 
 Recuerden hacer backup de sus claves privadas.
 
-#### Propósito general
+#### Soporta múltiples monedas
+
+- [Trust](https://trustwallet.com/) (Android/iOS)
+- [BRD](https://brd.com/) (Android/iOS)
+- [Edge](https://edge.app/) (Android/iOS)
+
+#### Sólo Bitcoin
 
 - [Muun](https://muun.com/) (Android/iOS)
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
@@ -21,11 +27,6 @@ Recuerden hacer backup de sus claves privadas.
 - [Phoenix](https://phoenix.acinq.co/) (Android)
 - [Breez](https://breez.technology/) (Android/iOS)
 - [BlueWallet](https://bluewallet.io/) (Android/iOS)
-
-#### Soporta múltiples monedas
-
-- [Edge](https://edge.app/) (Android/iOS)
-- [BRD](https://brd.com/) (Android/iOS)
 
 #### Guardar montos grandes
 
@@ -50,6 +51,14 @@ Deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://t
 ### Wallets
 
 Recuerden hacer backup de sus claves privadas.
+
+#### Soporta múltiples monedas
+
+- [Trust](https://trustwallet.com/) (Android/iOS)
+- [BRD](https://brd.com/) (Android/iOS)
+- [Edge](https://edge.app/) (Android/iOS)
+
+#### Sólo Ethereum
 
 - [Argent](https://www.argent.xyz/) (Android/iOS)
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
@@ -85,6 +94,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Comprar criptos
 
+- [Binance P2P](https://c2c.binance.com/)
 - [Buenbit](https://buenbit.com/)
 - [Bitso](https://bitso.com/)
 - [Ripio](https://www.ripio.com/)
