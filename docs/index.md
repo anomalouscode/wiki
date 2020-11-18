@@ -12,7 +12,7 @@ GitHub: [@anomalouscode](https://github.com/anomalouscode)
 
 ## Artículos
 
-- [Empresas](/empresas)
-- [Criptomonedas](/criptomonedas)
+- [Empresas](empresas/)
+- [Criptomonedas](criptomonedas/)
 
 > Para editar o aportar artículos a la wiki hacerlo en GitHub usando formato markdown.
