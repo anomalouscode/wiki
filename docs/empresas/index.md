@@ -23,4 +23,4 @@ Dependiendo el país también pueden haber grandes diferencias respecto a como s
 
 ## Jurisdicciones
 
-- [Estados Unidos](/empresas/eeuu)
+- [Estados Unidos](empresas/eeuu/)
