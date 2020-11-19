@@ -72,8 +72,10 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Trading exchanges
 
+- [Binance](https://www.binance.com/)
 - [Kraken](https://www.kraken.com/)
 - [Coinbase Pro](https://pro.coinbase.com/)
+- [FTX](https://ftx.com/)
 
 ### Gift Cards
 
