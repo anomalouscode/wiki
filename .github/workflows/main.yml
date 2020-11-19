@@ -17,6 +17,6 @@ jobs:
       - run: cp -r site/ tmp/home/
       - run: mkdir -p site/es/
       - run: mv tmp/home/ site/es/
-      - uses: aquiladev/ipfs-action@v1
+      - uses: aquiladev/ipfs-action@v0.1.5
         with:
           path: ./site
