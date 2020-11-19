@@ -12,4 +12,11 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build --clean --site-dir site
+      - run: mkdir tmp/
+      - run: cp -r site/ tmp/home/
+      - run: mkdir -p site/es/
+      - run: mv tmp/home/ site/es/
+      - uses: aquiladev/ipfs-action@v1
+        with:
+          path: ./site
