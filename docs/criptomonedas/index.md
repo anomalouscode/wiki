@@ -63,6 +63,14 @@ Recuerden hacer backup de sus claves privadas.
 - [Argent](https://www.argent.xyz/) (Android/iOS)
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
 
+#### Puede recibir pagos Loopring
+
+- [Loopring Wallet](https://loopring.io/) (Android)
+
+#### Guardar montos grandes
+
+- [Gnosis Safe](https://gnosis-safe.io/)
+
 #### Hardware wallets
 
 - [Trezor](https://trezor.io/)
@@ -72,10 +80,11 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Trading exchanges
 
-- [Binance](https://www.binance.com/)
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
 - [Kraken](https://www.kraken.com/)
-- [Coinbase Pro](https://pro.coinbase.com/)
+- [Bitfinex](https://www.bitfinex.com/)
 - [FTX](https://ftx.com/)
+- [Coinbase Pro](https://pro.coinbase.com/)
 
 ### Gift Cards
 
@@ -94,20 +103,9 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Argentina
 
-#### Comprar criptos
+#### Comprar criptos (Transferencia bancaria)
 
-- [Binance P2P](https://c2c.binance.com/)
-- [Buenbit](https://buenbit.com/)
-- [Bitso](https://bitso.com/)
-- [Ripio](https://www.ripio.com/)
-- [SatoshiTango](https://www.satoshitango.com/)
-- [Qubit](https://www.qubit.com.ar/)
-- [ArgenBTC](https://argenbtc.com/)
-- [CryptoMKT](https://www.cryptomkt.com/)
-- [Buda](https://www.buda.com/)
-
-#### Información de mercado
-
+- [Binance P2P](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
 - [CriptoYa](https://criptoya.com/)
 - [Criptos AR](https://criptos.com.ar/)
 - [CoinMonitor](https://coinmonitor.info/)
@@ -115,8 +113,9 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Europa
 
-#### Comprar criptos
+#### Comprar criptos (SEPA)
 
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
 - [Kraken](https://www.kraken.com/)
 - [Crypto.com](https://crypto.com/)
 - [Bity](https://bity.com/)
