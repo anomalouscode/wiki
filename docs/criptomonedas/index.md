@@ -117,6 +117,6 @@ Recuerden hacer backup de sus claves privadas.
 
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
 - [Kraken](https://www.kraken.com/)
-- [Crypto.com](https://crypto.com/)
+- [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)

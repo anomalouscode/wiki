@@ -225,7 +225,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 Servicios para comprar y vender criptomonedas.
 
 - [Wyre](https://www.sendwyre.com/)
-- [Crypto.com](https://crypto.com/)
+- [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
 - [Circle](https://www.circle.com/) (no funciona con Mercury porque utilizan un banco intermediario para enviar wires, no pudiendo completar la verificación de la cuenta bancaria)
 
 ## Servicios útiles
