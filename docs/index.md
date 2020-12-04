@@ -19,8 +19,10 @@ GitHub: [@anomalouscode](https://github.com/anomalouscode)
 
 ## Donar
 
-[Bitcoin, Lightning](https://checkout.opennode.com/p/464ee62b-2884-4929-891e-27b6ce5ed4ff)
+- [Bitcoin, Lightning](https://checkout.opennode.com/p/464ee62b-2884-4929-891e-27b6ce5ed4ff)
 
-[ETH, XMR, LTC, XRP, DOGE, DCR](https://globee.com/donate/ZbWyAR2VwD474qN063nJ79)
+- [DAI, USDC, LTC, ETH, BCH](https://commerce.coinbase.com/checkout/34fc641d-b06f-401d-b0f8-9fa266dbd63c)
 
-[PayPal](https://www.paypal.com/donate?hosted_button_id=LBVYB6G6GAJQW)
+- [XMR, DOGE, XRP, DCR](https://globee.com/donate/ZbWyAR2VwD474qN063nJ79)
+
+- [PayPal](https://www.paypal.com/donate?hosted_button_id=LBVYB6G6GAJQW)
