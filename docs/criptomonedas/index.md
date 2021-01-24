@@ -82,9 +82,10 @@ Recuerden hacer backup de sus claves privadas.
 
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
 - [Kraken](https://www.kraken.com/)
-- [Bitfinex](https://www.bitfinex.com/)
+- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6)
 - [FTX](https://ftx.com/#a=6290039) (Referido: 6290039)
 - [Coinbase Pro](https://pro.coinbase.com/)
+- [Bitfinex](https://www.bitfinex.com/)
 
 ### Gift Cards
 
@@ -117,6 +118,7 @@ Recuerden hacer backup de sus claves privadas.
 
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
 - [Kraken](https://www.kraken.com/)
+- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6)
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)
@@ -129,7 +131,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Cash App](https://cash.app/)
 - [Kraken](https://www.kraken.com/)
 - [Coinbase](https://www.coinbase.com/)
-- [Gemini](https://www.gemini.com/)
+- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6)
 - [Binance.US](https://www.binance.us/)
 - [Wyre](https://www.sendwyre.com/)
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
