@@ -10,23 +10,23 @@ title: Inicio
 
 Recuerden hacer backup de sus claves privadas.
 
-#### Soporta múltiples monedas
-
-- [Trust](https://trustwallet.com/) (Android/iOS)
-- [BRD](https://brd.com/) (Android/iOS)
-- [Edge](https://edge.app/) (Android/iOS)
-
 #### Sólo Bitcoin
 
-- [Muun](https://muun.com/) (Android/iOS)
+⚡ = Soporta Lightning Network
+
+- [Muun](https://muun.com/) (Android/iOS) ⚡
+- [Phoenix](https://phoenix.acinq.co/) (Android) ⚡
+- [Breez](https://breez.technology/) (Android/iOS) ⚡
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
 - [Samourai](https://samouraiwallet.com/) (Android)
+- [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows)
 
-#### Puede recibir pagos Lightning
+#### Soporta múltiples monedas
 
-- [Phoenix](https://phoenix.acinq.co/) (Android)
-- [Breez](https://breez.technology/) (Android/iOS)
-- [BlueWallet](https://bluewallet.io/) (Android/iOS)
+🛡️ = Soporta Monero
+
+- [Trust](https://trustwallet.com/) (Android/iOS)
+- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 🛡️
 
 #### Guardar montos grandes
 
@@ -42,7 +42,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Pagos anónimos
 
-Podemos pagar con los bitcoins de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), podes comprar Monero con bitcoins desde [Edge](https://edge.app/).
+Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/) o [Changelly](https://changelly.com/), podes comprar Monero con Bitcoin en un exchange, buscalos en la sección exchanges de este artículo.
 
 Deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/) también.
 
@@ -55,8 +55,6 @@ Recuerden hacer backup de sus claves privadas.
 #### Soporta múltiples monedas
 
 - [Trust](https://trustwallet.com/) (Android/iOS)
-- [BRD](https://brd.com/) (Android/iOS)
-- [Edge](https://edge.app/) (Android/iOS)
 
 #### Sólo Ethereum
 
@@ -80,12 +78,17 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Trading exchanges
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
-- [Kraken](https://www.kraken.com/)
+⚡ = Soporta Lightning Network
+
+🛡️ = Soporta Monero
+
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️
+- [Kraken](https://www.kraken.com/) 🛡️
 - [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6)
 - [FTX](https://ftx.com/#a=6290039) (Referido: 6290039)
 - [Coinbase Pro](https://pro.coinbase.com/)
-- [Bitfinex](https://www.bitfinex.com/)
+- [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
+- [Changelly](https://changelly.com/) 🛡️
 
 ### Gift Cards
 
