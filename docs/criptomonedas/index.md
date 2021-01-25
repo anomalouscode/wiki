@@ -23,10 +23,14 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Soporta múltiples monedas
 
+📱 = Soporta Dapps
+
 🛡️ = Soporta Monero
 
-- [Trust](https://trustwallet.com/) (Android/iOS)
-- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 🛡️
+- [Trust](https://trustwallet.com/) (Android/iOS) 📱
+- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
+- [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
+- [Edge](https://edge.app/) (Android/iOS) 🛡️
 
 #### Guardar montos grandes
 
@@ -42,9 +46,9 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Pagos anónimos
 
-Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/) o [Changelly](https://changelly.com/), podes comprar Monero con Bitcoin en un exchange, buscalos en la sección exchanges de este artículo.
+Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), [Changelly](https://changelly.com/) o [FixedFloat](https://fixedfloat.com/), podes comprar Monero con Bitcoin en un exchange, buscalos en la sección exchanges de este artículo.
 
-Deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/) también.
+También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
 
 ## Ethereum
 
@@ -55,11 +59,12 @@ Recuerden hacer backup de sus claves privadas.
 #### Soporta múltiples monedas
 
 - [Trust](https://trustwallet.com/) (Android/iOS)
+- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows)
 
 #### Sólo Ethereum
 
-- [Argent](https://www.argent.xyz/) (Android/iOS)
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
+- [Argent](https://www.argent.xyz/) (Android/iOS)
 
 #### Puede recibir pagos Loopring
 
@@ -88,6 +93,7 @@ Recuerden hacer backup de sus claves privadas.
 - [FTX](https://ftx.com/#a=6290039) (Referido: 6290039)
 - [Coinbase Pro](https://pro.coinbase.com/)
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
+- [FixedFloat](https://fixedfloat.com/) ⚡🛡️
 - [Changelly](https://changelly.com/) 🛡️
 
 ### Gift Cards
