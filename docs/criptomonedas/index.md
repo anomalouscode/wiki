@@ -14,12 +14,14 @@ Recuerden hacer backup de sus claves privadas.
 
 ⚡ = Soporta Lightning Network
 
+👁 = Soporta CoinJoins
+
 - [Muun](https://muun.com/) (Android/iOS) ⚡
 - [Phoenix](https://phoenix.acinq.co/) (Android) ⚡
 - [Breez](https://breez.technology/) (Android/iOS) ⚡
+- [Samourai](https://samouraiwallet.com/) (Android) 👁
+- [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows) 👁
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
-- [Samourai](https://samouraiwallet.com/) (Android)
-- [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows)
 
 #### Soporta múltiples monedas
 
@@ -28,6 +30,7 @@ Recuerden hacer backup de sus claves privadas.
 🛡️ = Soporta Monero
 
 - [Trust](https://trustwallet.com/) (Android/iOS) 📱
+- [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
 - [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
 - [Edge](https://edge.app/) (Android/iOS) 🛡️
@@ -59,6 +62,7 @@ Recuerden hacer backup de sus claves privadas.
 #### Soporta múltiples monedas
 
 - [Trust](https://trustwallet.com/) (Android/iOS)
+- [SafePal](https://www.safepal.io/download) (Android/iOS)
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows)
 
 #### Sólo Ethereum
