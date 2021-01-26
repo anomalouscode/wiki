@@ -61,9 +61,15 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Soporta múltiples monedas
 
-- [Trust](https://trustwallet.com/) (Android/iOS)
-- [SafePal](https://www.safepal.io/download) (Android/iOS)
-- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows)
+📱 = Soporta Dapps
+
+🛡️ = Soporta Monero
+
+- [Trust](https://trustwallet.com/) (Android/iOS) 📱
+- [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
+- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
+- [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
+- [Edge](https://edge.app/) (Android/iOS) 🛡️
 
 #### Sólo Ethereum
 
@@ -87,18 +93,20 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Trading exchanges
 
+🤑 = Tiene retiros gratis
+
 ⚡ = Soporta Lightning Network
 
 🛡️ = Soporta Monero
 
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️
 - [Kraken](https://www.kraken.com/) 🛡️
-- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6)
-- [FTX](https://ftx.com/#a=6290039) (Referido: 6290039)
+- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
+- [FTX](https://ftx.com/#a=6290039) (Referido: 6290039) 🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
-- [FixedFloat](https://fixedfloat.com/) ⚡🛡️
 - [Changelly](https://changelly.com/) 🛡️
+- [FixedFloat](https://fixedfloat.com/) ⚡🛡️
 
 ### Gift Cards
 
@@ -129,9 +137,13 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Comprar criptos (SEPA)
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
-- [Kraken](https://www.kraken.com/)
-- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6)
+🤑 = Tiene retiros gratis
+
+🛡️ = Soporta Monero
+
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️
+- [Kraken](https://www.kraken.com/) 🛡️
+- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)
@@ -140,11 +152,15 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Comprar criptos (Wire/ACH)
 
-- [BlockFi](https://blockfi.com/?ref=11b52d14) (Referido: 11b52d14)
+🤑 = Tiene retiros gratis
+
+🛡️ = Soporta Monero
+
+- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
+- [BlockFi](https://blockfi.com/?ref=11b52d14) (Referido: 11b52d14) 🤑
+- [Kraken](https://www.kraken.com/) 🛡️
 - [Cash App](https://cash.app/)
-- [Kraken](https://www.kraken.com/)
 - [Coinbase](https://www.coinbase.com/)
-- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6)
 - [Binance.US](https://www.binance.us/)
 - [Wyre](https://www.sendwyre.com/)
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
