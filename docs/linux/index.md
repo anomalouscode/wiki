@@ -17,6 +17,7 @@ title: Inicio
 ### Software más testeado, menos actualizaciones de sistema
 
 - [Ubuntu](https://ubuntu.com/download/desktop) (Basado en Debian)
+- [Kubuntu](https://kubuntu.org/getkubuntu/) (Basado en Ubuntu)
 - [KDE neon](https://neon.kde.org/download) (Basado en Ubuntu)
 - [Linux Mint](https://linuxmint.com/download.php) (Basado en Ubuntu)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
