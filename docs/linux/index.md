@@ -9,7 +9,7 @@ title: Inicio
 ### Software y funciones más nuevas, último soporte de hardware
 
 - [Fedora](https://getfedora.org/) (Independiente)
-- [Debian Testing](https://www.debian.org/devel/debian-installer/) (Independiente)
+- [Debian Testing](https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/weekly-live-builds/amd64/iso-hybrid/) (Independiente)
 - [Arch Linux](https://www.archlinux.org/) (Independiente)
 - [Manjaro](https://manjaro.org/) (Basado en Arch)
 - [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
@@ -17,9 +17,9 @@ title: Inicio
 ### Software más testeado, menos actualizaciones de sistema
 
 - [Ubuntu](https://ubuntu.com/download/desktop) (Basado en Debian)
+- [Linux Mint](https://linuxmint.com/download.php) (Basado en Ubuntu)
 - [Kubuntu](https://kubuntu.org/getkubuntu/) (Basado en Ubuntu)
 - [KDE neon](https://neon.kde.org/download) (Basado en Ubuntu)
-- [Linux Mint](https://linuxmint.com/download.php) (Basado en Ubuntu)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 - [Xubuntu](https://xubuntu.org/) (Basado en Ubuntu)
 - [Lubuntu](https://lubuntu.me/) (Basado en Ubuntu)
