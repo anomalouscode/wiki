@@ -28,3 +28,6 @@ title: Inicio
 ### Estabilidad de central nuclear, actualizaciones mínimas
 
 - [Debian](https://www.debian.org/CD/live/) (Independiente)
+- [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (Basado en Fedora)
+- [Oracle Linux](https://www.oracle.com/linux/) (Basado en RHEL)
+- [CentOS](https://www.centos.org/) (Basado en RHEL)
