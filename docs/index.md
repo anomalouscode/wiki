@@ -23,10 +23,10 @@ Email: contacto@anomalous.xyz
 
 ## Donar
 
-- [Bitcoin, Lightning](https://checkout.opennode.com/p/464ee62b-2884-4929-891e-27b6ce5ed4ff)
+- [Bitcoin, Lightning](https://checkout.opennode.com/p/32c4dcff-1ef4-44ba-908e-cccf7f564233)
 
-- [DAI, USDC, LTC, ETH, BCH](https://commerce.coinbase.com/checkout/34fc641d-b06f-401d-b0f8-9fa266dbd63c)
+- [DAI, USDC, LTC, ETH, BCH](https://commerce.coinbase.com/checkout/cc3345c4-4697-44f7-a3a1-0ada15e37697)
 
-- [XMR, DOGE, XRP, DCR](https://globee.com/donate/ZbWyAR2VwD474qN063nJ79)
+- [Monero, DOGE, DCR](https://globee.com/donate/Mmp6rjZ53Yo2ZOPGKkgVbR)
 
 - [PayPal](https://www.paypal.com/donate?hosted_button_id=LBVYB6G6GAJQW)
