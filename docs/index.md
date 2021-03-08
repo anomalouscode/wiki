@@ -10,7 +10,7 @@ Twitter: [@anomalouscode](https://twitter.com/anomalouscode)
 
 GitHub: [@anomalouscode](https://github.com/anomalouscode)
 
-Email: contacto@anomalous.xyz
+Email: team@anomalous.xyz
 
 ## Artículos
 
@@ -18,6 +18,7 @@ Email: contacto@anomalous.xyz
 - [Criptomonedas](criptomonedas/)
 - [Linux](linux/)
 - [Privacidad y seguridad](privacidad/)
+- [PDFs](pdfs/)
 
 > Para editar o aportar artículos a la wiki hacerlo en GitHub usando formato markdown.
 
