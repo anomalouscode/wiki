@@ -4,16 +4,22 @@ title: Inicio
 
 # PDFs
 
-- [The C Programming Language, K&R (1978 - 1988)](the-c-programming-language.pdf)
+- [The C Programming Language](the-c-programming-language.pdf), K&R (1978 - 1988)
 
-- [Philosophy of Computer Science, William J. Rapaport (2004 - 2020)](phics.pdf)
+- [The Code Book](the-code-book.pdf), Simon Singh (2001)
 
-- [Bitcoin: A Peer-to-Peer Electronic Cash System, Satoshi Nakamoto (2009)](bitcoin.pdf)
+- [Philosophy of Computer Science](phics.pdf), William J. Rapaport (2004 - 2020)
 
-- [The Web Application Hacker's Handbook, Dafydd Stuttard & Marcus Pinto (2011)](the-web-application-hackers-handbook.pdf)
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](bitcoin.pdf), Satoshi Nakamoto (2009)
 
-- [Crypto 101, lvh (2013 - 2017)](crypto101.pdf)
+- [The Web Application Hacker's Handbook](the-web-application-hackers-handbook.pdf), Dafydd Stuttard & Marcus Pinto (2011)
 
-- [Web Hacking 101, Peter Yaworski (2015 - 2018)](web-hacking-101.pdf)
+- [Crypto 101](crypto101.pdf), lvh (2013 - 2017)
 
-- [Breaking into Information Security, Andy Gill (2016 - 2021)](ltr101-breaking-into-infosec.pdf)
+- [Mastering Bitcoin](mastering-bitcoin.pdf), Andreas M. Antonopoulos (2014 - 2017) [GitHub Version](https://github.com/bitcoinbook/bitcoinbook)
+
+- [Web Hacking 101](web-hacking-101.pdf), Peter Yaworski (2015 - 2018)
+
+- [Breaking into Information Security](ltr101-breaking-into-infosec.pdf), Andy Gill (2016 - 2021)
+
+- [Mastering Ethereum](mastering-ethereum.pdf), Andreas M. Antonopoulos (2018) [GitHub Version](https://github.com/ethereumbook/ethereumbook)
