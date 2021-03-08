@@ -220,12 +220,18 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 - [BitPay](https://bitpay.com/)
 - [BTCPay Server](https://btcpayserver.org/)
 
-## Exchanges
+## Exchanges institucionales
 
-Servicios para comprar y vender criptomonedas.
+Servicios para comprar y vender criptomonedas como empresa.
 
+🤑 = Tiene retiros gratis
+
+🛡️ = Soporta Monero
+
+- [Gemini](https://www.gemini.com/institutions) 🤑
+- [Kraken](https://www.kraken.com/en-us/institutions) 🛡️
+- [Coinbase Prime](https://primebroker.coinbase.com/)
 - [Wyre](https://www.sendwyre.com/)
-- [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
 - [Circle](https://www.circle.com/) (no funciona con Mercury porque utilizan un banco intermediario para enviar wires, no pudiendo completar la verificación de la cuenta bancaria)
 
 ## Servicios útiles
