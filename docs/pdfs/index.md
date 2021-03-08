@@ -8,7 +8,7 @@ title: Inicio
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System, Satoshi Nakamoto (2009)](bitcoin.pdf)
 
-- [The Web Application Hacker's Handbook (Dafydd Stuttard & Marcus Pinto, 2011)](the-web-application-hackers-handbook.pdf)
+- [The Web Application Hacker's Handbook, Dafydd Stuttard & Marcus Pinto (2011)](the-web-application-hackers-handbook.pdf)
 
 - [Crypto 101, lvh (2013 - 2017)](crypto101.pdf)
 
