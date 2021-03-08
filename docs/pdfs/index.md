@@ -6,6 +6,8 @@ title: Inicio
 
 - [The C Programming Language, K&R (1978 - 1988)](the-c-programming-language.pdf)
 
+- [Philosophy of Computer Science, William J. Rapaport (2004 - 2020)](phics.pdf)
+
 - [Bitcoin: A Peer-to-Peer Electronic Cash System, Satoshi Nakamoto (2009)](bitcoin.pdf)
 
 - [The Web Application Hacker's Handbook, Dafydd Stuttard & Marcus Pinto (2011)](the-web-application-hackers-handbook.pdf)
