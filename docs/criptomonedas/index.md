@@ -105,6 +105,7 @@ Recuerden hacer backup de sus claves privadas.
 - [FTX](https://ftx.com/#a=6290039) (Referido: 6290039) 🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
+- [OKCoin](https://www.okcoin.com/) ⚡
 - [Changelly](https://changelly.com/) 🛡️
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️
 
