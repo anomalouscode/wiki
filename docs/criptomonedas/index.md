@@ -99,13 +99,13 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️🤑
 - [Kraken](https://www.kraken.com/) 🛡️
 - [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
 - [FTX](https://ftx.com/#a=6290039) (Referido: 6290039) 🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
-- [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
-- [OKCoin](https://www.okcoin.com/) ⚡
+- [Bitfinex](https://www.bitfinex.com/) ⚡🛡️🤑
+- [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Changelly](https://changelly.com/) 🛡️
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️
 
@@ -142,10 +142,12 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️🤑
 - [Kraken](https://www.kraken.com/) 🛡️
 - [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
+- [FTX](https://ftx.com/#a=6290039) (Referido: 6290039) 🤑
+- [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)
 
@@ -157,11 +159,13 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
+- [FTX US](https://ftx.us/) 🤑
 - [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
 - [BlockFi](https://blockfi.com/?ref=11b52d14) (Referido: 11b52d14) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
-- [Cash App](https://cash.app/)
+- [Cash App](https://cash.app/) 🤑
 - [Coinbase](https://www.coinbase.com/)
+- [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Binance.US](https://www.binance.us/)
 - [Wyre](https://www.sendwyre.com/)
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
