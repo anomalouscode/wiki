@@ -138,6 +138,8 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Comprar criptos (SEPA)
 
+⚡ = Soporta Lightning Network
+
 🛡️ = Soporta Monero
 
 🤑 = Tiene retiros gratis
@@ -154,6 +156,8 @@ Recuerden hacer backup de sus claves privadas.
 ### Estados Unidos
 
 #### Comprar criptos (Wire/ACH)
+
+⚡ = Soporta Lightning Network
 
 🛡️ = Soporta Monero
 
