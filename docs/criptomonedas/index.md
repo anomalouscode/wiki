@@ -12,18 +12,22 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Sólo Bitcoin
 
+📖 = Es open source
+
 ⚡ = Soporta Lightning Network
 
 👁 = Soporta CoinJoins
 
-- [Muun](https://muun.com/) (Android/iOS) ⚡
-- [Phoenix](https://phoenix.acinq.co/) (Android) ⚡
-- [Breez](https://breez.technology/) (Android/iOS) ⚡
-- [Samourai](https://samouraiwallet.com/) (Android) 👁
-- [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows) 👁
-- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows)
+- [Muun](https://muun.com/) (Android/iOS) 📖⚡
+- [Phoenix](https://phoenix.acinq.co/) (Android) 📖⚡
+- [Breez](https://breez.technology/) (Android/iOS) 📖⚡
+- [Samourai](https://samouraiwallet.com/) (Android) 📖👁
+- [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
+- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
 
 #### Soporta múltiples monedas
+
+📖 = Es open source
 
 📱 = Soporta Dapps
 
@@ -33,7 +37,7 @@ Recuerden hacer backup de sus claves privadas.
 - [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
 - [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
-- [Edge](https://edge.app/) (Android/iOS) 🛡️
+- [Edge](https://edge.app/) (Android/iOS) 📖🛡️
 
 #### Guardar montos grandes
 
@@ -59,7 +63,19 @@ También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](
 
 Recuerden hacer backup de sus claves privadas.
 
+#### Sólo Ethereum
+
+📖 = Es open source
+
+📱 = Soporta Dapps
+
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱
+- [Argent](https://www.argent.xyz/) (Android/iOS) 📖📱
+
 #### Soporta múltiples monedas
+
+
+📖 = Es open source
 
 📱 = Soporta Dapps
 
@@ -69,16 +85,7 @@ Recuerden hacer backup de sus claves privadas.
 - [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
 - [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
-- [Edge](https://edge.app/) (Android/iOS) 🛡️
-
-#### Sólo Ethereum
-
-- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
-- [Argent](https://www.argent.xyz/) (Android/iOS)
-
-#### Puede recibir pagos Loopring
-
-- [Loopring Wallet](https://loopring.io/) (Android)
+- [Edge](https://edge.app/) (Android/iOS) 📖🛡️
 
 #### Guardar montos grandes
 
@@ -106,7 +113,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Changelly](https://changelly.com/) 🛡️
-- [FixedFloat](https://fixedfloat.com/) ⚡🛡️
+- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
 
 ### Gift Cards
