@@ -24,6 +24,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Samourai](https://samouraiwallet.com/) (Android) 📖👁
 - [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
+- [Electrum](https://electrum.org/) (Android/Linux/Mac/Windows) 📖⚡
 
 #### Soporta múltiples monedas
 
@@ -41,9 +42,9 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Guardar montos grandes
 
-- [Caravan](https://unchained-capital.github.io/caravan)
 - [Casa Keymaster](https://keys.casa/keymaster/) (Android/iOS)
-- [Unchained Capital](https://unchained-capital.com/vaults/)
+- [Unchained Capital](https://unchained-capital.com/vaults/) (Web)
+- [Caravan](https://unchained-capital.github.io/caravan/) (Web)
 
 #### Hardware wallets
 
@@ -74,7 +75,6 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Soporta múltiples monedas
 
-
 📖 = Es open source
 
 📱 = Soporta Dapps
@@ -89,7 +89,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Guardar montos grandes
 
-- [Gnosis Safe](https://gnosis-safe.io/)
+- [Gnosis Safe](https://gnosis-safe.io/) (Web/Android/iOS/Linux/Mac/Windows)
 
 #### Hardware wallets
 
