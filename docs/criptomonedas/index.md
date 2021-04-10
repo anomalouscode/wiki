@@ -71,7 +71,7 @@ Recuerden hacer backup de sus claves privadas.
 📱 = Soporta Dapps
 
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱
-- [Argent](https://www.argent.xyz/) (Android/iOS) 📖📱
+- [Argent](https://www.argent.xyz/) (Android/iOS) 📱
 
 #### Soporta múltiples monedas
 
