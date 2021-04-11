@@ -224,12 +224,16 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 
 Servicios para comprar y vender criptomonedas como empresa.
 
-🤑 = Tiene retiros gratis
+⚡ = Soporta Lightning Network
 
 🛡️ = Soporta Monero
 
+🤑 = Tiene retiros gratis
+
+- [FTX US](https://ftx.us/) 🤑
 - [Gemini](https://www.gemini.com/institutions) 🤑
 - [Kraken](https://www.kraken.com/en-us/institutions) 🛡️
+- [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Coinbase Prime](https://primebroker.coinbase.com/)
 - [Wyre](https://www.sendwyre.com/)
 - [Circle](https://www.circle.com/) (no funciona con Mercury porque utilizan un banco intermediario para enviar wires, no pudiendo completar la verificación de la cuenta bancaria)
