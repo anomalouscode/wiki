@@ -28,4 +28,4 @@ Email: team@anomalous.xyz
 
 - [ETH, XMR, LTC, DOGE, DCR](https://globee.com/donate/ZbWyAR2VwD474qN063nJ79)
 
-- [PayPal](https://www.paypal.com/donate?hosted_button_id=LBVYB6G6GAJQW)
+- [PayPal](https://www.paypal.com/donate?hosted_button_id=PMTWEW3YQPHAJ)
