@@ -21,6 +21,8 @@ Recuerden hacer backup de sus claves privadas.
 - [Muun](https://muun.com/) (Android/iOS) 📖⚡
 - [Phoenix](https://phoenix.acinq.co/) (Android) 📖⚡
 - [Breez](https://breez.technology/) (Android/iOS) 📖⚡
+- [BlueWallet](https://bluewallet.io/) (Android/iOS/Mac) 📖⚡
+- [Umbrel](https://getumbrel.com/) (Full node) 📖⚡
 - [Samourai](https://samouraiwallet.com/) (Android) 📖👁
 - [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
