@@ -10,6 +10,7 @@ title: Inicio
 
 - [Fedora](https://getfedora.org/) (Independiente)
 - [Debian Testing](https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/weekly-live-builds/amd64/iso-hybrid/) (Independiente)
+- [Kali Linux](https://www.kali.org/) (Basado en Debian)
 - [Arch Linux](https://www.archlinux.org/) (Independiente)
 - [Manjaro](https://manjaro.org/) (Basado en Arch)
 - [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
@@ -29,5 +30,7 @@ title: Inicio
 
 - [Debian](https://www.debian.org/CD/live/) (Independiente)
 - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (Basado en Fedora)
+- [Rocky Linux](https://rockylinux.org/) (Basado en RHEL)
+- [AlmaLinux OS](https://almalinux.org/) (Basado en RHEL)
 - [Oracle Linux](https://www.oracle.com/linux/) (Basado en RHEL)
 - [CentOS](https://www.centos.org/) (Basado en RHEL)
