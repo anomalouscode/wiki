@@ -23,3 +23,9 @@ title: Inicio
 - [Breaking into Information Security](ltr101-breaking-into-infosec.pdf), Andy Gill (2016 - 2021)
 
 - [Mastering Ethereum](mastering-ethereum.pdf), Andreas M. Antonopoulos (2018) [GitHub Version](https://github.com/ethereumbook/ethereumbook)
+
+- [Clean Code](clean-code.pdf), Robert C. Martin (2009)
+
+- [Practical Reverse Engineering](practical-reverse-engineering.pdf), Bruce Dang - Alexandre Gazet - Elias Bachaalany (2014)
+
+- [Reversing: Secrets of Reverse Engineering](reversing.pdf), Eldad Eilam (2005)
