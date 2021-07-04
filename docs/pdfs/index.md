@@ -10,7 +10,11 @@ title: Inicio
 
 - [Philosophy of Computer Science](phics.pdf), William J. Rapaport (2004 - 2020)
 
+- [Reversing: Secrets of Reverse Engineering](reversing.pdf), Eldad Eilam (2005)
+
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](bitcoin.pdf), Satoshi Nakamoto (2009)
+
+- [Clean Code](clean-code.pdf), Robert C. Martin (2009)
 
 - [The Web Application Hacker's Handbook](the-web-application-hackers-handbook.pdf), Dafydd Stuttard & Marcus Pinto (2011)
 
@@ -18,14 +22,10 @@ title: Inicio
 
 - [Mastering Bitcoin](mastering-bitcoin.pdf), Andreas M. Antonopoulos (2014 - 2017) [GitHub Version](https://github.com/bitcoinbook/bitcoinbook)
 
+- [Practical Reverse Engineering](practical-reverse-engineering.pdf), Bruce Dang - Alexandre Gazet - Elias Bachaalany (2014)
+
 - [Web Hacking 101](web-hacking-101.pdf), Peter Yaworski (2015 - 2018)
 
 - [Breaking into Information Security](ltr101-breaking-into-infosec.pdf), Andy Gill (2016 - 2021)
 
 - [Mastering Ethereum](mastering-ethereum.pdf), Andreas M. Antonopoulos (2018) [GitHub Version](https://github.com/ethereumbook/ethereumbook)
-
-- [Clean Code](clean-code.pdf), Robert C. Martin (2009)
-
-- [Practical Reverse Engineering](practical-reverse-engineering.pdf), Bruce Dang - Alexandre Gazet - Elias Bachaalany (2014)
-
-- [Reversing: Secrets of Reverse Engineering](reversing.pdf), Eldad Eilam (2005)
