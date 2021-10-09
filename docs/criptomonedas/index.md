@@ -36,11 +36,15 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
+🌿 = Soporta RSK
+
 - [Trust](https://trustwallet.com/) (Android/iOS) 📱
 - [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
 - [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
 - [Edge](https://edge.app/) (Android/iOS) 📖🛡️
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
+- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
 
 #### Guardar montos grandes
 
@@ -83,11 +87,16 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
+🌿 = Soporta RSK
+
 - [Trust](https://trustwallet.com/) (Android/iOS) 📱
 - [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
 - [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
 - [Edge](https://edge.app/) (Android/iOS) 📖🛡️
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
+- [Nifty](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid) (Chrome/Brave) 📖📱🌿
+- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
 
 #### Guardar montos grandes
 
