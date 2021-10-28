@@ -58,11 +58,21 @@ Recuerden hacer backup de sus claves privadas.
 - [Ledger](https://www.ledger.com/)
 - [Coldcard](https://coldcardwallet.com/)
 
-#### Pagos anónimos
+### Pagos anónimos
 
-Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [XMR.to](https://xmr.to/), [Changelly](https://changelly.com/) o [FixedFloat](https://fixedfloat.com/), podes comprar Monero con Bitcoin en un exchange, buscalos en la sección exchanges de este artículo.
+#### Monero
+
+Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/) o [Changelly](https://changelly.com/). Primero tenes que comprar Monero de la forma que prefieras (ver lista de exchanges abajo) y hacer el pago a la direccion de Bitcoin que quieras, mandando Monero del otro lado.
 
 También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
+
+#### CoinJoins (avanzado)
+
+Se puede mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Wasabi](https://www.wasabiwallet.io/) y [Samourai](https://samouraiwallet.com/), lo considero mas avanzado porque hay que tener cuidado de no volver a mezclar el cambio que te queda despues de hacer un pago con bitcoins limpios con una direccion vinculada a tu identidad.
+
+### RSK
+
+.
 
 ## Ethereum
 
@@ -130,6 +140,10 @@ Recuerden hacer backup de sus claves privadas.
 ### Gift Cards
 
 - [Bitrefill](https://www.bitrefill.com/)
+
+### Debit Cards
+
+-[Moon](https://paywithmoon.com/)
 
 ### Procesadores de pago
 
