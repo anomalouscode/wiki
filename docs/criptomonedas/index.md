@@ -62,17 +62,17 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Monero
 
-Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/) o [Changelly](https://changelly.com/). Primero tenes que comprar Monero de la forma que prefieras (ver lista de exchanges abajo) y hacer el pago a la direccion de Bitcoin que quieras, mandando Monero del otro lado.
+Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/) o [Changelly](https://changelly.com/). Primero tenes que bajarte una [wallet de Monero](https://www.getmonero.org/downloads/), comprar Monero de la forma que prefieras (ver lista de exchanges abajo), mandartelos y hacer el pago a la direccion de Bitcoin que quieras con los servicios mencionados arriba, mandando Monero como input.
 
 También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
 
 #### CoinJoins (avanzado)
 
-Se puede mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Wasabi](https://www.wasabiwallet.io/) y [Samourai](https://samouraiwallet.com/), lo considero mas avanzado porque hay que tener cuidado de no volver a mezclar el cambio que te queda despues de hacer un pago con bitcoins limpios con una direccion vinculada a tu identidad.
+Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Samourai](https://samouraiwallet.com/) y [Wasabi](https://www.wasabiwallet.io/), lo considero mas avanzado porque hay que tener mas cuidado de no volver a mezclar con una direccion vinculada a tu identidad el cambio que te queda despues de hacer un pago con bitcoins limpios. Lo recomendable es no volver a vincular nunca a vos los bitcoins limpios, pero si es necesario, es buena idea volver a limpiarlos antes y entender que los exchanges con KYC mas vigilantes pueden cuestionarte si es evidente que les mandaste bitcoins que limpiaste, por este motivo yo prefiero mantener estos bitcoins fuera de servicios centralizados o con custodia, y si es necesario, uso tecnicas de distraccion para que no sea evidente que los bitcoins vienen de un coinjoin, como moverlos un poco entre direcciones distintas y meterlos desde un canal de Lightning u otra cadena como RSK.
 
 ### RSK
 
-.
+Sidechain de Bitcoin con DeFi y otros smart contracts.
 
 ## Ethereum
 
@@ -135,6 +135,8 @@ Recuerden hacer backup de sus claves privadas.
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Changelly](https://changelly.com/) 🛡️
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🤑
+- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🤑
+- [Flyp.me](https://flyp.me//) ⚡🛡️🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
 
 ### Gift Cards
@@ -143,7 +145,7 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Debit Cards
 
--[Moon](https://paywithmoon.com/)
+- [Moon](https://paywithmoon.com/)
 
 ### Procesadores de pago
 
