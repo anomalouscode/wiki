@@ -74,6 +74,24 @@ Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto te
 
 Sidechain de Bitcoin con DeFi y otros smart contracts.
 
+#### Wallets
+
+- [Defiant](https://defiantapp.tech/) (Android/iOS)
+- [Liquality](https://liquality.io/) (Chrome/Brave)
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
+- [Nifty](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid) (Chrome/Brave)
+
+#### Hardware wallets
+
+- [Trezor](https://trezor.io/)
+- [Ledger](https://www.ledger.com/)
+
+### Dapps
+
+- [Money On Chain](https://moneyonchain.com/)
+- [Sovryn](https://www.sovryn.app/)
+- [RSK Swap](https://rskswap.com/)
+
 ## Ethereum
 
 ### Wallets
