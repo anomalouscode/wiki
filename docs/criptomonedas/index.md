@@ -127,20 +127,22 @@ Recuerden hacer backup de sus claves privadas.
 
 🤑 = Tiene retiros gratis
 
+🥷🏻 = Se puede usar sin KYC
+
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️🤑
-- [Bitfinex](https://www.bitfinex.com/) ⚡🛡️🤑
+- [Bitfinex](https://www.bitfinex.com/) ⚡🛡️🤑🥷🏻
 - [FTX](https://ftx.com/#a=6290039) (Referido: 6290039) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
 - [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
-- [Changelly](https://changelly.com/) 🛡️
-- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🤑
-- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🤑
-- [Flyp.me](https://flyp.me//) ⚡🛡️🤑
+- [Changelly](https://changelly.com/) 🛡️🥷🏻
+- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🤑🥷🏻
+- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🤑🥷🏻
+- [Flyp.me](https://flyp.me//) ⚡🛡️🤑🥷🏻
 - [Coinbase Pro](https://pro.coinbase.com/)
-- [Liquality Swap](https://swap.liquality.io/)
-- [ShapeShift](https://shapeshift.com/)
-- [THORSwap](https://thorswap.finance/)
+- [Liquality Swap](https://swap.liquality.io/) 🥷🏻
+- [ShapeShift](https://shapeshift.com/) 🥷🏻
+- [THORSwap](https://thorswap.finance/) 🥷🏻
 
 ### Gift Cards
 
