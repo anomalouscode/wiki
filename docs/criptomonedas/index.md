@@ -138,6 +138,9 @@ Recuerden hacer backup de sus claves privadas.
 - [SideShift.ai](https://sideshift.ai/) ⚡🛡️🤑
 - [Flyp.me](https://flyp.me//) ⚡🛡️🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
+- [Liquality Swap](https://swap.liquality.io/)
+- [ShapeShift](https://shapeshift.com/)
+- [THORSwap](https://thorswap.finance/)
 
 ### Gift Cards
 
