@@ -38,13 +38,13 @@ Recuerden hacer backup de sus claves privadas.
 
 🌿 = Soporta RSK
 
+- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
 - [Trust](https://trustwallet.com/) (Android/iOS) 📱
 - [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
 - [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
 - [Edge](https://edge.app/) (Android/iOS) 📖🛡️
-- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
-- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
 
 #### Guardar montos grandes
 
@@ -76,10 +76,17 @@ Sidechain de Bitcoin con DeFi y otros smart contracts.
 
 ### Wallets
 
-- [Defiant](https://defiantapp.tech/) (Android/iOS)
-- [Liquality](https://liquality.io/) (Chrome/Brave)
-- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) [Agregar RSK a MetaMask](https://metamask-landing.rifos.org/), [más info](https://developers.rsk.co/wallet/use/metamask/)
-- [Nifty](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid) (Chrome/Brave)
+Recuerden hacer backup de sus claves privadas.
+
+📖 = Es open source
+
+📱 = Soporta Dapps
+
+💎 = Soporta Ethereum
+
+- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱💎
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱💎
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱💎 [Agregar RSK a MetaMask](https://metamask-landing.rifos.org/), [más info](https://developers.rsk.co/wallet/use/metamask/)
 
 ### Hardware wallets
 
@@ -108,28 +115,17 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 
 ### Dapps
 
-- [Money On Chain](https://moneyonchain.com/)
-- [Sovryn](https://www.sovryn.app/)
-- [Sovryn Bridge](https://bridge.sovryn.app/)
-- [RSK Bridge](https://tokenbridge.rsk.co/)
-- [RSK Swap](https://rskswap.com/)
+- [Money On Chain](https://moneyonchain.com/) Stablecoin descentralizada respaldada en Bitcoin con token para generar interes en Bitcoin
+- [Sovryn](https://www.sovryn.app/) Exchange y prestamos decentralizados
+- [Sovryn Bridge](https://bridge.sovryn.app/) Bridge para pasar a RSK tokens de Ethereum y Binance Smart Chain
+- [RSK Bridge](https://tokenbridge.rsk.co/) Bridge para pasar a RSK tokens de Ethereum
+- [RSK Swap](https://rskswap.com/) Exchange decentralizado
 
 ## Ethereum
 
 ### Wallets
 
 Recuerden hacer backup de sus claves privadas.
-
-#### Sólo Ethereum
-
-📖 = Es open source
-
-📱 = Soporta Dapps
-
-- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱
-- [Argent](https://www.argent.xyz/) (Android/iOS) 📱
-
-#### Soporta múltiples monedas
 
 📖 = Es open source
 
@@ -139,14 +135,16 @@ Recuerden hacer backup de sus claves privadas.
 
 🌿 = Soporta RSK
 
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱🌿
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
+- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
+- [Argent](https://www.argent.xyz/) (Android/iOS) 📱
 - [Trust](https://trustwallet.com/) (Android/iOS) 📱
 - [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
 - [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
 - [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
 - [Edge](https://edge.app/) (Android/iOS) 📖🛡️
-- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
-- [Nifty](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid) (Chrome/Brave) 📖📱🌿
-- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
+
 
 #### Guardar montos grandes
 
