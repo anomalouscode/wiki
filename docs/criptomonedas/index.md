@@ -70,26 +70,48 @@ También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](
 
 Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Samourai](https://samouraiwallet.com/) y [Wasabi](https://www.wasabiwallet.io/), lo considero mas avanzado porque hay que tener mas cuidado de no volver a mezclar con una direccion vinculada a tu identidad el cambio que te queda despues de hacer un pago con bitcoins limpios. Lo recomendable es no volver a vincular nunca a vos los bitcoins limpios, pero si es necesario, es buena idea volver a limpiarlos antes y entender que los exchanges con KYC mas vigilantes pueden cuestionarte si es evidente que les mandaste bitcoins que limpiaste, por este motivo yo prefiero mantener estos bitcoins fuera de servicios centralizados o con custodia, y si es necesario, uso tecnicas de distraccion para que no sea evidente que los bitcoins vienen de un coinjoin, como moverlos un poco entre direcciones distintas y meterlos desde un canal de Lightning u otra cadena como RSK.
 
-### RSK
+## RSK
 
 Sidechain de Bitcoin con DeFi y otros smart contracts.
 
-#### Wallets
+### Wallets
 
 - [Defiant](https://defiantapp.tech/) (Android/iOS)
 - [Liquality](https://liquality.io/) (Chrome/Brave)
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox)
 - [Nifty](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid) (Chrome/Brave)
 
-#### Hardware wallets
+### Hardware wallets
 
 - [Trezor](https://trezor.io/)
 - [Ledger](https://www.ledger.com/)
+
+### Pasar BTC a RBTC
+
+Para usar tus BTC en RSK hay que convertirlos a RBTC, hay distintos metodos disponibles:
+
+- Usar FastBTC de [Sovryn](https://www.sovryn.app/)
+
+Vas a Portfolio y apretas FastBTC, te genera una direccion BTC donde podes mandarlos y se convierten a RBTC en tu wallet de RSK.
+
+- Comprar RBTC en [Bitfinex](https://www.bitfinex.com/)
+
+El exchange tiene listado el token, se compra y se retira a tu wallet.
+
+- Hacer un swap en [Liquality](https://liquality.io/)
+
+Esta wallet tiene integrado un exchange que soporta RBTC.
+
+- Usar el metodo nativo PowPeg
+
+Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambien es el mas lento ya que toma alrededor de 1 dia, la forma mas facil de hacerlo es con la wallet [Defiant](https://defiantapp.tech/).
 
 ### Dapps
 
 - [Money On Chain](https://moneyonchain.com/)
 - [Sovryn](https://www.sovryn.app/)
+- [Sovryn Bridge](https://bridge.sovryn.app/)
+- [RSK Bridge](https://tokenbridge.rsk.co/)
 - [RSK Swap](https://rskswap.com/)
 
 ## Ethereum
