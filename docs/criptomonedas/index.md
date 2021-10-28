@@ -116,10 +116,10 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 ### Dapps
 
 - [Money On Chain](https://moneyonchain.com/) Stablecoin descentralizada respaldada en Bitcoin con token para generar interes en Bitcoin
-- [Sovryn](https://www.sovryn.app/) Exchange y prestamos decentralizados
+- [Sovryn](https://www.sovryn.app/) Exchange y prestamos descentralizados
 - [Sovryn Bridge](https://bridge.sovryn.app/) Bridge para pasar a RSK tokens de Ethereum y Binance Smart Chain
 - [RSK Bridge](https://tokenbridge.rsk.co/) Bridge para pasar a RSK tokens de Ethereum
-- [RSK Swap](https://rskswap.com/) Exchange decentralizado
+- [RSK Swap](https://rskswap.com/) Exchange descentralizado
 
 ## Ethereum
 
