@@ -168,11 +168,11 @@ Recuerden hacer backup de sus claves privadas.
 
 🥷🏻 = Se puede usar sin KYC
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️🤑
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️🤑🥷🏻
-- [FTX](https://ftx.com/#a=6290039) (Referido: 6290039) 🤑
+- [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
-- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
+- [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🤑🥷🏻
@@ -206,7 +206,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Comprar criptos (Transferencia bancaria)
 
-- [Binance P2P](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6)
+- [Binance P2P](https://www.binance.com/en/register?ref=RACLZPJ6)
 - [CriptoYa](https://criptoya.com/)
 - [Criptos AR](https://criptos.com.ar/)
 - [CoinMonitor](https://coinmonitor.info/)
@@ -222,11 +222,11 @@ Recuerden hacer backup de sus claves privadas.
 
 🤑 = Tiene retiros gratis
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) (Referido: RACLZPJ6) 🛡️🤑
-- [FTX](https://ftx.com/#a=6290039) (Referido: 6290039) 🤑
+- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
+- [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
-- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
-- [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
+- [Gemini](https://gemini.com/share/rr55epf6) 🤑
+- [Crypto.com](https://crypto.com/app/j53ayhgqrj)
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)
@@ -242,13 +242,13 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis
 
 - [FTX US](https://ftx.us/) 🤑
-- [Gemini](https://gemini.com/share/rr55epf6) (Referido: rr55epf6) 🤑
+- [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
-- [BlockFi](https://blockfi.com/?ref=11b52d14) (Referido: 11b52d14) 🤑
+- [BlockFi](https://blockfi.com/?ref=11b52d14) 🤑
 - [Cash App](https://cash.app/) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Coinbase](https://www.coinbase.com/)
 - [Binance.US](https://www.binance.us/)
 - [Wyre](https://www.sendwyre.com/)
-- [Crypto.com](https://crypto.com/app/j53ayhgqrj) (Referido: j53ayhgqrj)
+- [Crypto.com](https://crypto.com/app/j53ayhgqrj)
 - [Circle](https://www.circle.com/)
