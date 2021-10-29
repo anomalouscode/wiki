@@ -162,24 +162,26 @@ Recuerden hacer backup de sus claves privadas.
 
 ⚡ = Soporta Lightning Network
 
-🛡️ = Soporta Monero
+🌿 = Soporta RSK
 
-🤑 = Tiene retiros gratis
+🛡️ = Soporta Monero
 
 🥷🏻 = Se puede usar sin KYC
 
+🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
+
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
-- [Bitfinex](https://www.bitfinex.com/) ⚡🛡️🤑🥷🏻
+- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🥷🏻🤑
 - [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
-- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🤑🥷🏻
-- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🤑🥷🏻
-- [Flyp.me](https://flyp.me//) ⚡🛡️🤑🥷🏻
+- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
+- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻🤑
+- [Flyp.me](https://flyp.me/) ⚡🛡️🥷🏻🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
-- [Liquality Swap](https://swap.liquality.io/) 🥷🏻
+- [Liquality Swap](https://swap.liquality.io/) 🌿🥷🏻
 - [ShapeShift](https://shapeshift.com/) 🥷🏻
 - [THORSwap](https://thorswap.finance/) 🥷🏻
 
@@ -222,7 +224,6 @@ Recuerden hacer backup de sus claves privadas.
 
 🤑 = Tiene retiros gratis
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
 - [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
