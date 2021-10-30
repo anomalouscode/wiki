@@ -176,6 +176,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Kraken](https://www.kraken.com/) 🛡️
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
+- [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻🤑
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
 - [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻🤑
@@ -243,8 +244,9 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis
 
 - [FTX US](https://ftx.us/) 🤑
-- [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
+- [Strike](https://strike.me/) ⚡
+- [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [BlockFi](https://blockfi.com/?ref=11b52d14) 🤑
 - [Cash App](https://cash.app/) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
