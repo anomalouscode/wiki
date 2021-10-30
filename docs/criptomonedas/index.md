@@ -24,6 +24,7 @@ Recuerden hacer backup de sus claves privadas.
 - [BlueWallet](https://bluewallet.io/) (Android/iOS/Mac) 📖⚡
 - [Umbrel](https://getumbrel.com/) (Full node) 📖⚡
 - [Samourai](https://samouraiwallet.com/) (Android) 📖👁
+- [Sparrow](https://www.sparrowwallet.com/) (Linux/Mac/Windows) 📖👁
 - [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
 - [Electrum](https://electrum.org/) (Android/Linux/Mac/Windows) 📖⚡
@@ -62,13 +63,13 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Monero
 
-Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/) o [Changelly](https://changelly.com/). Primero tenes que bajarte una [wallet de Monero](https://www.getmonero.org/downloads/), comprar Monero de la forma que prefieras (ver lista de exchanges abajo), mandartelos y hacer el pago a la direccion de Bitcoin que quieras con los servicios mencionados arriba, mandando Monero como input.
+Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/), [UnstoppableSwap](https://unstoppableswap.net/) o [Changelly](https://changelly.com/). Primero tenes que bajarte una [wallet de Monero](https://www.getmonero.org/downloads/), comprar Monero de la forma que prefieras (ver lista de exchanges abajo), mandartelos y hacer el pago a la direccion de Bitcoin que quieras con los servicios mencionados arriba, mandando Monero como input.
 
 También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
 
 #### CoinJoins (avanzado)
 
-Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Samourai](https://samouraiwallet.com/) y [Wasabi](https://www.wasabiwallet.io/), lo considero mas avanzado porque hay que tener mas cuidado de no volver a mezclar con una direccion vinculada a tu identidad el cambio que te queda despues de hacer un pago con bitcoins limpios. Lo recomendable es no volver a vincular nunca a vos los bitcoins limpios, pero si es necesario, es buena idea volver a limpiarlos antes y entender que los exchanges con KYC mas vigilantes pueden cuestionarte si es evidente que les mandaste bitcoins que limpiaste, por este motivo yo prefiero mantener estos bitcoins fuera de servicios centralizados o con custodia, y si es necesario, uso tecnicas de distraccion para que no sea evidente que los bitcoins vienen de un coinjoin, como moverlos un poco entre direcciones distintas y meterlos desde un canal de Lightning u otra cadena como RSK.
+Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Samourai](https://samouraiwallet.com/), [Sparrow](https://www.sparrowwallet.com/) y [Wasabi](https://www.wasabiwallet.io/), lo considero mas avanzado porque hay que tener mas cuidado de no volver a mezclar con una direccion vinculada a tu identidad el cambio que te queda despues de hacer un pago con bitcoins limpios. Lo recomendable es no volver a vincular nunca a vos los bitcoins limpios, pero si es necesario, es buena idea volver a limpiarlos antes y entender que los exchanges con KYC mas vigilantes pueden cuestionarte si es evidente que les mandaste bitcoins que limpiaste, por este motivo yo prefiero mantener estos bitcoins fuera de servicios centralizados o con custodia, y si es necesario, uso tecnicas de distraccion para que no sea evidente que los bitcoins vienen de un coinjoin, como moverlos un poco entre direcciones distintas y meterlos desde un canal de Lightning u otra cadena como RSK.
 
 ## RSK
 
@@ -183,6 +184,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Flyp.me](https://flyp.me/) ⚡🛡️🥷🏻🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
 - [Liquality Swap](https://swap.liquality.io/) 🌿🥷🏻
+- [UnstoppableSwap](https://unstoppableswap.net/) 🛡️🥷🏻
 - [ShapeShift](https://shapeshift.com/) 🥷🏻
 - [THORSwap](https://thorswap.finance/) 🥷🏻
 
