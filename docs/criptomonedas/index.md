@@ -225,7 +225,7 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
-🤑 = Tiene retiros gratis
+🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
@@ -243,11 +243,12 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
-🤑 = Tiene retiros gratis
+🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [FTX US](https://ftx.us/) 🤑
 - [Kraken](https://www.kraken.com/) 🛡️
-- [Strike](https://strike.me/) ⚡
+- [Strike](https://strike.me/) ⚡🤑
+- [River Financial](https://river.com/) ⚡🤑
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [BlockFi](https://blockfi.com/?ref=11b52d14) 🤑
 - [Cash App](https://cash.app/) 🤑
