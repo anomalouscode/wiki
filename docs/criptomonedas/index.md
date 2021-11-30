@@ -234,6 +234,7 @@ Recuerden hacer backup de sus claves privadas.
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)
+- [Mt Pelerin](https://www.mtpelerin.com/)
 
 ### Estados Unidos
 
