@@ -6,7 +6,7 @@ title: Inicio
 
 - [The C Programming Language](the-c-programming-language.pdf), K&R (1978 - 1988)
 
-- [Structure and Interpretation of Computer Programs (SICP)](https://siasky.net/AABk1j8AKCGNZwR1e5qNAhd7rPL4l_Xnmph38yZAmtVpxQ), MIT (Harold Abelson - Gerald Jay Sussman - Julie Sussman) (1985 - 1996)
+- [Structure and Interpretation of Computer Programs (SICP)](sicp.pdf), MIT (Harold Abelson - Gerald Jay Sussman - Julie Sussman) (1985 - 1996)
 
 - [The Code Book](the-code-book.pdf), Simon Singh (2001)
 
