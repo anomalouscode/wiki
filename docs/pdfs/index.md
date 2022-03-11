@@ -26,7 +26,7 @@ title: Inicio
 
 - [Practical Reverse Engineering](practical-reverse-engineering.pdf), Bruce Dang - Alexandre Gazet - Elias Bachaalany (2014)
 
-- [Web Hacking 101](web-hacking-101.pdf)), Peter Yaworski (2015 - 2018)
+- [Web Hacking 101](web-hacking-101.pdf), Peter Yaworski (2015 - 2018)
 
 - [Breaking into Information Security](ltr101-breaking-into-infosec.pdf), Andy Gill (2016 - 2021)
 
