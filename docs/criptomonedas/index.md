@@ -174,7 +174,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
 - [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🥷🏻🤑
 - [FTX](https://ftx.com/#a=6290039) 🤑
-- [Kraken](https://www.kraken.com/) 🛡️
+- [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻🤑
@@ -228,7 +228,7 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [FTX](https://ftx.com/#a=6290039) 🤑
-- [Kraken](https://www.kraken.com/) 🛡️
+- [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj)
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
@@ -247,7 +247,7 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [FTX US](https://ftx.us/) 🤑
-- [Kraken](https://www.kraken.com/) 🛡️
+- [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Strike](https://strike.me/) ⚡🤑
 - [River Financial](https://river.com/) ⚡🤑
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
