@@ -85,6 +85,7 @@ Recuerden hacer backup de sus claves privadas.
 
 💎 = Soporta Ethereum
 
+- [Rabby](https://rabby.io/) (Chrome/Brave) 📖📱💎
 - [Defiant](https://defiantapp.tech/) (Android/iOS) 📱💎
 - [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱💎
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱💎 [Agregar RSK a MetaMask](https://metamask-landing.rifos.org/), [más info](https://developers.rsk.co/wallet/use/metamask/)
@@ -137,6 +138,7 @@ Recuerden hacer backup de sus claves privadas.
 
 🌿 = Soporta RSK
 
+- [Rabby](https://rabby.io/) (Chrome/Brave) 📖📱🌿
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱🌿
 - [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
 - [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
@@ -172,14 +174,14 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
-- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🥷🏻🤑
 - [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
+- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🥷🏻🤑
+- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻🤑
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
-- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
 - [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻🤑
 - [Flyp.me](https://flyp.me/) ⚡🛡️🥷🏻🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
