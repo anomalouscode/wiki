@@ -183,7 +183,9 @@ Y para mantenerse en regla se necesita como mínimo:
 
 ## Ejemplo de Form SS-4
 
-Se recomienda enviarlo por fax al numero +1 (855) 641-6935.
+Se recomienda enviarlo por fax al número +1 (855) 641-6935.
+
+Van a mandarles primero el EIN al número de fax que pusieron y después una carta a la dirección de la empresa con un Form CP-575 como confirmación.
 
 [![Form SS-4](ss4.webp)](ss4.webp)
 
@@ -211,6 +213,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 
 - [PayPal](https://www.paypal.com/)
 - [Stripe](https://stripe.com/)
+- [Hotmart](https://hotmart.com/)
 - [dLocal](https://dlocal.com/)
 - [EBANX](https://ebanx.com/)
 - [2Checkout](https://www.2checkout.com/)
@@ -236,9 +239,9 @@ Servicios para comprar y vender criptomonedas como empresa.
 
 🤑 = Tiene retiros gratis
 
+- [Kraken](https://www.kraken.com/en-us/institutions) 🛡️⚡🤑
 - [FTX US](https://ftx.us/) 🤑
 - [Gemini](https://www.gemini.com/institutions) 🤑
-- [Kraken](https://www.kraken.com/en-us/institutions) 🛡️
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Coinbase Prime](https://primebroker.coinbase.com/)
 - [Wyre](https://www.sendwyre.com/)
@@ -264,9 +267,9 @@ En algunos casos probablemente necesitemos un número de Estados Unidos para usa
 
 Aunque enviar faxes sea algo muy ajeno al presente, los organismos estatales de Estados Unidos lo siguen usando, y podemos enviarlos y recibirlos desde internet para que la tarea no resulte incomoda.
 
-- [FaxZero](https://faxzero.com/)
 - [GotFreeFax](https://www.gotfreefax.com/)
 - [FaxBetter](https://www.faxbetter.com/)
+- [FaxZero](https://faxzero.com/)
 
 ### Comprar dominios
 
