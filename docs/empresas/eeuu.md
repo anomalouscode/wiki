@@ -181,6 +181,12 @@ Y para mantenerse en regla se necesita como mínimo:
 - Pagar la comisión anual al agente registrado que representa a la empresa en el estado local.
 - Completar y enviar la declaración anual de impuestos federales a la IRS, los costos de esto varían dependiendo de si se contrata un contador o se completa personalmente y se enviá por correo físico.
 
+## Ejemplo de Form SS-4
+
+Se recomienda enviarlo por fax al numero +1 (855) 641-6935.
+
+![Form SS-4](ss4.webp)
+
 ## Bancos
 
 Los bancos nos van a requerir la documentación de la empresa, los pasaportes de sus miembros, así como hacer preguntas sobre el negocio, suele ser la parte más complicada y burocrática.
