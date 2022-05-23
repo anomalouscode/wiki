@@ -185,7 +185,7 @@ Y para mantenerse en regla se necesita como mínimo:
 
 Se recomienda enviarlo por fax al numero +1 (855) 641-6935.
 
-![Form SS-4](ss4.webp)
+[![Form SS-4](ss4.webp)](ss4.webp)
 
 ## Bancos
 
