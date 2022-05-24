@@ -28,6 +28,7 @@ title: Inicio
 
 ### Videollamada
 
+- [Brave Talk](https://talk.brave.com/)
 - [Jitsi](https://jitsi.org/)
 - [Jami](https://jami.net/)
 - [Linphone](https://linphone.org/)
@@ -40,12 +41,14 @@ title: Inicio
 ### Buscador
 
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Brave Search](https://search.brave.com/)
 - [Startpage](https://www.startpage.com/)
 
 ### VPN 
 
-- [ProtonVPN](https://protonvpn.com/)
 - [Mullvad VPN](https://mullvad.net/)
+- [IVPN](https://www.ivpn.net/)
+- [ProtonVPN](https://protonvpn.com/)
 
 ### Otras listas de apps
 
