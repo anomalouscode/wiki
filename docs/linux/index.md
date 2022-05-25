@@ -9,22 +9,25 @@ title: Inicio
 ### Software y funciones más nuevas, último soporte de hardware
 
 - [Fedora](https://getfedora.org/) (Independiente)
+- [Arch Linux](https://www.archlinux.org/) (Independiente)
+- [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
 - [Debian Testing](https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/weekly-live-builds/amd64/iso-hybrid/) (Independiente)
 - [Kali Linux](https://www.kali.org/) (Basado en Debian)
-- [Arch Linux](https://www.archlinux.org/) (Independiente)
-- [Manjaro](https://manjaro.org/) (Basado en Arch)
-- [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
+- [ParrotOS](https://www.parrotsec.org/) (Basado en Debian)
+- [Fedora Silverblue](https://silverblue.fedoraproject.org/) (Basado en Fedora)
+- [NixOS](https://nixos.org/) (Independiente)
 
 ### Software más testeado, menos actualizaciones de sistema
 
-- [Ubuntu](https://ubuntu.com/download/desktop) (Basado en Debian)
 - [Linux Mint](https://linuxmint.com/download.php) (Basado en Ubuntu)
+- [LMDE](https://linuxmint.com/download_lmde.php) (Basado en Debian)
+- [MX Linux](https://mxlinux.org/) (Basado en Debian)
+- [Ubuntu](https://ubuntu.com/download/desktop) (Basado en Debian)
 - [Kubuntu](https://kubuntu.org/getkubuntu/) (Basado en Ubuntu)
 - [KDE neon](https://neon.kde.org/download) (Basado en Ubuntu)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 - [Xubuntu](https://xubuntu.org/) (Basado en Ubuntu)
 - [Lubuntu](https://lubuntu.me/) (Basado en Ubuntu)
-- [MX Linux](https://mxlinux.org/) (Basado en Debian)
 
 ### Estabilidad de central nuclear, actualizaciones mínimas
 
@@ -33,4 +36,4 @@ title: Inicio
 - [Rocky Linux](https://rockylinux.org/) (Basado en RHEL)
 - [AlmaLinux OS](https://almalinux.org/) (Basado en RHEL)
 - [Oracle Linux](https://www.oracle.com/linux/) (Basado en RHEL)
-- [CentOS](https://www.centos.org/) (Basado en RHEL)
+- [CentOS](https://www.centos.org/) (Basado en Fedora)
