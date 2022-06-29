@@ -24,7 +24,6 @@ title: Inicio
 - [MX Linux](https://mxlinux.org/) (Basado en Debian)
 - [Ubuntu](https://ubuntu.com/download/desktop) (Basado en Debian)
 - [Kubuntu](https://kubuntu.org/getkubuntu/) (Basado en Ubuntu)
-- [KDE neon](https://neon.kde.org/download) (Basado en Ubuntu)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 - [Xubuntu](https://xubuntu.org/) (Basado en Ubuntu)
 - [Lubuntu](https://lubuntu.me/) (Basado en Ubuntu)
@@ -35,5 +34,3 @@ title: Inicio
 - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) (Basado en Fedora)
 - [Rocky Linux](https://rockylinux.org/) (Basado en RHEL)
 - [AlmaLinux OS](https://almalinux.org/) (Basado en RHEL)
-- [Oracle Linux](https://www.oracle.com/linux/) (Basado en RHEL)
-- [CentOS](https://www.centos.org/) (Basado en Fedora)
