@@ -22,9 +22,10 @@ title: Inicio
 
 ### Chat
 
+- [Session](https://getsession.org/)
 - [Signal](https://signal.org/)
-- [Keybase](https://keybase.io/)
 - [Element](https://element.io/)
+- [Keybase](https://keybase.io/)
 
 ### Videollamada
 
