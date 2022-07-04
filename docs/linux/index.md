@@ -11,11 +11,13 @@ title: Inicio
 - [Fedora](https://getfedora.org/) (Independiente)
 - [Arch Linux](https://www.archlinux.org/) (Independiente)
 - [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
+- [Manjaro](https://manjaro.org/) (Basado en Arch)
 - [Debian Testing](https://cdimage.debian.org/images/unofficial/non-free/images-including-firmware/weekly-live-builds/amd64/iso-hybrid/) (Independiente)
 - [Kali Linux](https://www.kali.org/) (Basado en Debian)
 - [ParrotOS](https://www.parrotsec.org/) (Basado en Debian)
 - [Fedora Silverblue](https://silverblue.fedoraproject.org/) (Basado en Fedora)
 - [NixOS](https://nixos.org/) (Independiente)
+- [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) (Independiente)
 
 ### Software más testeado, menos actualizaciones de sistema
 
@@ -27,6 +29,7 @@ title: Inicio
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 - [Xubuntu](https://xubuntu.org/) (Basado en Ubuntu)
 - [Lubuntu](https://lubuntu.me/) (Basado en Ubuntu)
+- [openSUSE Leap](https://www.opensuse.org/#Leap) (Independiente)
 
 ### Estabilidad de central nuclear, actualizaciones mínimas
 
