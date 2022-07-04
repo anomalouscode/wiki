@@ -16,6 +16,7 @@ title: Inicio
 - [Kali Linux](https://www.kali.org/) (Basado en Debian)
 - [ParrotOS](https://www.parrotsec.org/) (Basado en Debian)
 - [Fedora Silverblue](https://silverblue.fedoraproject.org/) (Basado en Fedora)
+- [Fedora Kinoite](https://kinoite.fedoraproject.org/) (Basado en Fedora)
 - [NixOS](https://nixos.org/) (Independiente)
 - [openSUSE Tumbleweed](https://www.opensuse.org/#Tumbleweed) (Independiente)
 
