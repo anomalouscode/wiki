@@ -30,6 +30,7 @@ title: Inicio
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 - [Xubuntu](https://xubuntu.org/) (Basado en Ubuntu)
 - [Lubuntu](https://lubuntu.me/) (Basado en Ubuntu)
+- [Ubuntu MATE](https://ubuntu-mate.org/) (Basado en Ubuntu)
 - [openSUSE Leap](https://www.opensuse.org/#Leap) (Independiente)
 
 ### Estabilidad de central nuclear, actualizaciones mínimas
