@@ -174,7 +174,6 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
-- [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🥷🏻🤑
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
@@ -229,7 +228,6 @@ Recuerden hacer backup de sus claves privadas.
 
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
-- [FTX](https://ftx.com/#a=6290039) 🤑
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Gemini](https://gemini.com/share/rr55epf6) 🤑
 - [Crypto.com](https://crypto.com/app/j53ayhgqrj)
@@ -248,7 +246,6 @@ Recuerden hacer backup de sus claves privadas.
 
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
-- [FTX US](https://ftx.us/) 🤑
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Strike](https://strike.me/) ⚡🤑
 - [River Financial](https://river.com/) ⚡🤑
