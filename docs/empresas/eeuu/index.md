@@ -240,7 +240,6 @@ Servicios para comprar y vender criptomonedas como empresa.
 🤑 = Tiene retiros gratis
 
 - [Kraken](https://www.kraken.com/en-us/institutions) 🛡️⚡🤑
-- [FTX US](https://ftx.us/) 🤑
 - [Gemini](https://www.gemini.com/institutions) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Coinbase Prime](https://primebroker.coinbase.com/)
