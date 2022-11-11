@@ -260,3 +260,4 @@ Recuerden hacer backup de sus claves privadas.
 - [Wyre](https://www.sendwyre.com/)
 - [Crypto.com](https://crypto.com/)
 - [Circle](https://www.circle.com/)
+- [Bitstamp](https://www.bitstamp.net/)
