@@ -173,11 +173,12 @@ Recuerden hacer backup de sus claves privadas.
 
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
-- [Binance](https://www.binance.com/en/register?ref=RACLZPJ6) 🛡️🤑
+- [Binance](https://www.binance.com/) 🛡️🤑
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🥷🏻🤑
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
-- [Gemini](https://gemini.com/share/rr55epf6) 🤑
+- [Gemini](https://gemini.com/) 🤑
+- [Bitstamp](https://www.bitstamp.net/)
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻🤑
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
@@ -212,7 +213,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Comprar criptos (Transferencia bancaria)
 
-- [Binance P2P](https://www.binance.com/en/register?ref=RACLZPJ6)
+- [Binance P2P](https://www.binance.com/)
 - [CriptoYa](https://criptoya.com/)
 - [Criptos AR](https://criptos.com.ar/)
 - [CoinMonitor](https://coinmonitor.info/)
@@ -229,9 +230,11 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
-- [Gemini](https://gemini.com/share/rr55epf6) 🤑
-- [Crypto.com](https://crypto.com/app/j53ayhgqrj)
+- [Gemini](https://gemini.com/) 🤑
+- [Crypto.com](https://crypto.com/)
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
+- [Coinbase](https://www.coinbase.com/)
+- [Circle](https://www.circle.com/)
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)
 - [Mt Pelerin](https://www.mtpelerin.com/)
@@ -249,12 +252,11 @@ Recuerden hacer backup de sus claves privadas.
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
 - [Strike](https://strike.me/) ⚡🤑
 - [River Financial](https://river.com/) ⚡🤑
-- [Gemini](https://gemini.com/share/rr55epf6) 🤑
-- [BlockFi](https://blockfi.com/?ref=11b52d14) 🤑
+- [Gemini](https://gemini.com/) 🤑
 - [Cash App](https://cash.app/) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Coinbase](https://www.coinbase.com/)
 - [Binance.US](https://www.binance.us/)
 - [Wyre](https://www.sendwyre.com/)
-- [Crypto.com](https://crypto.com/app/j53ayhgqrj)
+- [Crypto.com](https://crypto.com/)
 - [Circle](https://www.circle.com/)
