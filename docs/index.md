@@ -26,4 +26,4 @@ Email: team@anomalous.xyz
 
 - [Bitcoin, Lightning](https://checkout.opennode.com/p/464ee62b-2884-4929-891e-27b6ce5ed4ff)
 
-- [ETH, XMR, LTC, DOGE, DCR](https://globee.com/donate/ZbWyAR2VwD474qN063nJ79)
+- [ETH, XMR, USDT, DOGE, DOT, DCR](https://globee.com/donate/ZbWyAR2VwD474qN063nJ79)
