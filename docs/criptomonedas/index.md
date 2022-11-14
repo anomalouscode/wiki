@@ -173,18 +173,18 @@ Recuerden hacer backup de sus claves privadas.
 
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
-- [Binance](https://www.binance.com/) 🛡️🤑
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
-- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🥷🏻🤑
+- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🤑
+- [Binance](https://www.binance.com/) 🛡️🤑
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
-- [Gemini](https://gemini.com/) 🤑
-- [Bitstamp](https://www.bitstamp.net/)
-- [OKCoin](https://www.okcoin.com/) ⚡🤑
-- [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻🤑
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
 - [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻🤑
 - [Flyp.me](https://flyp.me/) ⚡🛡️🥷🏻🤑
 - [Coinbase Pro](https://pro.coinbase.com/)
+- [Gemini](https://gemini.com/) 🤑
+- [Bitstamp](https://www.bitstamp.net/)
+- [OKCoin](https://www.okcoin.com/) ⚡🤑
+- [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻🤑
 - [Liquality Swap](https://swap.liquality.io/) 🌿🥷🏻
 - [UnstoppableSwap](https://unstoppableswap.net/) 🛡️🥷🏻
 - [ShapeShift](https://shapeshift.com/) 🥷🏻
@@ -250,10 +250,10 @@ Recuerden hacer backup de sus claves privadas.
 🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
 
 - [Kraken](https://www.kraken.com/) ⚡🛡️🤑
+- [Cash App](https://cash.app/) ⚡🤑
 - [Strike](https://strike.me/) ⚡🤑
 - [River Financial](https://river.com/) ⚡🤑
 - [Gemini](https://gemini.com/) 🤑
-- [Cash App](https://cash.app/) 🤑
 - [OKCoin](https://www.okcoin.com/) ⚡🤑
 - [Coinbase](https://www.coinbase.com/)
 - [Binance.US](https://www.binance.us/)
