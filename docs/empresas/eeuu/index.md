@@ -197,6 +197,10 @@ Los bancos nos van a requerir la documentación de la empresa, los pasaportes de
 
 Es un banco digital enfocado en empresas de tecnología y comercio electrónico que permite además la apertura remota de cuentas gratuitamente y sin costos de mantenimiento. [Sólo aceptan partnerships](https://mercury.com/faq).
 
+### [Relay](https://relayfi.com/)
+
+### [Every](https://every.io/)
+
 ## Fintechs
 
 Como suplemento a los bancos podemos usar servicios que nos proveen cuentas virtuales para recibir pagos.
@@ -213,6 +217,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 
 - [PayPal](https://www.paypal.com/)
 - [Stripe](https://stripe.com/)
+- [Thinkific](https://thinkific.com/)
 - [Hotmart](https://hotmart.com/)
 - [dLocal](https://dlocal.com/)
 - [EBANX](https://ebanx.com/)
