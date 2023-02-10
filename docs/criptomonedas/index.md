@@ -202,9 +202,10 @@ Recuerden hacer backup de sus claves privadas.
 
 - [OpenNode](https://www.opennode.com/)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
-- [GloBee](https://globee.com/)
 - [CoinPayments](https://www.coinpayments.net/)
 - [BitPay](https://bitpay.com/)
+- [Bitfinex Pay](https://pay.bitfinex.com/)
+- [CoinGate](https://coingate.com/)
 - [BTCPay Server](https://btcpayserver.org/)
 
 ## Servicios por país
