@@ -8,7 +8,7 @@ title: Inicio
 
 ### Email
 
-- [ProtonMail](https://protonmail.com/)
+- [ProtonMail](https://proton.me/mail)
 - [Tutanota](https://tutanota.com/)
 
 ### Administrador de contraseñas
@@ -26,6 +26,11 @@ title: Inicio
 - [Signal](https://signal.org/)
 - [Element](https://element.io/)
 - [Keybase](https://keybase.io/)
+
+### Almacenamiento
+
+- [ProtonDrive](https://proton.me/drive)
+- [Filen](https://filen.io/)
 
 ### Videollamada
 
