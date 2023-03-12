@@ -90,7 +90,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱💎
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱💎 [Agregar RSK a MetaMask](https://metamask-landing.rifos.org/), [más info](https://developers.rsk.co/wallet/use/metamask/)
 
-### Hardware wallets
+#### Hardware wallets
 
 - [Trezor](https://trezor.io/)
 - [Ledger](https://www.ledger.com/)
