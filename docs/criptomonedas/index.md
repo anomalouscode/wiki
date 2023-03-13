@@ -167,8 +167,10 @@ Recuerden hacer backup de sus claves privadas.
 - [Paraswap](https://app.paraswap.io/)
 - [dYdX](https://trade.dydx.exchange/)
 - [1inch](https://app.1inch.io/)
+- [CoW Swap](https://swap.cow.fi/)
 - [Aave](https://app.aave.com/)
 - [Compound](https://app.compound.finance/)
+- [Yearn](https://yearn.finance/)
 - [DeFi Saver](https://app.defisaver.com/)
 - [Instadapp](https://defi.instadapp.io/)
 
