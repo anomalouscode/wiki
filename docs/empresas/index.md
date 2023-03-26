@@ -41,6 +41,11 @@ S = Soporta Stripe, P = Soporta PayPal, 5 = Parte de la alianza de inteligencia 
 - Jersey
 - Isla de Man
 - Gibraltar (S)
+- Chipre (S, P)
+- Estonia (S, P)
+- Malta (S, P)
+- Hong Kong (S, P)
+- Suiza (S, P)
 
 ### África
 
