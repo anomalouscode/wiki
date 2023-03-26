@@ -1,4 +1,4 @@
-# Panama
+# Panamá
 
 ## Procesadores de pago
 
