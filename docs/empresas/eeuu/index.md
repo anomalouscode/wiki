@@ -224,6 +224,8 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 - [2Checkout](https://www.2checkout.com/)
 - [Checkout.com](https://www.checkout.com/)
 - [PayU](https://payu.com/)
+- [Paddle](https://www.paddle.com/)
+- [Teachable](https://teachable.com/)
 
 ### Criptomonedas
 
