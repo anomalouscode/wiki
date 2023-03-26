@@ -23,30 +23,34 @@ Dependiendo el país también pueden haber grandes diferencias respecto a como s
 
 ## Jurisdicciones
 
-0 = Es posible no pagar impuestos como no residente, S = Soporta Stripe, P = Soporta PayPal, 5 = Parte de la alianza de inteligencia Five Eyes
+S = Soporta Stripe, P = Soporta PayPal, 5 = Parte de la alianza de inteligencia Five Eyes
 
 ### América
 
-- [Estados Unidos](eeuu/) (0, S, P, 5)
-- [Panamá](panama/) (0, P)
-- Islas Vírgenes Británicas (0, P)
-- Bermudas (0, P)
-- Islas Caimán (0, P)
-- Bahamas (0, P)
-- Nevis (0, P)
+- [Estados Unidos](eeuu/) (S, P, 5)
+- [Panamá](panama/) (P)
+- Islas Vírgenes Británicas (P)
+- Bermudas (P)
+- Islas Caimán (P)
+- Bahamas (P)
+- Nevis (P)
 
 ### Europa
 
-- [Reino Unido](uk/) (0, S, P, 5)
-- Hong Kong (0, S, P)
+- [Reino Unido](uk/) (S, P, 5)
 - Chipre (S, P)
 - Estonia (S, P)
 - Malta (S, P)
 - Suiza (S, P)
 - Gibraltar (S)
-- Jersey (0)
-- Isla de Man (0)
+- Jersey
+- Isla de Man
+
+### Asia
+
+- Hong Kong (S, P)
+- Singapur (S, P)
 
 ### África
 
-- Seychelles (0, P)
+- Seychelles (P)
