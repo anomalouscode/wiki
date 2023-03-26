@@ -23,7 +23,7 @@ Dependiendo el país también pueden haber grandes diferencias respecto a como s
 
 ## Jurisdicciones
 
-S = Soporta Stripe, P = Soporta PayPal, 5 = Parte de la alianza de inteligencia Five Eyes
+S = Soporta Stripe, P = Soporta PayPal, 5 = Miembro de la alianza de inteligencia Five Eyes, UE = Miembro de la Unión Europea
 
 ### América
 
@@ -38,9 +38,9 @@ S = Soporta Stripe, P = Soporta PayPal, 5 = Parte de la alianza de inteligencia 
 ### Europa
 
 - [Reino Unido](uk/) (S, P, 5)
-- Chipre (S, P)
-- Estonia (S, P)
-- Malta (S, P)
+- Chipre (S, P, UE)
+- Estonia (S, P, UE)
+- Malta (S, P, UE)
 - Suiza (S, P)
 - Gibraltar (S)
 - Jersey
