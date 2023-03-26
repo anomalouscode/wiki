@@ -23,6 +23,23 @@ Dependiendo el país también pueden haber grandes diferencias respecto a como s
 
 ## Jurisdicciones
 
+### América
+
 - [Estados Unidos](eeuu/)
+- [Panamá](panama/)
+- Islas Vírgenes Británicas
+- Bermudas
+- Islas Caimán
+- Bahamas
+- Nevis
+
+### Europa
+
 - Reino Unido
-- [Panama](panama/)
+- Jersey
+- Isla de Man
+- Gibraltar
+
+### África
+
+- Seychelles
