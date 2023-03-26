@@ -25,4 +25,4 @@ Dependiendo el país también pueden haber grandes diferencias respecto a como s
 
 - [Estados Unidos](eeuu/)
 - Reino Unido
-- Panama
+- [Panama](panama/)
