@@ -23,23 +23,25 @@ Dependiendo el país también pueden haber grandes diferencias respecto a como s
 
 ## Jurisdicciones
 
+S = Soporta Stripe, P = Soporta PayPal, 5 = Parte de la alianza de inteligencia Five Eyes
+
 ### América
 
-- [Estados Unidos](eeuu/)
-- [Panamá](panama/)
-- Islas Vírgenes Británicas
-- Bermudas
-- Islas Caimán
-- Bahamas
-- Nevis
+- [Estados Unidos](eeuu/) (S, P, 5)
+- [Panamá](panama/) (P)
+- Islas Vírgenes Británicas (P)
+- Bermudas (P)
+- Islas Caimán (P)
+- Bahamas (P)
+- Nevis (P)
 
 ### Europa
 
-- [Reino Unido](uk/)
+- [Reino Unido](uk/) (S, P, 5)
 - Jersey
 - Isla de Man
-- Gibraltar
+- Gibraltar (S)
 
 ### África
 
-- Seychelles
+- Seychelles (P)
