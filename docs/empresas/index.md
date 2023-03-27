@@ -17,7 +17,7 @@ Las LLC están sujetas a menores regulaciones, son más flexibles y simples, est
 
 Las Corporaciones dividen el capital en acciones y pueden cotizar en la bolsa, están gobernadas por sus accionistas proporcionalmente.
 
-Dependiendo el país también pueden haber grandes diferencias respecto a como son tratadas impositivamente.
+Dependiendo del país, también pueden haber grandes diferencias respecto a cómo son tratadas impositivamente.
 
 ## Jurisdicciones
 
