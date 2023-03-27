@@ -4,9 +4,7 @@ title: Inicio
 
 # Empresas
 
-A la hora de llevar a cabo un proyecto, la creación de una entidad legal puede ser fundamental para el éxito de este o incluso su mínimo funcionamiento.
-
-Seas un individuo trabajando para una o varias empresas o personas, quieras emprender, quieras invertir, proteger capital, no exponerte a tantos riesgos legales a nivel individual, quieras reducir tus impuestos al mínimo posible, o las leyes de tu país no sean compatibles con lo que querés hacer y necesites otras, o incluso seas un perseguido político, podes aprovechar uno o varios de los tantos países que hay en el mundo a tu favor y el de tu proyecto.
+La creación de una entidad legal puede ser fundamental para el éxito de un proyecto o incluso su mínimo funcionamiento. Ya sea que trabajes para una o varias empresas o personas, quieras emprender, invertir, proteger capital, reducir riesgos legales, minimizar impuestos o que las leyes de tu país no sean compatibles con lo que querés hacer y necesites otras, o incluso seas un perseguido político, podes aprovechar uno o varios de los tantos países que hay en el mundo a tu favor y el de tu proyecto.
 
 ## Tipos
 
