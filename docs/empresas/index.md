@@ -47,19 +47,19 @@ R = Tiene registro público de miembros/socios/accionistas/directores
 
 ### Europa
 
-- [Reino Unido](uk/) (S, P, 5, N, R)
-- Estonia (S, P, E, N, R)
+- [Reino Unido](uk/) (W, S, P, 5, N, R)
+- Estonia (W, S, P, E, N, R)
+- Suiza (W, S, P, R)
+- Gibraltar (W, S, P, R)
 - Chipre (S, P, E, R)
 - Malta (S, P, E, R)
-- Suiza (S, P, R)
-- Gibraltar (S, P, R)
 - Jersey (R)
 - Isla de Man (R)
 
 ### Asia
 
-- Hong Kong (S, P, R)
-- Singapur (S, P, R)
+- Hong Kong (W, S, P, R)
+- Singapur (W, S, P, R)
 - Emiratos Árabes Unidos (S, P, R)
 
 ### África
