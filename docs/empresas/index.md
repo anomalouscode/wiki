@@ -37,11 +37,11 @@ R = Tiene registro público de miembros/socios/accionistas/directores
 
 - [Estados Unidos](eeuu/) (S, P, 5, OTAN)
 - [Panamá](panama/) (P, R)
-- Islas Vírgenes Británicas (P, R)
 - Bermudas (P, R)
 - Islas Caimán (P, R)
 - Bahamas (P, R)
-- Nevis (P)
+- Islas Vírgenes Británicas (R)
+- Nevis
 
 ### Europa
 
@@ -50,7 +50,7 @@ R = Tiene registro público de miembros/socios/accionistas/directores
 - Chipre (S, P, UE, R)
 - Malta (S, P, UE, R)
 - Suiza (S, P, R)
-- Gibraltar (S, R)
+- Gibraltar (S, P, R)
 - Jersey (R)
 - Isla de Man (R)
 
@@ -62,8 +62,8 @@ R = Tiene registro público de miembros/socios/accionistas/directores
 
 ### África
 
-- Seychelles (P)
+- Seychelles
 
 ### Oceanía
 
-- Islas Cook (P)
+- Islas Cook
