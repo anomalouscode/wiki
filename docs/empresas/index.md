@@ -23,7 +23,7 @@ Dependiendo del país, también pueden haber grandes diferencias respecto a cóm
 
 W = Soporta Wise
 
-S = Soporta Stripe
+S = Soporta [Stripe](https://stripe.com/global)
 
 P = Soporta PayPal
 
