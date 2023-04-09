@@ -25,7 +25,7 @@ W = Soporta Wise
 
 S = Soporta [Stripe](https://stripe.com/global)
 
-P = Soporta PayPal
+P = Soporta [PayPal](https://developer.paypal.com/docs/payouts/standard/reference/country-feature/)
 
 5 = Miembro de la alianza de inteligencia Five Eyes
 
