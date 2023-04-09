@@ -21,34 +21,44 @@ Dependiendo del país, también pueden haber grandes diferencias respecto a cóm
 
 ## Jurisdicciones
 
-S = Soporta Stripe, P = Soporta PayPal, 5 = Miembro de la alianza de inteligencia Five Eyes, UE = Miembro de la Unión Europea, OTAN = Miembro de la OTAN
+S = Soporta Stripe
+
+P = Soporta PayPal
+
+5 = Miembro de la alianza de inteligencia Five Eyes
+
+UE = Miembro de la Unión Europea
+
+OTAN = Miembro de la OTAN
+
+R = Tiene registro público de miembros/socios/accionistas/directores
 
 ### América
 
 - [Estados Unidos](eeuu/) (S, P, 5, OTAN)
-- [Panamá](panama/) (P)
-- Islas Vírgenes Británicas (P)
-- Bermudas (P)
-- Islas Caimán (P)
-- Bahamas (P)
+- [Panamá](panama/) (P, R)
+- Islas Vírgenes Británicas (P, R)
+- Bermudas (P, R)
+- Islas Caimán (P, R)
+- Bahamas (P, R)
 - Nevis (P)
 
 ### Europa
 
-- [Reino Unido](uk/) (S, P, 5, OTAN)
-- Estonia (S, P, UE, OTAN)
-- Chipre (S, P, UE)
-- Malta (S, P, UE)
-- Suiza (S, P)
-- Gibraltar (S)
-- Jersey
-- Isla de Man
+- [Reino Unido](uk/) (S, P, 5, OTAN, R)
+- Estonia (S, P, UE, OTAN, R)
+- Chipre (S, P, UE, R)
+- Malta (S, P, UE, R)
+- Suiza (S, P, R)
+- Gibraltar (S, R)
+- Jersey (R)
+- Isla de Man (R)
 
 ### Asia
 
-- Hong Kong (S, P)
-- Singapur (S, P)
-- Emiratos Árabes Unidos (S, P)
+- Hong Kong (S, P, R)
+- Singapur (S, P, R)
+- Emiratos Árabes Unidos (S, P, R)
 
 ### África
 
