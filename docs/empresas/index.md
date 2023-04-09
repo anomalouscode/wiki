@@ -48,7 +48,12 @@ S = Soporta Stripe, P = Soporta PayPal, 5 = Miembro de la alianza de inteligenci
 
 - Hong Kong (S, P)
 - Singapur (S, P)
+- Emiratos Árabes Unidos (S, P)
 
 ### África
 
 - Seychelles (P)
+
+### Oceanía
+
+- Islas Cook (P)
