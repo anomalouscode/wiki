@@ -21,21 +21,23 @@ Dependiendo del país, también pueden haber grandes diferencias respecto a cóm
 
 ## Jurisdicciones
 
+W = Soporta Wise
+
 S = Soporta Stripe
 
 P = Soporta PayPal
 
 5 = Miembro de la alianza de inteligencia Five Eyes
 
-UE = Miembro de la Unión Europea
+E = Miembro de la Unión Europea
 
-OTAN = Miembro de la OTAN
+N = Miembro de la OTAN
 
 R = Tiene registro público de miembros/socios/accionistas/directores
 
 ### América
 
-- [Estados Unidos](eeuu/) (S, P, 5, OTAN)
+- [Estados Unidos](eeuu/) (W, S, P, 5, N)
 - [Panamá](panama/) (P, R)
 - Bermudas (P, R)
 - Islas Caimán (P, R)
@@ -45,10 +47,10 @@ R = Tiene registro público de miembros/socios/accionistas/directores
 
 ### Europa
 
-- [Reino Unido](uk/) (S, P, 5, OTAN, R)
-- Estonia (S, P, UE, OTAN, R)
-- Chipre (S, P, UE, R)
-- Malta (S, P, UE, R)
+- [Reino Unido](uk/) (S, P, 5, N, R)
+- Estonia (S, P, E, N, R)
+- Chipre (S, P, E, R)
+- Malta (S, P, E, R)
 - Suiza (S, P, R)
 - Gibraltar (S, P, R)
 - Jersey (R)
