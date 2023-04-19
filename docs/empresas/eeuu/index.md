@@ -227,6 +227,7 @@ Para cobrar con tarjetas de crédito/débito u otros medios necesitamos integrar
 - [PayU](https://payu.com/)
 - [Paddle](https://www.paddle.com/)
 - [Teachable](https://teachable.com/)
+- [Wisboo](https://www.wisboo.com/)
 
 ### Criptomonedas
 
