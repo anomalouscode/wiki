@@ -20,35 +20,35 @@ title: Inicio
 
 [Fravega](https://www.fravega.com/)
 
-[Undertaker](https://www.undertec.store/lista-de-precios/)
+[UnderTakeR](https://www.undertec.store/lista-de-precios/)
 
 [TecnoStore](https://docs.google.com/spreadsheets/d/1m9WHFSSml0b_9Ipo1QzGHh4qDxGj8bCFFsoefAFK0QA/edit)
 
-https://glicglobal.com/ar/
+[Glic](https://glicglobal.com/ar/)
 
-https://grabr.io/es/
+[Grabr](https://grabr.io/es/)
 
-https://aerobox.com.ar/
+[Aerobox](https://aerobox.com.ar/)
 
-https://tiendamia.com/
+[Tiendamia](https://tiendamia.com/)
 
-https://historial.com.ar/
+[Historial de Precios](https://historial.com.ar/)
 
 ## Estados Unidos
 
-https://www.amazon.com/
+[Amazon](https://www.amazon.com/)
 
-https://www.newegg.com/
+[Newegg](https://www.newegg.com/)
 
-https://www.ebay.com/
+[eBay](https://www.ebay.com/)
 
 ## Europa
 
-https://www.amazon.es/
+[Amazon ES](https://www.amazon.es/)
 
-https://www.amazon.de/
+[Amazon DE](https://www.amazon.de/)
 
-https://www.amazon.co.uk/
+[Amazon UK](https://www.amazon.co.uk/)
 
 ## China
 
