@@ -32,6 +32,8 @@ https://aerobox.com.ar/
 
 https://tiendamia.com/
 
+https://historial.com.ar/
+
 ## Estados Unidos
 
 https://www.amazon.com/
