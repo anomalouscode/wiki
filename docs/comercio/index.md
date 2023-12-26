@@ -24,3 +24,15 @@ https://www.undertec.store/lista-de-precios/
 
 https://docs.google.com/spreadsheets/d/1m9WHFSSml0b_9Ipo1QzGHh4qDxGj8bCFFsoefAFK0QA/edit
 
+https://glicglobal.com/ar/
+
+https://grabr.io/es/
+
+https://aerobox.com.ar/
+
+## Estados Unidos
+
+https://www.amazon.com/
+
+https://www.newegg.com/
+
