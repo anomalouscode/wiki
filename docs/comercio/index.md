@@ -8,21 +8,21 @@ title: Inicio
 
 [Mercado Libre](https://www.mercadolibre.com.ar/)
 
-[Hardgamers](https://www.hardgamers.com.ar/)
+[HardGamers](https://www.hardgamers.com.ar/)
 
-https://compragamer.com.ar/
+[Compra Gamer](https://compragamer.com.ar/)
 
-https://shop.samsung.com/ar/
+[Samsung](https://shop.samsung.com/ar/)
 
-https://tiendaonline.movistar.com.ar/
+[Movistar](https://tiendaonline.movistar.com.ar/)
 
-https://tienda.personal.com.ar/
+[Personal](https://tienda.personal.com.ar/)
 
-https://www.fravega.com/
+[Fravega](https://www.fravega.com/)
 
-https://www.undertec.store/lista-de-precios/
+[Undertaker](https://www.undertec.store/lista-de-precios/)
 
-[Tecnostore](https://docs.google.com/spreadsheets/d/1m9WHFSSml0b_9Ipo1QzGHh4qDxGj8bCFFsoefAFK0QA/edit)
+[TecnoStore](https://docs.google.com/spreadsheets/d/1m9WHFSSml0b_9Ipo1QzGHh4qDxGj8bCFFsoefAFK0QA/edit)
 
 https://glicglobal.com/ar/
 
