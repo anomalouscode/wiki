@@ -30,6 +30,8 @@ https://grabr.io/es/
 
 https://aerobox.com.ar/
 
+https://tiendamia.com/
+
 ## Estados Unidos
 
 https://www.amazon.com/
@@ -37,6 +39,14 @@ https://www.amazon.com/
 https://www.newegg.com/
 
 https://www.ebay.com/
+
+## Europa
+
+https://www.amazon.es/
+
+https://www.amazon.de/
+
+https://www.amazon.co.uk/
 
 ## China
 
