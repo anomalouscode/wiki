@@ -6,9 +6,9 @@ title: Inicio
 
 ## Argentina
 
-https://www.mercadolibre.com.ar/
+[Mercado Libre](https://www.mercadolibre.com.ar/)
 
-https://www.hardgamers.com.ar/
+[Hardgamers](https://www.hardgamers.com.ar/)
 
 https://compragamer.com.ar/
 
@@ -22,7 +22,7 @@ https://www.fravega.com/
 
 https://www.undertec.store/lista-de-precios/
 
-https://docs.google.com/spreadsheets/d/1m9WHFSSml0b_9Ipo1QzGHh4qDxGj8bCFFsoefAFK0QA/edit
+[Tecnostore](https://docs.google.com/spreadsheets/d/1m9WHFSSml0b_9Ipo1QzGHh4qDxGj8bCFFsoefAFK0QA/edit)
 
 https://glicglobal.com/ar/
 
