@@ -15,8 +15,8 @@ Email: team@anomalous.xyz
 ## Artículos
 
 - [Empresas](empresas/)
-- [Compras](compras/)
-- [Bancos](bancos/)
+- [Compras online](compras/)
+- [Bancos y fintechs](bancos/)
 - [Criptomonedas](criptomonedas/)
 - [Linux](linux/)
 - [Privacidad y seguridad](privacidad/)
