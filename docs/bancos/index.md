@@ -2,14 +2,18 @@
 title: Inicio
 ---
 
-# Union Europea
+# Bancos
+
+## Union Europea
 
 [N26](https://n26.com/)
 
-# Reino Unido
-
-[Wise](https://wise.com/)
-
-# Gibraltar
+## Gibraltar
 
 [Xapo](https://www.xapobank.com/)
+
+# Fintechs
+
+## Reino Unido
+
+[Wise](https://wise.com/)
