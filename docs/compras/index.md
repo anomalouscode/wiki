@@ -42,6 +42,8 @@ title: Inicio
 
 [eBay](https://www.ebay.com/)
 
+[Klarna](https://www.klarna.com/us/)
+
 ## Europa
 
 [Amazon ES](https://www.amazon.es/)
