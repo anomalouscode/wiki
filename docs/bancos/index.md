@@ -12,6 +12,10 @@ title: Inicio
 
 [Xapo](https://www.xapobank.com/)
 
+## Suiza
+
+[Dukascopy](https://www.dukascopy.com/)
+
 # Fintechs
 
 ## Reino Unido
