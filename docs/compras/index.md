@@ -2,7 +2,7 @@
 title: Inicio
 ---
 
-# Comercio electronico
+# Compras online
 
 ## Argentina
 
