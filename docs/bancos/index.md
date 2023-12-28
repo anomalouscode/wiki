@@ -39,3 +39,13 @@ title: Inicio
 # Cobros
 
 [Bitwage](https://www.bitwage.com/)
+
+[Takenos](https://www.takenos.com/)
+
+[Wallbit](https://wallbit.io/)
+
+[Xolo](https://www.xolo.io/)
+
+# Cambios
+
+[Saldo](https://saldo.com.ar/)
