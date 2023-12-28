@@ -2,27 +2,29 @@
 title: Inicio
 ---
 
-# Bancos
+# Bancos y fintechs
 
-## Union Europea
+## Bancos
+
+### Union Europea
 
 [N26](https://n26.com/)
 
-## Gibraltar
+### Gibraltar
 
 [Xapo](https://www.xapobank.com/)
 
-## Suiza
+### Suiza
 
 [Dukascopy](https://www.dukascopy.com/)
 
-# Fintechs
+## Fintechs
 
-## Reino Unido
+### Reino Unido
 
 [Wise](https://wise.com/)
 
-## Estados Unidos
+### Estados Unidos
 
 [Utoppia](https://www.utoppia.com/)
 
@@ -30,13 +32,13 @@ title: Inicio
 
 [GrabrFi](https://www.grabrfi.com/)
 
-# Brokers
+## Brokers
 
-## Estados Unidos
+### Estados Unidos
 
 [Interactive Brokers](https://www.interactivebrokers.com/)
 
-# Cobros
+## Cobros
 
 [Bitwage](https://www.bitwage.com/)
 
@@ -46,6 +48,6 @@ title: Inicio
 
 [Xolo](https://www.xolo.io/)
 
-# Cambios
+## Cambios
 
 [Saldo](https://saldo.com.ar/)
