@@ -28,8 +28,14 @@ title: Inicio
 
 [Payoneer](https://www.payoneer.com/)
 
+[GrabrFi](https://www.grabrfi.com/)
+
 # Brokers
 
 ## Estados Unidos
 
 [Interactive Brokers](https://www.interactivebrokers.com/)
+
+# Cobros
+
+[Bitwage](https://www.bitwage.com/)
