@@ -216,10 +216,11 @@ Recuerden hacer backup de sus claves privadas.
 ### Procesadores de pago
 
 - [OpenNode](https://www.opennode.com/)
+- [Bitfinex Pay](https://pay.bitfinex.com/)
 - [Coinbase Commerce](https://commerce.coinbase.com/)
+- [NOWPayments](https://nowpayments.io/)
 - [CoinPayments](https://www.coinpayments.net/)
 - [BitPay](https://bitpay.com/)
-- [Bitfinex Pay](https://pay.bitfinex.com/)
 - [CoinGate](https://coingate.com/)
 - [BTCPay Server](https://btcpayserver.org/)
 
