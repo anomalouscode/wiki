@@ -188,7 +188,6 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 
 - [Binance P2P](https://www.binance.com/)
 - [CriptoYa](https://criptoya.com/)
-- [Criptos AR](https://criptos.com.ar/)
 - [CoinMonitor](https://coinmonitor.info/)
 - [Cryptosaurio](https://www.cryptosaurio.com/)
 
