@@ -162,7 +162,7 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 - [Gemini](https://gemini.com/)
 - [Bitstamp](https://www.bitstamp.net/)
 - [OKCoin](https://www.okcoin.com/) ⚡
-- [OKX](https://www.okx.com/) ⚡🛡️🥷🏻
+- [OKX](https://www.okx.com/) ⚡🛡️
 - [Liquality Swap](https://swap.liquality.io/) 🌿🥷🏻
 - [UnstoppableSwap](https://unstoppableswap.net/) 🛡️🥷🏻
 - [ShapeShift](https://shapeshift.com/) 🥷🏻
