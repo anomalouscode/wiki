@@ -59,13 +59,12 @@ Recuerden hacer backup de sus claves privadas.
 
 📖 = Es open source
 
-- [Rainbow](https://rainbow.me/)
-- [Zerion](https://zerion.io/)
-- [Phantom](https://phantom.app/)
+- [Rainbow](https://rainbow.me/) (Android/iOS/Chrome/Brave/Firefox) 📖
+- [Zerion](https://zerion.io/) (Android/iOS/Mac/Chrome/Brave) 📖
+- [Phantom](https://phantom.app/) (Android/iOS/Chrome/Brave/Firefox) 📖
 - [Rabby](https://rabby.io/) (Chrome/Brave) 📖
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖
 - [Liquality](https://liquality.io/) (Chrome/Brave) 📖
-- [Defiant](https://defiantapp.tech/) (Android/iOS)
 
 #### Guardar montos grandes
 
