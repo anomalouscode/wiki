@@ -43,7 +43,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Monero
 
-Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/), [UnstoppableSwap](https://unstoppableswap.net/) o [Changelly](https://changelly.com/). Primero tenes que bajarte una [wallet de Monero](https://web.getmonero.org/downloads/), comprar Monero de la forma que prefieras (ver lista de exchanges abajo), mandartelos y hacer el pago a la direccion de Bitcoin que quieras con los servicios mencionados arriba, mandando Monero como input.
+Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/), [UnstoppableSwap](https://unstoppableswap.net/) o [Changelly](https://changelly.com/). Primero tenes que bajarte una [wallet de Monero](https://www.getmonero.org/downloads/), comprar Monero de la forma que prefieras (ver lista de exchanges abajo), mandartelos y hacer el pago a la direccion de Bitcoin que quieras con los servicios mencionados arriba, mandando Monero como input.
 
 También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
 
