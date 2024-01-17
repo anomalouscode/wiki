@@ -153,7 +153,7 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 
 - [Kraken](https://www.kraken.com/) ⚡🛡️
 - [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️
-- [Binance](https://www.binance.com/) 🛡️
+- [Binance](https://www.binance.com/) ⚡🛡️
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
 - [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻
@@ -162,7 +162,7 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 - [Gemini](https://gemini.com/)
 - [Bitstamp](https://www.bitstamp.net/)
 - [OKCoin](https://www.okcoin.com/) ⚡
-- [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻
+- [OKX](https://www.okex.com/) ⚡🛡️🥷🏻
 - [Liquality Swap](https://swap.liquality.io/) 🌿🥷🏻
 - [UnstoppableSwap](https://unstoppableswap.net/) 🛡️🥷🏻
 - [ShapeShift](https://shapeshift.com/) 🥷🏻
@@ -233,7 +233,6 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 - [OKCoin](https://www.okcoin.com/) ⚡
 - [Coinbase](https://www.coinbase.com/)
 - [Binance.US](https://www.binance.us/)
-- [Wyre](https://www.sendwyre.com/)
 - [Crypto.com](https://crypto.com/)
 - [Circle](https://www.circle.com/)
 - [Bitstamp](https://www.bitstamp.net/)
