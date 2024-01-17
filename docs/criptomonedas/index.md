@@ -205,6 +205,7 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 - [OKCoin](https://www.okcoin.com/) ⚡
 - [Coinbase](https://www.coinbase.com/)
 - [Circle](https://www.circle.com/)
+- [Nexo](https://nexo.com/)
 - [Bity](https://bity.com/)
 - [Bitstamp](https://www.bitstamp.net/)
 - [Mt Pelerin](https://www.mtpelerin.com/)
