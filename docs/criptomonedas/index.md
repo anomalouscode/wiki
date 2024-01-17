@@ -151,20 +151,18 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 
 🥷🏻 = Se puede usar sin KYC
 
-🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
-
-- [Kraken](https://www.kraken.com/) ⚡🛡️🤑
-- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️🤑
-- [Binance](https://www.binance.com/) 🛡️🤑
-- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻🤑
+- [Kraken](https://www.kraken.com/) ⚡🛡️
+- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️
+- [Binance](https://www.binance.com/) 🛡️
+- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
-- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻🤑
-- [Flyp.me](https://flyp.me/) ⚡🛡️🥷🏻🤑
+- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻
+- [Flyp.me](https://flyp.me/) ⚡🛡️🥷🏻
 - [Coinbase Pro](https://pro.coinbase.com/)
-- [Gemini](https://gemini.com/) 🤑
+- [Gemini](https://gemini.com/)
 - [Bitstamp](https://www.bitstamp.net/)
-- [OKCoin](https://www.okcoin.com/) ⚡🤑
-- [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻🤑
+- [OKCoin](https://www.okcoin.com/) ⚡
+- [OKEx](https://www.okex.com/) ⚡🛡️🥷🏻
 - [Liquality Swap](https://swap.liquality.io/) 🌿🥷🏻
 - [UnstoppableSwap](https://unstoppableswap.net/) 🛡️🥷🏻
 - [ShapeShift](https://shapeshift.com/) 🥷🏻
@@ -209,12 +207,10 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 
 🛡️ = Soporta Monero
 
-🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
-
-- [Kraken](https://www.kraken.com/) ⚡🛡️🤑
-- [Gemini](https://gemini.com/) 🤑
+- [Kraken](https://www.kraken.com/) ⚡🛡️
+- [Gemini](https://gemini.com/)
 - [Crypto.com](https://crypto.com/)
-- [OKCoin](https://www.okcoin.com/) ⚡🤑
+- [OKCoin](https://www.okcoin.com/) ⚡
 - [Coinbase](https://www.coinbase.com/)
 - [Circle](https://www.circle.com/)
 - [Bity](https://bity.com/)
@@ -229,14 +225,12 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 
 🛡️ = Soporta Monero
 
-🤑 = Tiene retiros gratis de Bitcoin, Ethereum o Stablecoins
-
-- [Kraken](https://www.kraken.com/) ⚡🛡️🤑
-- [Cash App](https://cash.app/) ⚡🤑
-- [Strike](https://strike.me/) ⚡🤑
-- [River Financial](https://river.com/) ⚡🤑
-- [Gemini](https://gemini.com/) 🤑
-- [OKCoin](https://www.okcoin.com/) ⚡🤑
+- [Kraken](https://www.kraken.com/) ⚡🛡️
+- [Cash App](https://cash.app/) ⚡
+- [Strike](https://strike.me/) ⚡
+- [River Financial](https://river.com/) ⚡
+- [Gemini](https://gemini.com/)
+- [OKCoin](https://www.okcoin.com/) ⚡
 - [Coinbase](https://www.coinbase.com/)
 - [Binance.US](https://www.binance.us/)
 - [Wyre](https://www.sendwyre.com/)
