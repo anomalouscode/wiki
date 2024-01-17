@@ -145,14 +145,12 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 
 ⚡ = Soporta Lightning Network
 
-🌿 = Soporta RSK
-
 🛡️ = Soporta Monero
 
 🥷🏻 = Se puede usar sin KYC
 
 - [Kraken](https://www.kraken.com/) ⚡🛡️
-- [Bitfinex](https://www.bitfinex.com/) ⚡🌿🛡️
+- [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
 - [Binance](https://www.binance.com/) ⚡🛡️
 - [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻
 - [Changelly](https://changelly.com/) 🛡️🥷🏻
@@ -163,7 +161,6 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 - [Bitstamp](https://www.bitstamp.net/)
 - [OKCoin](https://www.okcoin.com/) ⚡
 - [OKX](https://www.okx.com/) ⚡🛡️
-- [Liquality Swap](https://swap.liquality.io/) 🌿🥷🏻
 - [UnstoppableSwap](https://unstoppableswap.net/) 🛡️🥷🏻
 - [ShapeShift](https://shapeshift.com/) 🥷🏻
 - [THORSwap](https://thorswap.finance/) 🥷🏻
