@@ -246,13 +246,10 @@ Servicios para comprar y vender criptomonedas como empresa.
 
 🛡️ = Soporta Monero
 
-🤑 = Tiene retiros gratis
-
-- [Kraken](https://www.kraken.com/en-us/institutions) 🛡️⚡🤑
-- [Gemini](https://www.gemini.com/institutions) 🤑
-- [OKCoin](https://www.okcoin.com/) ⚡🤑
-- [Coinbase Prime](https://primebroker.coinbase.com/)
-- [Wyre](https://www.sendwyre.com/)
+- [Kraken](https://www.kraken.com/en-us/institutions) ⚡🛡️
+- [Gemini](https://www.gemini.com/institutions)
+- [OKCoin](https://www.okcoin.com/) ⚡
+- [Coinbase Prime](https://www.coinbase.com/prime)
 - [Circle](https://www.circle.com/) (no funciona con Mercury porque utilizan un banco intermediario para enviar wires, no pudiendo completar la verificación de la cuenta bancaria)
 
 ## Servicios útiles
