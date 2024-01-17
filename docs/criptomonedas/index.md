@@ -59,8 +59,8 @@ Recuerden hacer backup de sus claves privadas.
 
 📖 = Es open source
 
-- [Rainbow](https://rainbow.me/) (Android/iOS/Chrome/Brave/Firefox) 📖
 - [Rabby](https://rabby.io/) (Chrome/Brave) 📖
+- [Rainbow](https://rainbow.me/) (Android/iOS/Chrome/Brave/Firefox) 📖
 - [Phantom](https://phantom.app/) (Android/iOS/Chrome/Brave/Firefox) 📖
 - [Zerion](https://zerion.io/) (Android/iOS/Mac/Chrome/Brave) 📖
 - [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖
