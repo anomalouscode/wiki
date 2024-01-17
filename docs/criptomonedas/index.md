@@ -114,13 +114,9 @@ Recuerden hacer backup de sus claves privadas.
 
 Para usar tus BTC en RSK hay que convertirlos a RBTC, hay distintos metodos disponibles:
 
-- Usar FastBTC de [Sovryn](https://www.sovryn.app/)
+- Usar FastBTC de [Sovryn](https://sovryn.app/)
 
 Vas a Portfolio y apretas FastBTC, te genera una direccion BTC donde podes mandarlos y se convierten a RBTC en tu wallet de RSK.
-
-- Comprar RBTC en [Bitfinex](https://www.bitfinex.com/)
-
-El exchange tiene listado el token, se compra y se retira a tu wallet.
 
 - Hacer un swap en [Liquality](https://liquality.io/)
 
