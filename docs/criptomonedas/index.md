@@ -10,42 +10,22 @@ title: Inicio
 
 Recuerden hacer backup de sus claves privadas.
 
-#### Sólo Bitcoin
-
 📖 = Es open source
 
 ⚡ = Soporta Lightning Network
 
 👁 = Soporta CoinJoins
 
+- [Phoenix](https://phoenix.acinq.co/) (Android/iOS) 📖⚡
 - [Muun](https://muun.com/) (Android/iOS) 📖⚡
-- [Phoenix](https://phoenix.acinq.co/) (Android) 📖⚡
 - [Breez](https://breez.technology/) (Android/iOS) 📖⚡
 - [BlueWallet](https://bluewallet.io/) (Android/iOS/Mac) 📖⚡
-- [Umbrel](https://getumbrel.com/) (Full node) 📖⚡
 - [Samourai](https://samouraiwallet.com/) (Android) 📖👁
 - [Sparrow](https://www.sparrowwallet.com/) (Linux/Mac/Windows) 📖👁
 - [Wasabi](https://www.wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
-- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
 - [Electrum](https://electrum.org/) (Android/Linux/Mac/Windows) 📖⚡
-
-#### Soporta múltiples monedas
-
-📖 = Es open source
-
-📱 = Soporta Dapps
-
-🛡️ = Soporta Monero
-
-🌿 = Soporta RSK
-
-- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
-- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
-- [Trust](https://trustwallet.com/) (Android/iOS) 📱
-- [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
-- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
-- [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
-- [Edge](https://edge.app/) (Android/iOS) 📖🛡️
+- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
+- [Aqua](https://aquawallet.io/) (Android/iOS) ⚡
 
 #### Guardar montos grandes
 
@@ -63,13 +43,53 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Monero
 
-Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/), [UnstoppableSwap](https://unstoppableswap.net/) o [Changelly](https://changelly.com/). Primero tenes que bajarte una [wallet de Monero](https://www.getmonero.org/downloads/), comprar Monero de la forma que prefieras (ver lista de exchanges abajo), mandartelos y hacer el pago a la direccion de Bitcoin que quieras con los servicios mencionados arriba, mandando Monero como input.
+Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la privacidad) usando [FixedFloat](https://fixedfloat.com/), [UnstoppableSwap](https://unstoppableswap.net/) o [Changelly](https://changelly.com/). Primero tenes que bajarte una [wallet de Monero](https://web.getmonero.org/downloads/), comprar Monero de la forma que prefieras (ver lista de exchanges abajo), mandartelos y hacer el pago a la direccion de Bitcoin que quieras con los servicios mencionados arriba, mandando Monero como input.
 
 También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
 
 #### CoinJoins (avanzado)
 
 Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Samourai](https://samouraiwallet.com/), [Sparrow](https://www.sparrowwallet.com/) y [Wasabi](https://www.wasabiwallet.io/), lo considero mas avanzado porque hay que tener mas cuidado de no volver a mezclar con una direccion vinculada a tu identidad el cambio que te queda despues de hacer un pago con bitcoins limpios. Lo recomendable es no volver a vincular nunca a vos los bitcoins limpios, pero si es necesario, es buena idea volver a limpiarlos antes y entender que los exchanges con KYC mas vigilantes pueden cuestionarte si es evidente que les mandaste bitcoins que limpiaste, por este motivo yo prefiero mantener estos bitcoins fuera de servicios centralizados o con custodia, y si es necesario, uso tecnicas de distraccion para que no sea evidente que los bitcoins vienen de un coinjoin, como moverlos un poco entre direcciones distintas y meterlos desde un canal de Lightning u otra cadena como RSK.
+
+## Ethereum
+
+### Wallets
+
+Recuerden hacer backup de sus claves privadas.
+
+📖 = Es open source
+
+- [Rainbow](https://rainbow.me/)
+- [Zerion](https://zerion.io/)
+- [Phantom](https://phantom.app/)
+- [Rabby](https://rabby.io/) (Chrome/Brave) 📖
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖
+- [Defiant](https://defiantapp.tech/) (Android/iOS)
+
+#### Guardar montos grandes
+
+- [Gnosis Safe](https://gnosis-safe.io/) (Web/Android/iOS/Linux/Mac/Windows)
+
+#### Hardware wallets
+
+- [Trezor](https://trezor.io/)
+- [Ledger](https://www.ledger.com/)
+
+### Dapps
+
+- [Mean Finance](https://mean.finance/)
+- [Curve](https://curve.fi/)
+- [Uniswap](https://app.uniswap.org/)
+- [Paraswap](https://app.paraswap.io/)
+- [dYdX](https://trade.dydx.exchange/)
+- [1inch](https://app.1inch.io/)
+- [CoW Swap](https://swap.cow.fi/)
+- [Aave](https://app.aave.com/)
+- [Compound](https://app.compound.finance/)
+- [Yearn](https://yearn.finance/)
+- [DeFi Saver](https://app.defisaver.com/)
+- [Instadapp](https://defi.instadapp.io/)
 
 ## RSK
 
@@ -81,14 +101,10 @@ Recuerden hacer backup de sus claves privadas.
 
 📖 = Es open source
 
-📱 = Soporta Dapps
-
-💎 = Soporta Ethereum
-
-- [Rabby](https://rabby.io/) (Chrome/Brave) 📖📱💎
-- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱💎
-- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱💎
-- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱💎 [Agregar RSK a MetaMask](https://metamask-landing.rifos.org/), [más info](https://developers.rsk.co/wallet/use/metamask/)
+- [Rabby](https://rabby.io/) (Chrome/Brave) 📖
+- [Defiant](https://defiantapp.tech/) (Android/iOS)
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖 [Agregar RSK a MetaMask](https://metamask-landing.rifos.org/), [más info](https://developers.rsk.co/wallet/use/metamask/)
 
 #### Hardware wallets
 
@@ -123,56 +139,6 @@ Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambie
 - [RSK Bridge](https://tokenbridge.rsk.co/) Bridge para pasar a RSK tokens de Ethereum
 - [RSK Swap](https://rskswap.com/) Exchange descentralizado
 - [RIF Name Service](https://manager.rns.rifos.org/) Registro de dominios .rsk
-
-## Ethereum
-
-### Wallets
-
-Recuerden hacer backup de sus claves privadas.
-
-📖 = Es open source
-
-📱 = Soporta Dapps
-
-🛡️ = Soporta Monero
-
-🌿 = Soporta RSK
-
-- [Rabby](https://rabby.io/) (Chrome/Brave) 📖📱🌿
-- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖📱🌿
-- [Liquality](https://liquality.io/) (Chrome/Brave) 📖📱🌿
-- [Defiant](https://defiantapp.tech/) (Android/iOS) 📱🌿
-- [Argent](https://www.argent.xyz/) (Android/iOS) 📱
-- [Trust](https://trustwallet.com/) (Android/iOS) 📱
-- [SafePal](https://www.safepal.io/download) (Android/iOS) 📱
-- [Coinomi](https://www.coinomi.com/) (Android/iOS/Linux/Mac/Windows) 📱🛡️
-- [Exodus](https://www.exodus.io/) (Android/iOS/Linux/Mac/Windows) 🛡️
-- [Edge](https://edge.app/) (Android/iOS) 📖🛡️
-
-
-#### Guardar montos grandes
-
-- [Gnosis Safe](https://gnosis-safe.io/) (Web/Android/iOS/Linux/Mac/Windows)
-
-#### Hardware wallets
-
-- [Trezor](https://trezor.io/)
-- [Ledger](https://www.ledger.com/)
-
-### Dapps
-
-- [Mean Finance](https://mean.finance/)
-- [Curve](https://curve.fi/)
-- [Uniswap](https://app.uniswap.org/)
-- [Paraswap](https://app.paraswap.io/)
-- [dYdX](https://trade.dydx.exchange/)
-- [1inch](https://app.1inch.io/)
-- [CoW Swap](https://swap.cow.fi/)
-- [Aave](https://app.aave.com/)
-- [Compound](https://app.compound.finance/)
-- [Yearn](https://yearn.finance/)
-- [DeFi Saver](https://app.defisaver.com/)
-- [Instadapp](https://defi.instadapp.io/)
 
 ## Servicios globales
 
