@@ -21,7 +21,6 @@ title: Inicio
 - [Linux Mint](https://linuxmint.com/download.php) (Basado en Ubuntu)
 - [LMDE](https://linuxmint.com/download_lmde.php) (Basado en Debian)
 - [Ubuntu](https://ubuntu.com/download/desktop) (Basado en Debian)
-- [Kubuntu](https://kubuntu.org/getkubuntu/) (Basado en Ubuntu)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 
 ### Actualizaciones mínimas
