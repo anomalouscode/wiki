@@ -9,7 +9,7 @@ title: Inicio
 ### Software y funciones más nuevas, último soporte de hardware
 
 - [Fedora](https://getfedora.org/)
-- [Fedora KDE)(https://fedoraproject.org/spins/kde/)
+- [Fedora KDE](https://fedoraproject.org/spins/kde/)
 - [Arch Linux](https://www.archlinux.org/)
 - [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
 - [Fedora Silverblue](https://silverblue.fedoraproject.org/)
