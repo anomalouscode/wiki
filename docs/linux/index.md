@@ -10,11 +10,6 @@ title: Inicio
 
 - [Fedora](https://fedoraproject.org/workstation/)
 - [Fedora KDE](https://fedoraproject.org/spins/kde/)
-- [Arch Linux](https://www.archlinux.org/)
-- [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
-- [Fedora Silverblue](https://fedoraproject.org/silverblue/)
-- [Fedora Kinoite](https://fedoraproject.org/kinoite/) 
-- [NixOS](https://nixos.org/)
 
 ### Menos actualizaciones
 
