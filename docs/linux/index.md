@@ -12,7 +12,7 @@ title: Inicio
 - [Fedora KDE](https://fedoraproject.org/spins/kde/)
 - [Arch Linux](https://www.archlinux.org/)
 - [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
-- [Fedora Silverblue](https://silverblue.fedoraproject.org/)
+- [Fedora Silverblue](https://fedoraproject.org/silverblue/)
 - [Fedora Kinoite](https://kinoite.fedoraproject.org/) 
 - [NixOS](https://nixos.org/)
 
