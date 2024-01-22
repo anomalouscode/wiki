@@ -6,7 +6,7 @@ title: Inicio
 
 ## Linux
 
-### Software y funciones más nuevas, último soporte de hardware
+### Software más nuevo, último soporte de hardware
 
 - [Fedora](https://fedoraproject.org/workstation/)
 - [Fedora KDE](https://fedoraproject.org/spins/kde/)
@@ -16,7 +16,7 @@ title: Inicio
 - [Fedora Kinoite](https://kinoite.fedoraproject.org/) 
 - [NixOS](https://nixos.org/)
 
-### Software más testeado, menos actualizaciones de sistema
+### Menos actualizaciones
 
 - [Linux Mint](https://linuxmint.com/download.php) (Basado en Ubuntu)
 - [LMDE](https://linuxmint.com/download_lmde.php) (Basado en Debian)
@@ -24,7 +24,7 @@ title: Inicio
 - [Kubuntu](https://kubuntu.org/getkubuntu/) (Basado en Ubuntu)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 
-### Estabilidad de central nuclear, actualizaciones mínimas
+### Actualizaciones mínimas
 
 - [Debian](https://www.debian.org/CD/live/)
 - [Rocky Linux](https://rockylinux.org/) (Basado en RHEL)
