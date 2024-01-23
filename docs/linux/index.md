@@ -22,3 +22,10 @@ title: Inicio
 
 - [Debian](https://www.debian.org/CD/live/)
 - [Rocky Linux](https://rockylinux.org/) (Basado en RHEL)
+
+### Avanzado
+
+- [Fedora Silverblue](https://fedoraproject.org/silverblue/)
+- [Fedora Kinoite](https://fedoraproject.org/kinoite/)
+- [Arch Linux](https://archlinux.org/)
+- [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
