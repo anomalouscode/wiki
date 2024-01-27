@@ -1,7 +1,7 @@
 site_name: Anomalous Wiki
 site_url: https://wiki.anomalous.xyz
 site_description: Espacio abierto de conocimiento libre.
-site_author: Anomalous Research Society LLC
+site_author: @anomalouscode
 repo_url: https://github.com/anomalouscode/wiki
 theme:
   name: material
