@@ -14,8 +14,9 @@ title: Inicio
 ### Menos actualizaciones
 
 - [Linux Mint](https://linuxmint.com/download.php) (Basado en Ubuntu)
-- [Ubuntu LTS](https://ubuntu.com/download/desktop) (Basado en Debian)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
+- [Tuxedo OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) (Basado en Ubuntu)
+- [Ubuntu LTS](https://ubuntu.com/download/desktop) (Basado en Debian)
 
 ### Actualizaciones mínimas
 
