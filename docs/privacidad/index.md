@@ -37,12 +37,12 @@ title: Inicio
 - [Brave Talk](https://talk.brave.com/)
 - [Jitsi](https://jitsi.org/)
 - [Jami](https://jami.net/)
-- [Linphone](https://linphone.org/)
 
 ### Navegador
 
-- [Brave](https://brave.com/ast502)
+- [Brave](https://brave.com/)
 - [Firefox](https://www.mozilla.org/firefox/new/)
+- [LibreWolf](https://librewolf.net/)
 
 ### Buscador
 
@@ -59,3 +59,4 @@ title: Inicio
 ### Otras listas de apps
 
 - [PrivacyTools](https://privacytools.io/)
+- [Privacy Guides](https://www.privacyguides.org/)
