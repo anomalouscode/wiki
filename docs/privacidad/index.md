@@ -9,7 +9,7 @@ title: Inicio
 ### Email
 
 - [ProtonMail](https://proton.me/mail)
-- [Tutanota](https://tuta.com/)
+- [Tuta](https://tuta.com/)
 
 ### Administrador de contraseñas
 
