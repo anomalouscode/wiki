@@ -25,11 +25,10 @@ title: Inicio
 - [Session](https://getsession.org/)
 - [Signal](https://signal.org/)
 - [Element](https://element.io/)
-- [Keybase](https://keybase.io/)
 
 ### Almacenamiento
 
-- [ProtonDrive](https://proton.me/drive)
+- [Proton](https://proton.me/drive)
 - [Filen](https://filen.io/)
 
 ### Videollamada
