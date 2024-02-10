@@ -36,7 +36,7 @@ title: Inicio
 ### Videollamada
 
 - [Brave Talk](https://talk.brave.com/)
-- [Jitsi](https://jitsi.org/)
+- [Jitsi](https://meet.jit.si/)
 
 ### Navegador
 
