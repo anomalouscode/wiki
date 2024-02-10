@@ -20,22 +20,22 @@ title: Inicio
 
 - [Authy](https://authy.com/)
 
-### Chat
-
-- [Session](https://getsession.org/)
-- [Signal](https://signal.org/)
-- [Element](https://element.io/)
-
 ### Almacenamiento
 
 - [Proton](https://proton.me/drive)
 - [Filen](https://filen.io/)
 
+### Chat
+
+- [Session](https://getsession.org/)
+- [Signal](https://signal.org/)
+- [Element](https://element.io/)
+- [Jami](https://jami.net/)
+
 ### Videollamada
 
 - [Brave Talk](https://talk.brave.com/)
 - [Jitsi](https://jitsi.org/)
-- [Jami](https://jami.net/)
 
 ### Navegador
 
