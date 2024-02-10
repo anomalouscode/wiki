@@ -14,6 +14,7 @@ title: Inicio
 ### Administrador de contraseñas
 
 - [Bitwarden](https://bitwarden.com/)
+- [Proton](https://proton.me/pass)
 - [KeePassXC](https://keepassxc.org/)
 
 ### Segundo factor de autenticación
