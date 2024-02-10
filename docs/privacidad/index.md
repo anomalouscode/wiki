@@ -8,7 +8,7 @@ title: Inicio
 
 ### Email
 
-- [ProtonMail](https://proton.me/mail)
+- [Proton](https://proton.me/mail)
 - [Tuta](https://tuta.com/)
 
 ### Administrador de contraseñas
