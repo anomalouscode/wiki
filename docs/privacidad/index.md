@@ -58,5 +58,5 @@ title: Inicio
 
 ### Otras listas de apps
 
-- [PrivacyTools](https://privacytools.io/)
+- [Privacy Tools](https://www.privacytools.io/)
 - [Privacy Guides](https://www.privacyguides.org/)
