@@ -17,10 +17,6 @@ title: Inicio
 - [Proton](https://proton.me/pass)
 - [KeePassXC](https://keepassxc.org/)
 
-### Segundo factor de autenticación
-
-- [Authy](https://authy.com/)
-
 ### Almacenamiento
 
 - [Proton](https://proton.me/drive)
