@@ -9,7 +9,7 @@ title: Inicio
 ### Software más nuevo, último soporte de hardware
 
 - [Fedora](https://fedoraproject.org/workstation/)
-- [Fedora KDE](https://fedoraproject.org/spins/kde/)
+- [Fedora Spins](https://fedoraproject.org/spins/)
 
 ### Menos actualizaciones
 
@@ -25,7 +25,7 @@ title: Inicio
 
 ### Avanzado
 
-- [Fedora Silverblue](https://fedoraproject.org/silverblue/)
-- [Fedora Kinoite](https://fedoraproject.org/kinoite/)
+- [Fedora Atomic](https://fedoraproject.org/atomic-desktops/)
+- [Bazzite](https://bazzite.gg/) (Basado en Fedora)
 - [Arch Linux](https://archlinux.org/)
 - [EndeavourOS](https://endeavouros.com/) (Basado en Arch)
