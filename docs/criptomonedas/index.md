@@ -20,8 +20,6 @@ Recuerden hacer backup de sus claves privadas.
 - [Muun](https://muun.com/) (Android/iOS) 📖⚡
 - [Breez](https://breez.technology/) (Android/iOS) 📖⚡
 - [BlueWallet](https://bluewallet.io/) (Android/iOS/Mac) 📖⚡
-- [Samourai](https://samouraiwallet.com/) (Android) 📖👁
-- [Sparrow](https://sparrowwallet.com/) (Linux/Mac/Windows) 📖👁
 - [Wasabi](https://wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
 - [Electrum](https://electrum.org/) (Android/Linux/Mac/Windows) 📖⚡
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
@@ -49,7 +47,7 @@ También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](
 
 #### CoinJoins (avanzado)
 
-Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Samourai](https://samouraiwallet.com/), [Sparrow](https://sparrowwallet.com/) y [Wasabi](https://wasabiwallet.io/), lo considero mas avanzado porque hay que tener mas cuidado de no volver a mezclar con una direccion vinculada a tu identidad el cambio que te queda despues de hacer un pago con bitcoins limpios. Lo recomendable es no volver a vincular nunca a vos los bitcoins limpios, pero si es necesario, es buena idea volver a limpiarlos antes y entender que los exchanges con KYC mas vigilantes pueden cuestionarte si es evidente que les mandaste bitcoins que limpiaste, por este motivo yo prefiero mantener estos bitcoins fuera de servicios centralizados o con custodia, y si es necesario, uso tecnicas de distraccion para que no sea evidente que los bitcoins vienen de un coinjoin, como moverlos un poco entre direcciones distintas y meterlos desde un canal de Lightning u otra cadena como RSK, Liquid, Ethereum, etc.
+Se pueden mezclar tus bitcoins con los de otros haciendo coinjoins, para esto tenemos wallets como [Wasabi](https://wasabiwallet.io/), lo considero mas avanzado porque hay que tener mas cuidado de no volver a mezclar con una direccion vinculada a tu identidad el cambio que te queda despues de hacer un pago con bitcoins limpios. Lo recomendable es no volver a vincular nunca a vos los bitcoins limpios, pero si es necesario, es buena idea volver a limpiarlos antes y entender que los exchanges con KYC mas vigilantes pueden cuestionarte si es evidente que les mandaste bitcoins que limpiaste, por este motivo yo prefiero mantener estos bitcoins fuera de servicios centralizados o con custodia, y si es necesario, uso tecnicas de distraccion para que no sea evidente que los bitcoins vienen de un coinjoin, como moverlos un poco entre direcciones distintas y meterlos desde un canal de Lightning u otra cadena como RSK, Liquid, Ethereum, etc.
 
 ## Ethereum
 
