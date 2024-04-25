@@ -16,6 +16,7 @@ Recuerden hacer backup de sus claves privadas.
 
 👁 = Soporta CoinJoins
 
+- [Aqua](https://aquawallet.io/) (Android/iOS) 📖⚡
 - [Phoenix](https://phoenix.acinq.co/) (Android/iOS) 📖⚡
 - [Muun](https://muun.com/) (Android/iOS) 📖⚡
 - [Breez](https://breez.technology/) (Android/iOS) 📖⚡
@@ -23,7 +24,6 @@ Recuerden hacer backup de sus claves privadas.
 - [Wasabi](https://wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
 - [Electrum](https://electrum.org/) (Android/Linux/Mac/Windows) 📖⚡
 - [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
-- [Aqua](https://aquawallet.io/) (Android/iOS) ⚡
 
 #### Guardar montos grandes
 
