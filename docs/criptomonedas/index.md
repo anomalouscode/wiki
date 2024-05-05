@@ -62,7 +62,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Guardar montos grandes
 
-- [Gnosis Safe](https://gnosis-safe.io/) (Web/Android/iOS/Linux/Mac/Windows)
+- [Safe](https://app.safe.global/) (Web/Android/iOS/Linux/Mac/Windows)
 
 #### Hardware wallets
 
@@ -81,6 +81,7 @@ Recuerden hacer backup de sus claves privadas.
 - [CoW Swap](https://swap.cow.fi/)
 - [Aave](https://app.aave.com/)
 - [Compound](https://app.compound.finance/)
+- [Beefy](https://app.beefy.com/)
 - [Yearn](https://yearn.finance/)
 - [DeFi Saver](https://app.defisaver.com/)
 - [Instadapp](https://defi.instadapp.io/)
