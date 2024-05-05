@@ -123,7 +123,7 @@ Recuerden hacer backup de sus claves privadas.
 
 - [Kraken](https://www.kraken.com/) ⚡🛡️
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
-- [Binance](https://www.binance.com/) ⚡🛡️
+- [Binance](https://www.binance.com/) ⚡
 - [Coinbase](https://coinbase.com/) ⚡
 - [Gemini](https://gemini.com/)
 - [Bitstamp](https://www.bitstamp.net/)
