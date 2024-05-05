@@ -121,8 +121,6 @@ Recuerden hacer backup de sus claves privadas.
 
 🛡️ = Soporta Monero
 
-🥷🏻 = Se puede usar sin KYC
-
 - [Kraken](https://www.kraken.com/) ⚡🛡️
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
 - [Binance](https://www.binance.com/) ⚡🛡️
