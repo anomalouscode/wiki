@@ -103,7 +103,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Hardware wallets
 
-- [Trezor](hthtps://trezor.io/)
+- [Trezor](https://trezor.io/)
 - [Ledger](https://www.ledger.com/)
 
 ### Dapps
