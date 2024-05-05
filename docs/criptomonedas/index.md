@@ -14,16 +14,12 @@ Recuerden hacer backup de sus claves privadas.
 
 ⚡ = Soporta Lightning Network
 
-👁 = Soporta CoinJoins
-
 - [Aqua](https://aquawallet.io/) (Android/iOS) 📖⚡
 - [Phoenix](https://phoenix.acinq.co/) (Android/iOS) 📖⚡
 - [Muun](https://muun.com/) (Android/iOS) 📖⚡
 - [Breez](https://breez.technology/) (Android/iOS) 📖⚡
-- [BlueWallet](https://bluewallet.io/) (Android/iOS/Mac) 📖⚡
-- [Wasabi](https://wasabiwallet.io/) (Linux/Mac/Windows) 📖👁
+- [Wasabi](https://wasabiwallet.io/) (Linux/Mac/Windows) 📖
 - [Electrum](https://electrum.org/) (Android/Linux/Mac/Windows) 📖⚡
-- [Green](https://blockstream.com/green/) (Android/iOS/Linux/Mac/Windows) 📖
 
 #### Guardar montos grandes
 
