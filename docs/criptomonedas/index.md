@@ -72,7 +72,7 @@ Recuerden hacer backup de sus claves privadas.
 ### Dapps
 
 - [LlamaSwap](https://swap.defillama.com/)
-- [Mean Finance](https://mean.finance/)
+- [Balmy](https://app.balmy.xyz/)
 - [Curve](https://curve.fi/)
 - [Uniswap](https://app.uniswap.org/)
 - [Paraswap](https://app.paraswap.io/)
@@ -106,30 +106,12 @@ Recuerden hacer backup de sus claves privadas.
 - [Trezor](https://trezor.io/)
 - [Ledger](https://www.ledger.com/)
 
-### Pasar BTC a RBTC
-
-Para usar tus BTC en RSK hay que convertirlos a RBTC, hay distintos metodos disponibles:
-
-- Usar FastBTC de [Sovryn](https://sovryn.app/)
-
-Vas a Portfolio y apretas FastBTC, te genera una direccion BTC donde podes mandarlos y se convierten a RBTC en tu wallet de RSK.
-
-- Hacer un swap en [Liquality](https://liquality.io/)
-
-Esta wallet tiene integrado un exchange que soporta RBTC.
-
-- Usar el metodo nativo PowPeg
-
-Es el metodo mas barato y seguro por ser el nativo de RSK, pero por ahora tambien es el mas lento ya que toma alrededor de 1 dia, la forma mas facil de hacerlo es con la wallet [Defiant](https://defiantapp.tech/).
-
 ### Dapps
 
-- [Money On Chain](https://moneyonchain.com/) Stablecoin descentralizada respaldada en Bitcoin con token para generar interes en Bitcoin
-- [Sovryn](https://www.sovryn.app/) Exchange y prestamos descentralizados
-- [Sovryn Bridge](https://bridge.sovryn.app/) Bridge para pasar a RSK tokens de Ethereum y Binance Smart Chain
-- [RSK Bridge](https://tokenbridge.rsk.co/) Bridge para pasar a RSK tokens de Ethereum
-- [RSK Swap](https://rskswap.com/) Exchange descentralizado
-- [RIF Name Service](https://manager.rns.rifos.org/) Registro de dominios .rsk
+- [Money On Chain](https://moneyonchain.com/)
+- [Sovryn](https://sovryn.app/)
+- [Balmy](https://app.balmy.xyz/)
+- [Symbiosis](https://app.symbiosis.finance/)
 
 ## Servicios globales
 
