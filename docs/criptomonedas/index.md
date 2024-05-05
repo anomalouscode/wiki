@@ -103,7 +103,7 @@ Recuerden hacer backup de sus claves privadas.
 
 #### Hardware wallets
 
-- [Trezor](https://trezor.io/)
+- [Trezor](hthtps://trezor.io/)
 - [Ledger](https://www.ledger.com/)
 
 ### Dapps
@@ -126,18 +126,9 @@ Recuerden hacer backup de sus claves privadas.
 - [Kraken](https://www.kraken.com/) ⚡🛡️
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
 - [Binance](https://www.binance.com/) ⚡🛡️
-- [FixedFloat](https://fixedfloat.com/) ⚡🛡️🥷🏻
-- [Changelly](https://changelly.com/) 🛡️🥷🏻
-- [SideShift.ai](https://sideshift.ai/) ⚡🛡️🥷🏻
-- [Flyp.me](https://flyp.me/) ⚡🛡️🥷🏻
-- [Coinbase Pro](https://pro.coinbase.com/)
+- [Coinbase](https://coinbase.com/)
 - [Gemini](https://gemini.com/)
 - [Bitstamp](https://www.bitstamp.net/)
-- [OKCoin](https://www.okcoin.com/) ⚡
-- [OKX](https://www.okx.com/) ⚡🛡️
-- [UnstoppableSwap](https://unstoppableswap.net/) 🛡️🥷🏻
-- [ShapeShift](https://shapeshift.com/) 🥷🏻
-- [THORSwap](https://thorswap.finance/) 🥷🏻
 
 ### Gift Cards
 
@@ -145,6 +136,7 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Debit Cards
 
+- [Offramp](https://www.offramp.xyz/)
 - [Moon](https://paywithmoon.com/)
 
 ### Procesadores de pago
