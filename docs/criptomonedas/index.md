@@ -136,6 +136,7 @@ Recuerden hacer backup de sus claves privadas.
 
 - [Offramp](https://www.offramp.xyz/)
 - [Moon](https://paywithmoon.com/)
+- [SolCard](https://www.solcard.cc/)
 
 ### Procesadores de pago
 
