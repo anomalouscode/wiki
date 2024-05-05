@@ -124,7 +124,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Kraken](https://www.kraken.com/) ⚡🛡️
 - [Bitfinex](https://www.bitfinex.com/) ⚡🛡️
 - [Binance](https://www.binance.com/) ⚡🛡️
-- [Coinbase](https://coinbase.com/)
+- [Coinbase](https://coinbase.com/) ⚡
 - [Gemini](https://gemini.com/)
 - [Bitstamp](https://www.bitstamp.net/)
 
@@ -171,8 +171,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Kraken](https://www.kraken.com/) ⚡🛡️
 - [Gemini](https://gemini.com/)
 - [Crypto.com](https://crypto.com/)
-- [OKCoin](https://www.okcoin.com/) ⚡
-- [Coinbase](https://www.coinbase.com/)
+- [Coinbase](https://www.coinbase.com/) ⚡
 - [Circle](https://www.circle.com/)
 - [Nexo](https://nexo.com/)
 - [Bity](https://bity.com/)
@@ -192,8 +191,7 @@ Recuerden hacer backup de sus claves privadas.
 - [Strike](https://strike.me/) ⚡
 - [River Financial](https://river.com/) ⚡
 - [Gemini](https://gemini.com/)
-- [OKCoin](https://www.okcoin.com/) ⚡
-- [Coinbase](https://www.coinbase.com/)
+- [Coinbase](https://www.coinbase.com/) ⚡
 - [Binance.US](https://www.binance.us/)
 - [Crypto.com](https://crypto.com/)
 - [Circle](https://www.circle.com/)
