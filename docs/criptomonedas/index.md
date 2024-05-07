@@ -73,6 +73,8 @@ Recuerden hacer backup de sus claves privadas.
 
 - [LlamaSwap](https://swap.defillama.com/)
 - [Balmy](https://app.balmy.xyz/)
+- [Bungee](https://www.bungee.exchange/)
+- [Jumper](https://jumper.exchange/)
 - [Curve](https://curve.fi/)
 - [Uniswap](https://app.uniswap.org/)
 - [Paraswap](https://app.paraswap.io/)
