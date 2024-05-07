@@ -45,20 +45,21 @@ Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la pr
 
 También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
 
-## Ethereum
+## Ethereum/EVM
 
 ### Wallets
 
 Recuerden hacer backup de sus claves privadas.
 
 📖 = Es open source
+🌱 = Soporta RSK
 
-- [Rabby](https://rabby.io/) (Chrome/Brave) 📖
+- [Rabby](https://rabby.io/) (Chrome/Brave) 📖🌱
 - [Rainbow](https://rainbow.me/) (Android/iOS/Chrome/Brave/Firefox) 📖
 - [Phantom](https://phantom.app/) (Android/iOS/Chrome/Brave/Firefox) 📖
 - [Zerion](https://zerion.io/) (Android/iOS/Mac/Chrome/Brave) 📖
-- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖
-- [Liquality](https://liquality.io/) (Chrome/Brave) 📖
+- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖🌱
+- [Liquality](https://liquality.io/) (Chrome/Brave) 📖🌱
 
 #### Guardar montos grandes
 
@@ -71,8 +72,10 @@ Recuerden hacer backup de sus claves privadas.
 
 ### Dapps
 
+🌱 = Soporta RSK
+
 - [LlamaSwap](https://swap.defillama.com/)
-- [Balmy](https://app.balmy.xyz/)
+- [Balmy](https://app.balmy.xyz/) 🌱
 - [Bungee](https://www.bungee.exchange/)
 - [Jumper](https://jumper.exchange/)
 - [Curve](https://curve.fi/)
@@ -87,33 +90,9 @@ Recuerden hacer backup de sus claves privadas.
 - [Yearn](https://yearn.finance/)
 - [DeFi Saver](https://app.defisaver.com/)
 - [Instadapp](https://defi.instadapp.io/)
-
-## RSK
-
-Sidechain de Bitcoin con DeFi y otros smart contracts.
-
-### Wallets
-
-Recuerden hacer backup de sus claves privadas.
-
-📖 = Es open source
-
-- [Rabby](https://rabby.io/) (Chrome/Brave) 📖
-- [Defiant](https://defiantapp.tech/) (Android/iOS)
-- [Liquality](https://liquality.io/) (Chrome/Brave) 📖
-- [MetaMask](https://metamask.io/) (Android/iOS/Chrome/Brave/Firefox) 📖 [Agregar RSK a MetaMask](https://metamask-landing.rifos.org/), [más info](https://developers.rsk.co/wallet/use/metamask/)
-
-#### Hardware wallets
-
-- [Trezor](https://trezor.io/)
-- [Ledger](https://www.ledger.com/)
-
-### Dapps
-
-- [Money On Chain](https://moneyonchain.com/)
-- [Sovryn](https://sovryn.app/)
-- [Balmy](https://app.balmy.xyz/)
-- [Symbiosis](https://app.symbiosis.finance/)
+- [Money On Chain](https://moneyonchain.com/) 🌱
+- [Sovryn](https://sovryn.app/) 🌱
+- [Symbiosis](https://app.symbiosis.finance/) 🌱
 
 ## Servicios globales
 
