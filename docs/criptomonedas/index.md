@@ -52,6 +52,7 @@ También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](
 Recuerden hacer backup de sus claves privadas.
 
 📖 = Es open source
+
 🌱 = Soporta RSK
 
 - [Rabby](https://rabby.io/) (Chrome/Brave) 📖🌱
