@@ -86,6 +86,7 @@ Recuerden hacer backup de sus claves privadas.
 - [1inch](https://app.1inch.io/)
 - [CoW Swap](https://swap.cow.fi/)
 - [Aave](https://app.aave.com/)
+- [Exactly](https://app.exact.ly/)
 - [Compound](https://app.compound.finance/)
 - [Beefy](https://app.beefy.com/)
 - [Yearn](https://yearn.finance/)
