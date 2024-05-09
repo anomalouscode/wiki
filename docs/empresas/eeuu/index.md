@@ -18,7 +18,9 @@ Las LLC son consideradas "Pass-Through Entities", es decir que los impuestos a l
 
 Las LLC de un solo miembro son consideradas "disregarded entities" y si el dueño es local no requiere una declaración separada de impuestos, si el dueño es extranjero debe reportar información como si se tratara de una corporación con dueño extranjero, por lo que debe enviar anualmente el Form 5472, reportando transacciones entre la LLC y el dueño, y el Form 1120 a la IRS (estado federal), aunque no es necesario completarlo en su totalidad si no hay ingresos generados desde Estados Unidos (pro forma), ni se deben pagar impuestos como una corporación.
 
-Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde Estados Unidos, se puede enviar prácticamente vacío (pro forma).
+Las LLC con múltiples miembros son consideras "partnerships" y deben enviar el Form 1065, sean locales o extranjeros. En caso de extranjeros sin ingresos generados desde Estados Unidos, se puede enviar prácticamente vacío (pro forma). 
+
+Recomendamos hacer una LLC con 2 miembros o más por ser mas faciles de manejar y tener la posibilidad de reducir costos entre varias personas.
 
 ### Corporaciones
 
@@ -89,6 +91,8 @@ Mantenimiento anual (desde el segundo año): desde 225 dólares para el estado, 
 ### Wyoming
 
 > Recomendado para ganancias mínimas de 1000 dólares mensuales.
+
+> Nuestro estado favorito en general.
 
 Reconocido por sus LLCs y conocido como el estado cowboy, Wyoming es de hecho el estado donde se inventó este tipo de entidad legal en el año 1977, influyendo durante décadas a todo el resto del país. Además es frecuentemente considerado el estado más amigable con los negocios y suele ser innovador en sus regulaciones y estar al día de las demandas del mercado, como sus recientes leyes referidas a esclarecer lo referido a la industria blockchain.
 
@@ -206,9 +210,9 @@ Es un banco digital enfocado en empresas de tecnología y comercio electrónico 
 
 Como suplemento a los bancos podemos usar servicios que nos proveen cuentas virtuales para recibir pagos.
 
-### [TransferWise](https://transferwise.com/)
+### [Wise](https://wise.com/)
 
-Nos ofrecen gratuitamente cuentas virtuales de Europa, Estados Unidos, Reino Unido, Polonia, Australia, Nueva Zelanda y Singapur. En caso de que los miembros de la empresa residan en un país con limitaciones de TransferWise en cuentas virtuales de algunos países, esas limitaciones se aplicaran también a la empresa independientemente de donde esté incorporada, por ejemplo, si como Argentino TransferWise no te da una cuenta virtual en Estados Unidos, tu empresa solo podrá recibir transferencias en la cuenta de Estados Unidos si provienen de una cuenta bancaria a nombre de la propia empresa y no de terceros, teniendo que usar una cuenta bancaria real como la de Mercury para recibir en ese país.
+Nos ofrecen gratuitamente cuentas virtuales de Europa, Estados Unidos, Reino Unido, Polonia, Australia, Nueva Zelanda y Singapur. En caso de que los miembros de la empresa residan en un país con limitaciones de Wise en cuentas virtuales de algunos países, esas limitaciones se aplicaran también a la empresa independientemente de donde esté incorporada, por ejemplo, si como Argentino Wise no te da una cuenta virtual en Estados Unidos, tu empresa solo podrá recibir transferencias en la cuenta de Estados Unidos si provienen de una cuenta bancaria a nombre de la propia empresa y no de terceros, teniendo que usar una cuenta bancaria real como la de Mercury para recibir en ese país.
 
 ## Procesadores de pago
 
@@ -247,10 +251,9 @@ Servicios para comprar y vender criptomonedas como empresa.
 🛡️ = Soporta Monero
 
 - [Kraken](https://www.kraken.com/en-us/institutions) ⚡🛡️
-- [Gemini](https://www.gemini.com/institutions)
-- [OKCoin](https://www.okcoin.com/) ⚡
-- [Coinbase Prime](https://www.coinbase.com/prime)
-- [Circle](https://www.circle.com/) (no funciona con Mercury porque utilizan un banco intermediario para enviar wires, no pudiendo completar la verificación de la cuenta bancaria)
+- [Circle](https://www.circle.com/)
+- [Gemini](https://www.gemini.com/)
+- [Coinbase](https://www.coinbase.com/) ⚡
 
 ## Servicios útiles
 
@@ -261,12 +264,6 @@ Variedad de servicios para controlar toda la empresa desde internet.
 Para enviar cartas desde internet, útil para enviar formularios a organismos estatales.
 
 - [Mailform](https://www.mailform.io/)
-
-### Números virtuales
-
-En algunos casos probablemente necesitemos un número de Estados Unidos para usar un servicio o tener un número de trabajo aparte.
-
-- [2ndLine](https://www.2ndline.co/)
 
 ### Fax online
 
