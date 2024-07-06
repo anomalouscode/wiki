@@ -27,7 +27,7 @@ title: Inicio
 
 - [Debian Stable](https://debian.org/)
 
-### Actualizaciones continuas (rolling release)
+### Actualizaciones continuas (Rolling release)
 
 - [Arch Linux](https://archlinux.org/)
 - [EndeavourOS](https://endeavouros.com/) (Basada en Arch)
