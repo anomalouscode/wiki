@@ -8,7 +8,7 @@ title: Inicio
 
 ### Balanceadas
 
-- [Ubuntu LTS](https://ubuntu.com/download/desktop) (Basado en Debian Testing)
+- [Ubuntu LTS](https://ubuntu.com/desktop) (Basado en Debian Testing)
 - [Linux Mint](https://linuxmint.com/) (Basado en Ubuntu LTS)
 - [Zorin OS Core](https://zorin.com/os/) (Basado en Ubuntu LTS)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu LTS)
@@ -22,7 +22,7 @@ title: Inicio
 
 ### Actualizaciones mínimas
 
-- [Debian Stable](https://www.debian.org/)
+- [Debian Stable](https://debian.org/)
 - [Rocky Linux](https://rockylinux.org/) (Basado en RHEL)
 
 ### Avanzado
