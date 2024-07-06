@@ -19,6 +19,7 @@ title: Inicio
 
 - [Fedora Workstation](https://fedoraproject.org/workstation/)
 - [Fedora Spins](https://fedoraproject.org/spins/)
+- [Nobara](https://nobaraproject.org/)
 
 ### Actualizaciones mínimas
 
