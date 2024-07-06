@@ -10,7 +10,7 @@ title: Inicio
 
 - [Ubuntu LTS](https://ubuntu.com/download/desktop) (Basado en Debian)
 - [Linux Mint](https://linuxmint.com/) (Basado en Ubuntu)
-- [Zoring OS Core](https://zorin.com/os/) (Basado en Ubuntu)
+- [Zorin OS Core](https://zorin.com/os/) (Basado en Ubuntu)
 - [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
 - [Tuxedo OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) (Basado en Ubuntu)
 
