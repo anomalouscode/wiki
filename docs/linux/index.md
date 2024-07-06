@@ -8,11 +8,11 @@ title: Inicio
 
 ### Balanceadas
 
-- [Ubuntu LTS](https://ubuntu.com/download/desktop) (Basado en Debian)
-- [Linux Mint](https://linuxmint.com/) (Basado en Ubuntu)
-- [Zorin OS Core](https://zorin.com/os/) (Basado en Ubuntu)
-- [Pop OS](https://pop.system76.com/) (Basado en Ubuntu)
-- [Tuxedo OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) (Basado en Ubuntu)
+- [Ubuntu LTS](https://ubuntu.com/download/desktop) (Basado en Debian Testing)
+- [Linux Mint](https://linuxmint.com/) (Basado en Ubuntu LTS)
+- [Zorin OS Core](https://zorin.com/os/) (Basado en Ubuntu LTS)
+- [Pop OS](https://pop.system76.com/) (Basado en Ubuntu LTS)
+- [Tuxedo OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) (Basado en Ubuntu LTS)
 
 ### Software más nuevo, último soporte de hardware
 
@@ -21,7 +21,7 @@ title: Inicio
 
 ### Actualizaciones mínimas
 
-- [Debian](https://www.debian.org/)
+- [Debian Stable](https://www.debian.org/)
 - [Rocky Linux](https://rockylinux.org/) (Basado en RHEL)
 
 ### Avanzado
