@@ -35,4 +35,5 @@ Todavia basadas en Ubuntu 22.04:
 ### Actualizaciones continuas (Rolling release)
 
 - [Arch Linux](https://archlinux.org/)
+- [Garuda Linux](https://garudalinux.org/) (Basada en Arch)
 - [EndeavourOS](https://endeavouros.com/) (Basada en Arch)
