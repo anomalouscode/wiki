@@ -36,4 +36,5 @@ Todavia basadas en Ubuntu 22.04:
 
 - [Arch Linux](https://archlinux.org/)
 - [Garuda Linux](https://garudalinux.org/) (Basada en Arch)
+- [CachyOS](https://cachyos.org/) (Basada en Arch)
 - [EndeavourOS](https://endeavouros.com/) (Basada en Arch)
