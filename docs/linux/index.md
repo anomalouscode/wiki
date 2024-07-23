@@ -31,6 +31,7 @@ Todavia basadas en Ubuntu 22.04:
 ### Actualizaciones completas cada 2 años
 
 - [Debian Stable](https://debian.org/)
+- [LMDE](https://linuxmint.com/download_lmde.php) (Basada en Debian Stable)
 
 ### Actualizaciones continuas (Rolling release)
 
