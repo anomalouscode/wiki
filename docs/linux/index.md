@@ -9,15 +9,14 @@ title: Inicio
 ### Actualizaciones del Kernel (HWE) cada 6 meses, actualizaciones completas cada 2 años
 
 - [Ubuntu 24.04 LTS](https://ubuntu.com/desktop)
+- [Linux Mint 22](https://mirrors.cicku.me/linuxmint/iso/stable/22/) (Basada en Ubuntu LTS)
 - [Kubuntu 24.04 LTS](https://kubuntu.org/)
-- [Xubuntu 24.04 LTS](https://xubuntu.org/)
 - [Lubuntu 24.04 LTS](https://lubuntu.me/)
 
 Todavia basadas en Ubuntu 22.04:
 
-- [Linux Mint](https://linuxmint.com/) (Basada en Ubuntu LTS)
-- [Zorin OS Core](https://zorin.com/os/) (Basada en Ubuntu LTS)
 - [Pop OS](https://pop.system76.com/) (Basada en Ubuntu LTS)
+- [Zorin OS Core](https://zorin.com/os/) (Basada en Ubuntu LTS)
 - [Tuxedo OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) (Basada en Ubuntu LTS)
 
 ### Actualizaciones completas cada 6 meses
