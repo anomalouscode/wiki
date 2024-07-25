@@ -9,7 +9,7 @@ title: Inicio
 ### Actualizaciones del Kernel (HWE) cada 6 meses, actualizaciones completas cada 2 años
 
 - [Ubuntu 24.04 LTS](https://ubuntu.com/desktop)
-- [Linux Mint 22](https://mirrors.cicku.me/linuxmint/iso/stable/22/) (Basada en Ubuntu LTS)
+- [Linux Mint](https://www.linuxmint.com/) (Basada en Ubuntu LTS)
 - [Kubuntu 24.04 LTS](https://kubuntu.org/)
 - [Lubuntu 24.04 LTS](https://lubuntu.me/)
 
