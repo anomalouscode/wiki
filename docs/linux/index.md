@@ -6,6 +6,11 @@ title: Inicio
 
 ## Linux
 
+### Actualizaciones completas cada 2 años
+
+- [Debian Stable](https://debian.org/)
+- [LMDE](https://linuxmint.com/download_lmde.php) (Basada en Debian Stable)
+
 ### Actualizaciones del Kernel (HWE) cada 6 meses, actualizaciones completas cada 2 años
 
 - [Ubuntu LTS](https://ubuntu.com/desktop)
@@ -26,11 +31,8 @@ Todavia basadas en Ubuntu 22.04:
 - [Nobara](https://nobaraproject.org/) (Basada en Fedora)
 - [Fedora Atomic](https://fedoraproject.org/atomic-desktops/)
 - [Bazzite](https://bazzite.gg/) (Basada en Fedora Atomic)
-
-### Actualizaciones completas cada 2 años
-
-- [Debian Stable](https://debian.org/)
-- [LMDE](https://linuxmint.com/download_lmde.php) (Basada en Debian Stable)
+- [Bluefin](https://projectbluefin.io/) (Basada en Fedora Atomic)
+- [Aurora](https://getaurora.dev/) (Basada en Fedora Atomic)
 
 ### Actualizaciones continuas (Rolling release)
 
