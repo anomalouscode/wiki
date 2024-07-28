@@ -12,6 +12,7 @@ title: Inicio
 - [LMDE](https://linuxmint.com/download_lmde.php) (Basada en Debian Stable)
 - [MX Linux](https://mxlinux.org/) (Basada en Debian Stable)
 - [Q4OS](https://q4os.org/) (Basada en Debian Stable)
+- [antiX](https://antixlinux.com/) (Basada en Debian Stable)
 
 ### Actualizaciones del Kernel (HWE) cada 6 meses, actualizaciones completas cada 2 años
 
