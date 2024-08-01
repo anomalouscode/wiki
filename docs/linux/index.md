@@ -38,3 +38,4 @@ title: Inicio
 - [CachyOS](https://cachyos.org/) (Basada en Arch)
 - [Garuda Linux](https://garudalinux.org/) (Basada en Arch)
 - [EndeavourOS](https://endeavouros.com/) (Basada en Arch)
+- [Vanilla OS](https://vanillaos.org/) (Basada en Debian Sid)
