@@ -22,12 +22,6 @@ title: Inicio
 - [Kubuntu LTS](https://kubuntu.org/)
 - [Lubuntu LTS](https://lubuntu.me/)
 
-Todavia basadas en Ubuntu 22.04:
-
-- [Pop OS](https://pop.system76.com/) (Basada en Ubuntu LTS)
-- [Zorin OS Core](https://zorin.com/os/) (Basada en Ubuntu LTS)
-- [Tuxedo OS](https://www.tuxedocomputers.com/en/TUXEDO-OS_1.tuxedo) (Basada en Ubuntu LTS)
-
 ### Actualizaciones completas cada 6 meses
 
 - [Fedora Workstation](https://fedoraproject.org/workstation/)
