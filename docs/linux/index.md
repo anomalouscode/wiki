@@ -27,10 +27,6 @@ title: Inicio
 - [Fedora Workstation](https://fedoraproject.org/workstation/)
 - [Fedora Spins](https://fedoraproject.org/spins/)
 - [Nobara](https://nobaraproject.org/) (Basada en Fedora)
-- [Fedora Atomic](https://fedoraproject.org/atomic-desktops/)
-- [Bazzite](https://bazzite.gg/) (Basada en Fedora Atomic)
-- [Bluefin](https://projectbluefin.io/) (Basada en Fedora Atomic)
-- [Aurora](https://getaurora.dev/) (Basada en Fedora Atomic)
 
 ### Actualizaciones continuas (Rolling release)
 
@@ -38,4 +34,10 @@ title: Inicio
 - [CachyOS](https://cachyos.org/) (Basada en Arch)
 - [Garuda Linux](https://garudalinux.org/) (Basada en Arch)
 - [EndeavourOS](https://endeavouros.com/) (Basada en Arch)
+
+### Inmutables
+- [Fedora Atomic](https://fedoraproject.org/atomic-desktops/)
+- [Bazzite](https://bazzite.gg/) (Basada en Fedora Atomic)
+- [Bluefin](https://projectbluefin.io/) (Basada en Fedora Atomic)
+- [Aurora](https://getaurora.dev/) (Basada en Fedora Atomic)
 - [Vanilla OS](https://vanillaos.org/) (Basada en Debian Sid)
