@@ -9,9 +9,10 @@ title: Inicio
 ### Actualizaciones completas cada 2 años
 
 - [Debian Stable](https://debian.org/)
+- [SpiralLinux](https://spirallinux.github.io/) (Basada en Debian Stable)
 - [LMDE](https://linuxmint.com/download_lmde.php) (Basada en Debian Stable)
 - [MX Linux](https://mxlinux.org/) (Basada en Debian Stable)
-- [Sparky](https://sparkylinux.org/) (Basada en Debian Stable y Testing)
+- [SparkyLinux](https://sparkylinux.org/) (Basada en Debian Stable y Testing)
 - [Q4OS](https://q4os.org/) (Basada en Debian Stable)
 - [antiX](https://antixlinux.com/) (Basada en Debian Stable)
 
