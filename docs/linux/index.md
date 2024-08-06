@@ -23,6 +23,9 @@ title: Inicio
 - [Kubuntu LTS](https://kubuntu.org/)
 - [Lubuntu LTS](https://lubuntu.me/)
 
+- [Pop!_OS](https://pop.system76.com/)
+- [Zorin OS](https://zorin.com/os/)
+
 ### Actualizaciones completas cada 6 meses
 
 - [Fedora Workstation](https://fedoraproject.org/workstation/)
