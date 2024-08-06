@@ -20,11 +20,9 @@ title: Inicio
 
 - [Ubuntu LTS](https://ubuntu.com/desktop)
 - [Linux Mint](https://linuxmint.com/) (Basada en Ubuntu LTS)
-- [Kubuntu LTS](https://kubuntu.org/)
-- [Lubuntu LTS](https://lubuntu.me/)
-
-- [Pop!_OS](https://pop.system76.com/)
-- [Zorin OS](https://zorin.com/os/)
+- [Kubuntu LTS](https://kubuntu.org/) (Basada en Ubuntu LTS)
+- [Pop!_OS](https://pop.system76.com/) (Basada en Ubuntu 22.04)
+- [Zorin OS](https://zorin.com/os/) (Basada en Ubuntu 22.04)
 
 ### Actualizaciones completas cada 6 meses
 
