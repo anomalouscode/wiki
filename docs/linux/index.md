@@ -8,38 +8,54 @@ title: Inicio
 
 ### Actualizaciones completas cada 2 años
 
-- [Debian Stable](https://debian.org/)
-- [SpiralLinux](https://spirallinux.github.io/) (Basada en Debian Stable)
-- [LMDE](https://linuxmint.com/download_lmde.php) (Basada en Debian Stable)
-- [MX Linux](https://mxlinux.org/) (Basada en Debian Stable)
-- [SparkyLinux](https://sparkylinux.org/) (Basada en Debian Stable y Testing)
-- [Q4OS](https://q4os.org/) (Basada en Debian Stable)
-- [antiX](https://antixlinux.com/) (Basada en Debian Stable)
+- [Debian](https://debian.org/)
+
+Basadas en Debian:
+
+- [antiX](https://antixlinux.com/)
+- [LMDE](https://linuxmint.com/download_lmde.php)
+- [MX Linux](https://mxlinux.org/)
+- [Q4OS](https://q4os.org/)
+- [SparkyLinux](https://sparkylinux.org/)
+- [SpiralLinux](https://spirallinux.github.io/)
 
 ### Actualizaciones del Kernel (HWE) cada 6 meses, actualizaciones completas cada 2 años
 
 - [Ubuntu LTS](https://ubuntu.com/desktop)
-- [Linux Mint](https://linuxmint.com/) (Basada en Ubuntu LTS)
-- [Kubuntu LTS](https://kubuntu.org/) (Basada en Ubuntu LTS)
-- [Pop!_OS](https://pop.system76.com/) (Basada en Ubuntu 22.04)
-- [Zorin OS](https://zorin.com/os/) (Basada en Ubuntu 22.04)
+
+Basadas en Ubuntu LTS:
+
+- [Kubuntu LTS](https://kubuntu.org/)
+- [Linux Mint](https://linuxmint.com/)
+- [Pop!_OS](https://pop.system76.com/)
+- [Zorin OS](https://zorin.com/os/)
 
 ### Actualizaciones completas cada 6 meses
 
 - [Fedora Workstation](https://fedoraproject.org/workstation/)
 - [Fedora Spins](https://fedoraproject.org/spins/)
-- [Nobara](https://nobaraproject.org/) (Basada en Fedora)
+
+Basadas en Fedora:
+
+- [Nobara](https://nobaraproject.org/)
 
 ### Actualizaciones continuas (Rolling release)
 
 - [Arch Linux](https://archlinux.org/)
-- [CachyOS](https://cachyos.org/) (Basada en Arch)
-- [Garuda Linux](https://garudalinux.org/) (Basada en Arch)
-- [EndeavourOS](https://endeavouros.com/) (Basada en Arch)
+
+Basadas en Arch:
+
+- [CachyOS](https://cachyos.org/)
+- [EndeavourOS](https://endeavouros.com/)
+- [Garuda Linux](https://garudalinux.org/)
+- [Manjaro](https://manjaro.org/)
 
 ### Inmutables
+
 - [Fedora Atomic](https://fedoraproject.org/atomic-desktops/)
-- [Bazzite](https://bazzite.gg/) (Basada en Fedora Atomic)
-- [Bluefin](https://projectbluefin.io/) (Basada en Fedora Atomic)
-- [Aurora](https://getaurora.dev/) (Basada en Fedora Atomic)
-- [Vanilla OS](https://vanillaos.org/) (Basada en Debian Sid)
+
+Basadas en Fedora Atomic:
+
+- [Aurora](https://getaurora.dev/)
+- [Bazzite](https://bazzite.gg/)
+- [Bluefin](https://projectbluefin.io/)
