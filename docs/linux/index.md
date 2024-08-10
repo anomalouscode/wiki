@@ -38,6 +38,7 @@ Basadas en Ubuntu LTS:
 Basadas en Fedora:
 
 - [Nobara](https://nobaraproject.org/)
+- [Ultramarine](https://ultramarine-linux.org/)
 
 ### Actualizaciones continuas (Rolling release)
 
