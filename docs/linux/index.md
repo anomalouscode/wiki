@@ -12,9 +12,7 @@ title: Inicio
 
 Basadas en Debian:
 
-- [antiX](https://antixlinux.com/)
 - [LMDE](https://linuxmint.com/download_lmde.php)
-- [MX Linux](https://mxlinux.org/)
 - [Q4OS](https://q4os.org/)
 - [SparkyLinux](https://sparkylinux.org/)
 - [SpiralLinux](https://spirallinux.github.io/)
