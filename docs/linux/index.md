@@ -14,8 +14,6 @@ Basadas en Debian:
 
 - [LMDE](https://linuxmint.com/download_lmde.php)
 - [Q4OS](https://q4os.org/)
-- [SparkyLinux](https://sparkylinux.org/)
-- [SpiralLinux](https://spirallinux.github.io/)
 
 ### Actualizaciones del Kernel (HWE) cada 6 meses, actualizaciones completas cada 2 años
 
@@ -47,7 +45,6 @@ Basadas en Arch:
 - [CachyOS](https://cachyos.org/)
 - [EndeavourOS](https://endeavouros.com/)
 - [Garuda Linux](https://garudalinux.org/)
-- [Manjaro](https://manjaro.org/)
 
 ### Inmutables
 
