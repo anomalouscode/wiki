@@ -22,6 +22,7 @@ Basadas en Debian:
 Basadas en Ubuntu LTS:
 
 - [Kubuntu LTS](https://kubuntu.org/)
+- [Kubuntu Focus](https://kfocus.org/try/)
 - [Linux Mint](https://linuxmint.com/)
 - [Pop!_OS](https://pop.system76.com/)
 - [Zorin OS](https://zorin.com/os/)
