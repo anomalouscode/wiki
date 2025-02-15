@@ -24,7 +24,8 @@ Basadas en Ubuntu LTS:
 - [Kubuntu LTS](https://kubuntu.org)
 - [Kubuntu Focus](https://kfocus.org/try)
 - [Linux Mint](https://linuxmint.com)
-- [Pop!_OS](https://pop.system76.com)
+- [Pop OS](https://pop.system76.com)
+- [Tuxedo OS](https://www.tuxedocomputers.com/os)
 - [Zorin OS](https://zorin.com/os)
 
 ### Actualizaciones completas cada 6 meses
@@ -35,6 +36,7 @@ Basadas en Ubuntu LTS:
 Basadas en Fedora:
 
 - [Nobara](https://nobaraproject.org)
+- [Ultramarine](https://ultramarine-linux.org)
 
 ### Actualizaciones continuas (Rolling release)
 
