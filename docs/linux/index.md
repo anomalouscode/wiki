@@ -13,6 +13,7 @@ title: Inicio
 Basadas en Debian:
 
 - [LMDE](https://linuxmint.com/download_lmde.php)
+- [MX Linux](https://mxlinux.org)
 - [Q4OS](https://q4os.org)
 
 ### Actualizaciones del Kernel (HWE) cada 6 meses, actualizaciones completas cada 2 años
@@ -47,6 +48,7 @@ Basadas en Arch:
 - [CachyOS](https://cachyos.org)
 - [EndeavourOS](https://endeavouros.com)
 - [Garuda Linux](https://garudalinux.org)
+- [SteamOS](https://help.steampowered.com/en/faqs/view/65B4-2AA3-5F37-4227)
 
 ### Inmutables
 
