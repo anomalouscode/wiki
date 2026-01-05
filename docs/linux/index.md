@@ -48,6 +48,7 @@ Basadas en Arch:
 - [CachyOS](https://cachyos.org)
 - [EndeavourOS](https://endeavouros.com)
 - [Garuda Linux](https://garudalinux.org)
+- [SteamOS](https://help.steampowered.com/en/faqs/view/65B4-2AA3-5F37-4227)
 
 ### Inmutables
 
