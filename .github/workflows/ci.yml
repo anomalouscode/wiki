@@ -1,26 +1,24 @@
-name: Publish docs via GitHub Pages
+name: PR validation
 
 on:
-  push:
+  pull_request:
     branches: [master]
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: wiki-pages-production
-  cancel-in-progress: false
+  group: ci-${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
-  build:
-    name: Deploy docs
+  validate:
+    name: Validate docs
     runs-on: ubuntu-26.04
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          fetch-depth: 0
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: "3.13"
@@ -29,8 +27,5 @@ jobs:
           node-version: "24"
       - name: Install locked documentation dependencies
         run: python -m pip install --require-hashes -r .github/requirements-ci.txt
-      - name: Deploy validated documentation
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          mkdocs gh-deploy --strict --force
+      - name: Build documentation with strict validation
+        run: mkdocs build --strict
