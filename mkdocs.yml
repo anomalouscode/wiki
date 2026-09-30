@@ -15,6 +15,7 @@ theme:
     - tabs
     - search.highlight
 plugins:
-  - search:
+  # Select MkDocs search explicitly to retain the prebuilt Spanish index.
+  - /search:
       lang: es
       prebuild_index: true
