@@ -29,3 +29,18 @@ jobs:
         run: python -m pip install --require-hashes -r .github/requirements-ci.txt
       - name: Build documentation with strict validation
         run: mkdocs build --strict
+
+  required-ci:
+    name: CI / Required
+    # Always report a result, including when a prerequisite failed or was skipped.
+    if: ${{ always() && github.event_name == 'pull_request' }}
+    needs:
+      - validate
+    runs-on: ubuntu-26.04
+    timeout-minutes: 5
+    permissions: {}
+    steps:
+      - name: Require every PR validation job to pass
+        env:
+          RESULTS: ${{ toJSON(needs.*.result) }}
+        run: jq --exit-status 'length > 0 and all(. != "failure" and . != "cancelled")' <<< "$RESULTS"
