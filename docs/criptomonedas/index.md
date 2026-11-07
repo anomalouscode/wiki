@@ -42,6 +42,7 @@ Podemos pagar con los Bitcoin de otro con Monero (criptomoneda enfocada en la pr
 - [KYCnot.me](https://kycnot.me/)
 - [Privacy Tools](https://www.privacytools.io/crypto)
 - [Monerica](https://monerica.com/#exchanges)
+- [XMRList](https://xmrlist.com/exchanges)
 
 También deberías usar [Tor Browser](https://www.torproject.org/) o [Tails OS](https://tails.boum.org/).
 
