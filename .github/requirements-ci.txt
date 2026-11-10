@@ -191,9 +191,9 @@ charset-normalizer==3.5.2 \
     --hash=sha256:fd1fbe0f116b6e55da77aca2c6ddcddcfac2186cbf78bdebf40fc156efca389d \
     --hash=sha256:fe9753dfee015c570d73df76f899f18444d41388bffcde097deba51c4fadbb9f
     # via requests
-click==8.5.0 \
-    --hash=sha256:255bc9599cf7748b4b1a446ccc735421bd08a2ae529a8b88597d3de5664ee360 \
-    --hash=sha256:ba0d2089de75ea0310e2dde03160e6ca10009947fb95a182f9b54021bb272e34
+click==8.5.1 \
+    --hash=sha256:8bb5376d2006950386f8c6427613334a2acadc5f559cb80e638d00b4df957e37 \
+    --hash=sha256:9bbfada76703fd1d784b83eea012e3e8c6a001a876543ef104fa56aaaeb072b4
     # via mkdocs
 colorama==0.4.6 \
     --hash=sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44 \
@@ -215,9 +215,9 @@ jinja2==3.1.6 \
     # via
     #   mkdocs
     #   mkdocs-material
-Markdown==3.11.2 \
-    --hash=sha256:87bf5d90f2d2882e2c02fcda182c2800456b985bff38913867c49706481514b0 \
-    --hash=sha256:f80390747a2a0ff2ba54da074ce4f862f72a6685f608cd2637b646a6d83993f5
+Markdown==3.11.3 \
+    --hash=sha256:81eb91631dc97ad1efbc76019ef0f80fe90ca49ddf81546752d79989c3bfff3e \
+    --hash=sha256:e1a31a112232504d753e5c01bb8c2de90d3f0ba986b063e10770cf7695b09e73
     # via
     #   mkdocs
     #   mkdocs-material
